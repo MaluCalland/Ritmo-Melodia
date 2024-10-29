@@ -1,0 +1,79 @@
+body{
+  background-color:rgb(50, 167, 50)
+}
+
+/* .flex-conteiner{
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+} */
+
+/* .flex-conteiner-home{
+  display: flex;
+  gap: 10px;
+} */
+
+.flex-item{
+  padding: 5px;
+  width: 130px;
+  height: 50px;
+  margin: 20px;
+  border: none;
+  background-color:rgb(94, 153, 255);
+  font-family: Garet;
+  font-size: larger;
+  border-radius: 50px; /* Borda arredondada */
+  cursor: pointer; /* Mão ao passar o mouse*/ 
+}
+
+.flex-item-home{
+  font-family: Garet;
+  font-size: larger;
+  cursor: pointer; /* Mão ao passar o mouse*/
+  margin: 10px;
+  padding: 0%;;
+}
+
+nav{
+  text-align: center;
+}
+
+.faixaInicial{
+  background-color:rgb(255, 234, 4);
+  border-radius: 50px;
+  margin: 20px;
+  height: 120px;
+  padding: 10px;
+}
+
+.tituloHome{
+  text-align: center;
+  font-family: Chewy;
+}
+
+.subtituloHome{
+  text-align: center;
+  font-family: Garet;
+}
+
+.barraPesquisa {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.inputPesquisa {
+  padding: 10px;
+  width: 300px; /* Ajuste o tamanho conforme necessário */
+}
+
+.enviarPequisa{
+  padding: 10px;
+  margin-left: 5px;
+  background-color:rgb(100, 168, 223);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
