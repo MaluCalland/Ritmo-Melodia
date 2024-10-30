@@ -6,7 +6,7 @@ import '../../css/Musicas.css';
 const MPB = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos da Música MPB</h1>
+      <h1>Alguns dos Artistas Mais Famosos da MPB</h1>
 
       <div> 
         <h2 className="cantores">Caetano Veloso</h2>

@@ -5,7 +5,7 @@ import '../../css/Musicas.css'
 const Axe = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Axé</h1>
+      <h1>Alguns dos Artistas Mais Famosos do Axé</h1>
 
       <div> 
         <h2 className="cantores">Ivete Sangalo</h2>

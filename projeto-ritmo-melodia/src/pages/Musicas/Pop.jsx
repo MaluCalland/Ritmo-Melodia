@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Pop = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Funk</h1>
+      <h1>Alguns dos Artistas Mais Famosos do Pop</h1>
 
       <div> 
         <h2 className="cantores">Marília Mendonça</h2>
