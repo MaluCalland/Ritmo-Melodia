@@ -74,22 +74,22 @@ const Pagode = () => {
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Grupo Revelação incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>"Ao Vivo No Morro 2" (2010) – O álbum ao vivo trouxe uma série de sucessos e consolidou a fama do grupo.</li>
+          <li>"360º Ao Vivo" (2012) – Inclui hits como "Só Vai de Camarote" e "Ô, Queiroz".</li>
+          <li>"A Arte de Grupo Revelação (Ao Vivo)" (2015) – Traz canções como "Deixa Acontecer" e "Fala Baixinho (Shiii)".</li>
+          <li>"O Bom Samba Continua (Ao Vivo)" (2016 ) – Destaca-se com a música "Vai Buscar Sua Felicidade".</li>
           <li></li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>O Grupo Revelação é reconhecido por sua contribuição significativa ao pagode e à música popular brasileira. Suas letras poéticas e melodias cativantes ajudaram a popularizar o gênero, fazendo do pagode uma força dominante nas paradas de sucesso. Seu legado se reflete na influência que exercem sobre novos artistas e na forma como continuam a atrair fãs de todas as idades. Com uma carreira duradoura e uma vasta discografia, o Grupo Revelação permanece como uma referência no pagode, celebrando a alegria e o amor através de sua música.</p>
       </div>
       <div>
-        <h3> - Grupo Revelação</h3>
+        <h3> Deixa Acontecer / Coração Radiante / Compasso Do Amor - Grupo Revelação</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/c4XeTP11EI8"
+            title="Canção Deixa Acontecer / Coração Radiante / Compasso Do Amor"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
@@ -101,11 +101,11 @@ const Pagode = () => {
         <h3>História na Música</h3>
         <p>Ferrugem começou sua carreira profissional em 2013, lançando suas primeiras músicas e se apresentando em diversos eventos. Ele ganhou notoriedade por sua voz marcante e por suas letras que falam sobre amor e relacionamentos, conquistando uma base de fãs leal. Com uma mistura de pagode e influências de outros gêneros, Ferrugem se tornou um dos principais nomes do pagode romântico.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Ferrugem incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>"Prazer, Eu Sou Ferrugem" (2018): O álbum uma série de sucessos "O Som do Tambor", "Pirata e Tesouro" e "Eu Juro". </li>
+          <li>"Chão de Estrelas" (2019): Inclui hits como "Nesse Embalo", "Até Que Enfim" e "De Repente Vem Você (part. Belo)". </li>
+          <li>"Abre Alas" (2020): Traz canções como "Tristinha" e "Casa do Amor".</li>
           <li></li>
           <li></li>
         </ul>
