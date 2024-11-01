@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Samba = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Samba</h1>
+      <h1>Alguns dos Artistas Mais Famosos do Samba</h1>
 
       <div> 
         <h2 className="cantores">Marília Mendonça</h2>

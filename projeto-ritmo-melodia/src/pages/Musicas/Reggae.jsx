@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Reggae = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Reggae</h1>
+      <h1>Alguns dos Artistas Mais Famosos do Reggae</h1>
 
       <div> 
         <h2 className="cantores">Marília Mendonça</h2>
