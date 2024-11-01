@@ -43,7 +43,7 @@ const MPB = () => {
         <h3>História na Música</h3>
         <p>Milton começou sua carreira musical na década de 1960, lançando seu primeiro álbum, "Milton Nascimento", em 1969. Ele rapidamente ganhou reconhecimento por suas composições poéticas e melódicas. Durante os anos 70, tornou-se uma figura central na cena musical brasileira, especialmente com a introdução da música mineira no cenário nacional. Milton é associado ao Clube da Esquina, um movimento musical que surgiu em Minas Gerais e que misturava influências do jazz, rock e música folclórica brasileira. </p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Milton Nascimento incluem:</p>
         <ul>
           <li>"Clube da Esquina" (1972): Um marco na música brasileira, com clássicos como "Cravo e Canela" e "O Leãozinho".</li>
           <li>"Geraes" (1976): Inclui a famosa "Cais".</li>
@@ -72,7 +72,7 @@ const MPB = () => {
         <h3>História na Música</h3>
         <p>Jorge começou sua carreira na década de 1960, lançando seu primeiro álbum, "Samba Esquema Novo", em 1963. Sua música inovadora, que combina ritmos brasileiros com elementos do jazz e do rock, rapidamente conquistou o público. Jorge Ben Jor se destacou por sua habilidade em criar melodias cativantes e letras que falam sobre amor, cotidiano e a cultura brasileira. Nos anos 70, ele continuou a evoluir seu estilo, experimentando com diferentes sonoridades e colaborações. A partir de então, seu trabalho se tornou mais reconhecido internacionalmente, especialmente com o álbum "Africa Brasil". </p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Jorge Ben Jor incluem:</p>
         <ul>
           <li>"Samba Esquema Novo" (1963): Apresenta a famosa "Mas, Que Nada!".</li>
           <li>"Samba e Cia" (1965): Inclui "Chove Chuva".</li>
@@ -101,7 +101,7 @@ const MPB = () => {
         <h3>História na Música</h3>
         <p>Gil começou sua carreira na década de 1960, influenciado pelo samba, bossa nova e rock. Em 1967, ele lançou seu primeiro álbum, "Gilberto Gil", que já refletia sua abordagem inovadora. Junto com artistas como Caetano Veloso, Gil ajudou a fundar o tropicalismo, um movimento que misturava ritmos tradicionais brasileiros com influências internacionais. Em 1969, após o AI-5, Gil foi preso e exilado por sua posição política. Durante seu tempo em Londres, ele explorou novas influências musicais e colaborou com artistas internacionais. Ele retornou ao Brasil em 1972, onde continuou a criar músicas que mesclavam tradição e modernidade.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Gilberto Gil incluem:</p>
         <ul>
           <li>"Gilberto Gil" (1969): Com canções como "Aquele Abraço".</li>
           <li>"Tropicália ou Panis et Circenses" (1968): Uma obra fundamental do tropicalismo.</li>
@@ -130,7 +130,7 @@ const MPB = () => {
         <h3>História na Música</h3>
         <p>Djavan começou sua carreira na década de 1970, inicialmente em Maceió, onde se apresentou em festivais de música. Em 1976, lançou seu primeiro álbum, "Djavan", que rapidamente o colocou em evidência. Suas composições são marcadas por letras poéticas e melodias envolventes, refletindo suas influências musicais e sua experiência de vida. Nos anos seguintes, Djavan consolidou sua carreira com uma série de álbuns de sucesso e se tornou um dos principais nomes da música brasileira. Sua habilidade de fundir diferentes estilos e sua voz inconfundível o tornaram um artista respeitado tanto no Brasil quanto internacionalmente.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Djavan incluem:</p>
         <ul>
           <li>"Djavan" (1976): Com a famosa canção "Flor de Lis".</li>
           <li>"Alumbramento" (1980): Inclui hits como "Oceano" e "Sina".</li>
@@ -159,7 +159,7 @@ const MPB = () => {
         <h3>História na Música</h3>
         <p>Tim Maia passou parte de sua juventude nos Estados Unidos, onde teve contato com a música negra americana, influenciando profundamente seu estilo. Tim Maia começou sua carreira musical na década de 1960, após passar um tempo nos Estados Unidos, onde se influenciou pelo soul e funk. Retornando ao Brasil, lançou seu primeiro álbum, "Tim Maia" (1970), que o estabeleceu como uma figura central na música popular brasileira. Seu estilo era uma fusão de soul, rock e MPB, e suas letras frequentemente abordavam temas de amor e desamor. De volta ao Brasil, lançou seu primeiro disco em 1970, "Tim Maia", que incluía sucessos como "Você" e "Coronel Antonio Bento". Sua carreira foi marcada por altos e baixos, incluindo problemas pessoais e de saúde, mas ele continuou a produzir música influente até sua morte em 1998. Tim Maia é conhecido por suas letras emotivas e sua poderosa presença de palco, além de seu jeito autêntico e personalidade forte.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Tim Maia incluem:</p>
         <ul>
           <li>"Tim Maia" (1970): O álbum de estreia que apresentou hits como "Você" e "Coronel Antonio Bento".</li>
           <li>"Tim Maia - Volume 2" (1971): Inclui sucessos como "Gostava Tanto de Você" e "Me Dê Motivo".</li>
@@ -188,7 +188,7 @@ const MPB = () => {
         <h3>História na Música</h3>
         <p>Elis começou sua carreira na década de 1960, participando de festivais de música e se apresentando em programas de rádio. Em 1965, ela ganhou destaque ao vencer o Festival Internacional da Canção com a canção "Arrastão", de Edu Lobo e Vinicius de Moraes. Essa vitória a catapultou para o estrelato. Ao longo da sua carreira, Elis se tornou um símbolo da resistência cultural durante os anos da ditadura militar no Brasil, usando sua música para expressar sua indignação e sua luta por liberdade. Ela também colaborou com vários compositores renomados e participou de projetos inovadores.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Elis Regina incluem:</p>
         <ul>
           <li>"Elis e Tom" (1974): Uma colaboração com Tom Jobim, que apresenta clássicos como "Águas de Março".</li>
           <li>"Falso Brilhante" (1976): Inclui a famosa "Como Nossos Pais" de Belchior.</li>
@@ -217,7 +217,7 @@ const MPB = () => {
         <h3>História na Música</h3>
         <p>Roberto Carlos iniciou sua carreira musical nos anos 1960, se destacando como um dos principais nomes da Jovem Guarda, um movimento que mesclava rock, pop e música brasileira. Conhecido por seu estilo romântico e suas letras emotivas, rapidamente conquistou o público brasileiro. Com o passar das décadas, ele evoluiu musicalmente, explorando novos estilos e consolidando-se como um dos maiores ícones da música brasileira.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Roberto Carlos incluem:</p>
         <ul>
           <li>"Roberto Carlos" (1970): Inclui clássicos como "Detalhes" e "Como É Grande O Meu Amor Por Você".</li>
           <li>"Carlos, Roberto" (1974): Contém sucessos como "O Portão" e "Lady Laura".</li>
@@ -246,7 +246,7 @@ const MPB = () => {
         <h3>História na Música</h3>
         <p>Cássia começou sua carreira em 1990, quando lançou seu primeiro álbum, "Cássia Eller". Desde o início, seu estilo foi uma fusão de rock, pop e MPB, o que a tornou uma artista única. Sua interpretação intensa e suas letras profundas conquistaram um público fiel. Nos anos seguintes, Cássia lançou uma série de álbuns de sucesso, tornando-se um símbolo da música brasileira e atraindo fãs de diferentes gerações. Além de suas canções autorais, ela se destacou em suas interpretações de músicas de outros compositores, trazendo uma nova vida a clássicos da MPB.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Cássia Eller incluem:</p>
         <ul>
           <li>"Cássia Eller" (1990): Seu álbum de estreia, que inclui "Malandragem".</li>
           <li>"O Marginal" (1994): Com hits como "E.C.T." e "O Mundo é um Moinho".</li>

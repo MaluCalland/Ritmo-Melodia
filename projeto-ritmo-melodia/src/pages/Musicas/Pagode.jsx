@@ -1,13 +1,16 @@
 import React from 'react';
 
+
 import '../../css/Musicas.css';
+
 
 const Pagode = () => {
   return (
     <div>
       <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Pagode</h1>
 
-      <div> 
+
+      <div>
         <h2 className="cantores">Turma do Pagode</h2>
         <p>Turma do Pagode é um grupo brasileiro de pagode formado no início dos anos 2000, no Rio de Janeiro. Composto por amigos de longa data, o grupo se destacou por sua mistura de ritmos e letras que falam sobre amor, relacionamentos e a vida cotidiana. O Turma do Pagode rapidamente conquistou um espaço no cenário musical brasileiro, se tornando um dos representantes do pagode romântico.</p>
         <h3>História na Música</h3>
@@ -36,8 +39,8 @@ const Pagode = () => {
             allowFullScreen
           ></iframe>
       </div>
-      
-      <div> 
+     
+      <div>
         <h2 className="cantores"> Sorriso Maroto</h2>
         <p>Sorriso Maroto é um grupo brasileiro de pagode, formado em 1997, no Rio de Janeiro. A banda é composta por Bruno Cardoso (vocal), Robson Faria (percussão), Thiago Martins (cavaco), Júnior (pandeiro) e Ramilson Maia (violão). Desde sua formação, o grupo se destacou por suas letras românticas e seu estilo envolvente, rapidamente conquistando um grande público.</p>
         <h3>História na Música</h3>
@@ -66,7 +69,8 @@ const Pagode = () => {
           ></iframe>
       </div>
 
-      <div> 
+
+      <div>
         <h2 className="cantores">Grupo Revelação</h2>
         <p>Grupo Revelação é uma das mais renomadas bandas de pagode do Brasil, formada em 1991, no Rio de Janeiro. Composto por Xande de Pilares (vocal), César Camargo (cavaco), Diego (violão), Luizinho (pandeiro) e Edson (percussão), o grupo rapidamente se destacou na cena musical, tornando-se um dos principais representantes do pagode romântico.</p>
         <h3>História na Música</h3>
@@ -74,11 +78,11 @@ const Pagode = () => {
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Grupo Revelação incluem:</p>
         <ul>
-          <li>"Ao Vivo No Morro 2" (2010) – O álbum ao vivo trouxe uma série de sucessos e consolidou a fama do grupo.</li>
-          <li>"360º Ao Vivo" (2012) – Inclui hits como "Só Vai de Camarote" e "Ô, Queiroz".</li>
-          <li>"A Arte de Grupo Revelação (Ao Vivo)" (2015) – Traz canções como "Deixa Acontecer" e "Fala Baixinho (Shiii)".</li>
-          <li>"O Bom Samba Continua (Ao Vivo)" (2016 ) – Destaca-se com a música "Vai Buscar Sua Felicidade".</li>
-          <li></li>
+          <li>"Ao Vivo No Morro 2" (2010): O álbum ao vivo trouxe uma série de sucessos e consolidou a fama do grupo.</li>
+          <li>"360º Ao Vivo" (2012): Inclui hits como "Só Vai de Camarote" e "Ô, Queiroz".</li>
+          <li>"A Arte de Grupo Revelação (Ao Vivo)" (2015): Traz canções como "Deixa Acontecer" e "Fala Baixinho (Shiii)".</li>
+          <li>"O Bom Samba Continua (Ao Vivo)" (2016 ): Destaca-se com a música "Vai Buscar Sua Felicidade".</li>
+          <li>Algumas de suas músicas mais tocadas: "Tá Escrito", "Coração Radiante", "Velocidade da Luz", "Conselho", e "Só Vai de Camarote".</li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>O Grupo Revelação é reconhecido por sua contribuição significativa ao pagode e à música popular brasileira. Suas letras poéticas e melodias cativantes ajudaram a popularizar o gênero, fazendo do pagode uma força dominante nas paradas de sucesso. Seu legado se reflete na influência que exercem sobre novos artistas e na forma como continuam a atrair fãs de todas as idades. Com uma carreira duradoura e uma vasta discografia, o Grupo Revelação permanece como uma referência no pagode, celebrando a alegria e o amor através de sua música.</p>
@@ -95,7 +99,8 @@ const Pagode = () => {
           ></iframe>
       </div>
 
-      <div> 
+
+      <div>
         <h2 className="cantores">Ferrugem</h2>
         <p>Ferrugem, cujo nome verdadeiro é Jorge Luiz de D. Silva, nasceu em 14 de abril de 1991, na Baixada Fluminense, Rio de Janeiro, Brasil. Desde jovem, ele se interessou pela música, especialmente pelo pagode e pelo samba. Ferrugem começou a cantar em festas e eventos, e seu talento rapidamente o destacou na cena musical carioca.</p>
         <h3>História na Música</h3>
@@ -103,115 +108,117 @@ const Pagode = () => {
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Ferrugem incluem:</p>
         <ul>
-          <li>"Prazer, Eu Sou Ferrugem" (2018): O álbum uma série de sucessos "O Som do Tambor", "Pirata e Tesouro" e "Eu Juro". </li>
+          <li>"Prazer, Eu Sou Ferrugem" (2018): O álbum apresenta uma série de sucessos "O Som do Tambor", "Pirata e Tesouro" e "Eu Juro". </li>
           <li>"Chão de Estrelas" (2019): Inclui hits como "Nesse Embalo", "Até Que Enfim" e "De Repente Vem Você (part. Belo)". </li>
           <li>"Abre Alas" (2020): Traz canções como "Tristinha" e "Casa do Amor".</li>
-          <li></li>
-          <li></li>
+          <li>"Ferrugem Em Casa 2 (Bloco 1) [Ao Vivo]" (2022): Com destaque para "É Dor Que Não Passa".</li>
+          <li>"Ferrugem 10 Anos, Vol 1: O Início (Ao Vivo)" (2024): Destaca-se com a música "Interessante".</li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>Ferrugem é reconhecido por sua habilidade de contar histórias através de suas letras, conectando-se emocionalmente com o público. Ele representa uma nova geração de artistas que trazem inovação ao pagode, mantendo a essência do gênero. Seu legado se reflete na forma como ele inspirou novos músicos e ajudou a popularizar o pagode romântico entre as novas gerações. Com uma carreira em ascensão e uma base de fãs crescente, Ferrugem continua a ser uma voz influente e importante na música brasileira.</p>
       </div>
       <div>
-        <h3> - Ferrugem</h3>
+        <h3>Pirata e Tesouro - Ferrugem</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/l205wwjGzz8"
+            title="Canção Pirata e Tesouro"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
-      <div> 
+      <div>
         <h2 className="cantores">Thiaguinho</h2>
         <p>Thiaguinho, cujo nome completo é Thiago André Gomes da Rocha, nasceu em 10 de agosto de 1983, em Presidente Prudente, São Paulo, Brasil. Desde jovem, ele demonstrou talento musical, participando de corais e bandas da escola. Thiaguinho começou sua carreira profissional no pagode ao se juntar ao grupo Exaltasamba em 2003, onde rapidamente se destacou como vocalista.</p>
         <h3>História na Música</h3>
         <p>Thiaguinho ganhou notoriedade nacional como membro do Exaltasamba, contribuindo para o sucesso do grupo com sua voz marcante e carisma. Em 2012, ele decidiu seguir carreira solo e lançou seu primeiro álbum, que consolidou seu estilo e o transformou em um dos principais nomes do pagode romântico.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Thiaguinho incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>"VIBE (Ao Vivo)" (2019): Destaca-se com a música "Deixa Tudo Como Tá".</li>
+          <li>"Tardezinha no Maraca (Ao Vivo)" (2020): Traz canções como "Me Apaixonei Pela Pessoa Errada" e "Domingando".</li>
+          <li>"Infinito, Vol. 1" (2021): Inclui hits como "Desencana", "Energia Surreal" e "Sou o Cara Pra Você".</li>
+          <li>"Infinito, Vol. 2" (2021): O álbum apresenta uma série de sucessos como "Ponto Fraco Caraca Muleke/ Muleke Conquista (pot-pourri)".</li>
+          <li>"Meu Nome É Thiago André" (2022): Com destaque para "Retratos e Canções".</li>
         </ul>
         <p>Essas músicas se tornaram clássicos do pagode e continuam a ser muito tocadas nas rádios e festas.</p>
         <h3>Contribuições e Legado</h3>
         <p>Thiaguinho é reconhecido por sua habilidade de compor letras que falam sobre amor, relacionamentos e superação, conectando-se emocionalmente com o público. Sua influência no pagode romântico é significativa, ajudando a popularizar o gênero entre novas gerações. Seu legado se reflete na forma como ele inspirou novos artistas e na continuidade do pagode como um estilo relevante na música brasileira. Com uma carreira repleta de sucessos e uma base de fãs leal, Thiaguinho continua a ser uma das vozes mais importantes e respeitadas do pagode, celebrando a alegria e a emoção através de sua música.</p>
       </div>
       <div>
-        <h3> - Thiaguinho</h3>
+        <h3>Sou o Cara Pra Você - Thiaguinho</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/xNRtGCwmoQw"
+            title="Canção Sou o Cara Pra Você"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
 
-      <div> 
+
+      <div>
         <h2 className="cantores">Pixote</h2>
         <p>Pixote, cujo nome verdadeiro é Mário Sérgio de Oliveira, nasceu em 17 de dezembro de 1991, em São Paulo, Brasil. Desde cedo, ele se interessou pela música, especialmente pelo pagode e pelo samba. Pixote começou sua carreira musical em 1995, quando se juntou ao grupo Os Travessos, onde ganhou notoriedade como vocalista. Em 2009, ele decidiu seguir carreira solo, consolidando-se como uma das principais vozes do pagode.</p>
         <h3>História na Música</h3>
         <p>Pixote ganhou destaque na cena musical com sua voz poderosa e seu carisma no palco. Sua passagem pelo grupo Os Travessos foi marcada por grandes sucessos, mas sua carreira solo trouxe uma nova fase de popularidade. Com letras que falam sobre amor, relacionamentos e a vida cotidiana, ele conquistou uma base de fãs fiel e se destacou no cenário do pagode romântico.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Pixote incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>"15 Anos - Ao Vivo" (2007): Apresenta hits como "Mande um Sinal", "Insegurança" e "Adeus Solidão".</li>
+          <li>"Fã de Carteirinha Sunset - Ao Vivo (2019): O álbum apresenta uma série de sucessos como "Vai Errar de Novo" e "Cartão Postal / Preciso de Amor / Eu Nasci pra te Amar".</li>
+          <li>"Drive In" (2021): Destaque para "Nem de Graça / Saudade Arregaça".</li>
+          <li>"#Trintou" - Ao Vivo (2023): Traz canções como "Encontro de Erros" e "A Lua e Eu". </li>
+          <li>"Pixote (Acústico)" (2024): Com destaque para "Beijo Doce", "Franqueza" e "Fã de Carteirinha". </li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>Pixote é reconhecido por sua contribuição significativa ao pagode romântico, trazendo letras emocionantes e melodias cativantes. Sua habilidade vocal e presença de palco fizeram dele uma figura respeitada na música brasileira. Seu legado é notável, pois ele influenciou uma nova geração de artistas e ajudou a manter o pagode como um gênero relevante. Com uma carreira sólida e uma base de fãs dedicada, Pixote continua a ser uma das vozes mais importantes do pagode, celebrando o amor e a emoção através de sua música.</p>
       </div>
       <div>
-        <h3> - Pixote</h3>
+        <h3>Insegurança - Pixote</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/WQyKuEsLpRY"
+            title="Canção Insegurança"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
 
-      <div> 
+
+      <div>
         <h2 className="cantores">Belo</h2>
         <p>Belo, cujo nome verdadeiro é Marcelo Pires Vieira, nasceu em 22 de abril de 1974, em Caxias, no estado do Rio de Janeiro, Brasil. Desde jovem, Belo demonstrou interesse pela música, influenciado pelo samba e pelo pagode. Sua carreira começou em 1997, quando se juntou ao grupo Exaltasamba, onde se destacou como vocalista e conquistou uma enorme popularidade.</p>
         <h3>História na Música</h3>
         <p>Belo ganhou notoriedade com o Soweto, um dos grupos de pagode mais influentes da época, contribuindo para o sucesso do gênero. Em 2001, ele decidiu seguir carreira solo, lançando seu primeiro álbum e consolidando seu estilo característico, que mescla pagode romântico com influências de samba e R&B.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Belo incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>"Pra Ver o Sol Brilhar - Ao Vivo" (2008): Apresenta hits como "Perfume", "Intriga da Oposição" e "Razão da Minha Vida".</li>
+          <li>"Primavera" (2009): Com destaque para "Reinventar", "Intenção" e "Ainda estou apaixonado".</li>
+          <li>"Belo 10 Anos de Sucesso (Dexule) (2016): Traz canções como "Pura Adrenalina", "Nuvem / Derê" e "Eternamente / Búzios e Tarô". </li>
+          <li>"Belo em Casa" (2020): O álbum apresenta uma série de sucessos como "Medley Soweto".</li>
+          <li>"Belo In Concert" (2022): Destaque para "Farol das Estrelas / Não Foi Atoa" e "Não Quero Mais".</li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>Belo é amplamente reconhecido por sua habilidade vocal e por suas letras que falam de amor, relacionamentos e emoções, conectando-se profundamente com seu público. Ele é um dos principais nomes do pagode romântico e influenciou uma nova geração de artistas dentro do gênero. Seu legado se reflete na popularidade contínua do pagode e na maneira como ele ajudou a moldar a cena musical brasileira. Com uma carreira marcada por sucessos e uma base de fãs dedicada, Belo permanece como uma das vozes mais icônicas do pagode, celebrando o amor e a alegria em sua música.</p>
       </div>
       <div>
-        <h3> - Belo</h3>
+        <h3> Perfume - Belo</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/xlJ69RJpYn4"
+            title="Canção Perfume"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
 
-      <div> 
+      <div>
         <h2 className="cantores">Péricles</h2>
         <p>Péricles, cujo nome completo é Péricles de Faria, nasceu em 22 de agosto de 1975, em São Paulo, Brasil. Desde cedo, ele se interessou pela música, especialmente pelo samba e pelo pagode. Péricles começou sua carreira em 1992 como vocalista do grupo Exaltasamba, onde se destacou e ganhou notoriedade nacional.</p>
         <h3>História na Música</h3>
@@ -219,28 +226,36 @@ const Pagode = () => {
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>"Sensações" (2012): "Depois da Briga", "Linguagem dos Olhos" e "Linda Voz".</li>
+          <li>"Nos Arcos da Lapa" (2013): "Êta Amor", "Final de Tarde" e "Se Eu Largar O Freio". </li>
+          <li>"Feito Pra Durar" (2015): "Melhor Eu Ir"</li>
+          <li>"Deserto da Ilusão" (2017): "Eu Te Uso e Sumo" e "Vai Por Mim".</li>
+          <li>"Pagode do Pericão - Ao Vivo" (2019): "Supera" e "No Fundo Dos Meus Olhos".</li>
+          <p>Péricles tem,  ou todo 17 álbuns, e dentre eles, algumas das suas músicas mais tocadas são:</p>
+          <ul>
+            <li>"Sinais"</li>
+            <li>"Até Que Durou"</li>
+            <li>"Nosso Amor Quer Paz"</li>
+            <li>"Graveto"</li>
+          </ul>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>Péricles é reconhecido por sua habilidade vocal e por suas letras que falam sobre amor, superação e relacionamentos, conectando-se profundamente com o público. Ele é uma figura central no pagode romântico, influenciando novos artistas e ajudando a popularizar o gênero. Seu legado se reflete na forma como ele continua a atrair fãs de todas as idades e na maneira como contribuiu para a evolução do pagode. Com uma carreira sólida e uma vasta discografia, Péricles permanece como uma das vozes mais importantes e respeitadas do pagode, celebrando a alegria e a emoção através de sua música.</p>
       </div>
       <div>
-        <h3> - Péricles</h3>
+        <h3> Até Que Durou - Péricles</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/T3Y6RRSDm4o"
+            title="Canção Alegria Até Que Durou"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
 
-      <div> 
+
+      <div>
         <h2 className="cantores"> Fundo de Quintal</h2>
         <p>Fundo de Quintal é um dos grupos mais icônicos do samba brasileiro, formado em 1980, no Rio de Janeiro. O grupo é composto por músicos talentosos, incluindo Jorge Aragão, Beto Sem Braço, César Camargo, Almir Guineto e Neoci, entre outros. Desde sua formação, o Fundo de Quintal se destacou por sua abordagem inovadora ao samba, misturando ritmos e estilos e utilizando instrumentos como o banjo e a cuíca.</p>
         <h3>História na Música</h3>
@@ -269,7 +284,8 @@ const Pagode = () => {
           ></iframe>
       </div>
 
-      <div> 
+
+      <div>
         <h2 className="cantores">Menos é Mais</h2>
         <p>O Grupo Menos É Mais surgiu em 2016, em Brasília, e é formado por pelo vocalista Duzão, Gustavo Goes, Jorge Farias, Paulinho Félix e Ramon Alvarenga na percussão.</p>
         <h3>História na Música</h3>
@@ -301,4 +317,8 @@ const Pagode = () => {
   )
 }
 
+
 export default Pagode
+
+
+

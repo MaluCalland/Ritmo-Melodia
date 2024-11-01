@@ -42,7 +42,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>Cláudia começou sua carreira musical na adolescência, se apresentando em bandas locais. Em 2001, tornou-se vocalista da Banda Babado Novo, que rapidamente ganhou popularidade no cenário do axé. Com hits como "Bola de Sabão" e "Amor de Chocolate", a banda se tornou um sucesso no Brasil. Em 2008, Cláudia decidiu seguir carreira solo e lançou seu primeiro álbum solo, "Claudia Leitte", que a consolidou como uma das grandes estrelas da música brasileira. Sua mistura de axé com influências de pop e outros gêneros a tornou uma artista versátil e inovadora.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Cláudia Leitte incluem:</p>
         <ul>
           <li>"Claudia Leitte" (2008): Seu álbum de estreia solo, com hits como "As Máscaras" e "Pássaro de Fogo".</li>
           <li>"Dois Lados" (2009): Inclui "Samba de Verão" e "Famosa".</li>
@@ -71,7 +71,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>A Banda Eva surgiu como um grupo de pagode e axé, ganhando notoriedade em festas de carnaval e eventos ao ar livre. Com a saída de Daniela Mercury em 1992, a banda passou por diversas formações e lideranças, mas sempre manteve seu foco em animar o público com ritmos dançantes e letras festivas. A Banda se destacou com sucessos que marcaram os anos 90 e 2000, e seu repertório inclui clássicos que são frequentemente tocados durante o carnaval. Ao longo dos anos, a banda lançou vários álbuns e se apresentou em grandes eventos, consolidando sua posição como uma das principais bandas de axé do Brasil.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Banda Eva incluem:</p>
         <ul>
           <li>"Eva" (1994): O álbum que inclui o famoso hit "Eva".</li>
           <li>"A Banda Eva" (1996): Com sucessos como "Beija-Flor".</li>
@@ -100,7 +100,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>A banda foi criada por Beto Jamaica e Compadre Washington, que trouxeram uma mistura de axé, pagode e outras influências musicais. Com suas performances carismáticas e danças marcantes, É o Tchan se destacou em várias festas e eventos, tornando-se um nome recorrente no carnaval baiano. O grupo lançou vários álbuns ao longo de sua carreira, e suas músicas se tornaram hits populares, atraindo um público diversificado. A partir dos anos 90, É o Tchan passou a fazer parte da identidade musical do Brasil, especialmente nas festas de carnaval.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de É o Tchan incluem:</p>
         <ul>
           <li>"É o Tchan" (1995): Inclui o famoso hit "Dança da Mãozinha".</li>
           <li>"Tchan no Havai" (1996): Apresenta "Segura o Tchan" e "Dança do Bumbum".</li>
@@ -129,7 +129,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>Léo começou sua carreira musical em 2008 como vocalista do grupo de pagode Parangolé, onde se destacou com sucessos que rapidamente conquistaram o público. Sua voz marcante e presença de palco o tornaram um dos artistas mais populares da Bahia. Em 2016, Léo decidiu seguir carreira solo e lançou uma série de hits que solidificaram sua posição na música brasileira. Desde então, Léo Santana se tornou uma figura central no carnaval e em eventos de grande porte, conhecido por suas performances energéticas e dançantes.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Léo Santana incluem:</p>
         <ul>
           <li>"O Fervo Não Para" (2016): Com sucessos como "Santinha" e "Um Conto de Fadas".</li>
           <li>"Efeito" (2018): Inclui "Baldinho" e "Vermelho".</li>
@@ -158,7 +158,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>A banda foi criada pelo cantor Felipe Pezzoni e pelo guitarrista Sérgio Faria, que começaram a se apresentar em eventos e festas na Bahia. O nome "Jammil e Uma Noites" é uma referência ao famoso livro "As Mil e Uma Noites". Desde o início, o grupo se destacou pela energia contagiante de suas apresentações e pela originalidade de suas músicas. Em 2000, Jammil lançou seu primeiro álbum, "Jammil e Uma Noites", que rapidamente conquistou o público. O grupo se tornou um dos mais populares do carnaval, com canções que se tornaram clássicos do gênero.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Jammil e Uma Noites incluem:</p>
         <ul>
           <li>"Jammil e Uma Noites" (2000): Com a famosa canção "Ela é Bahia".</li>
           <li>"Amanhecer" (2002): Inclui sucessos como "Sorrir pra Não Chorar" e "A Onda é a Poesia".</li>
@@ -187,7 +187,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>A banda foi criada por Bell Marques, Elliott Sanches, Rafael Gouveia e outros músicos. Desde o início, Chiclete com Banana se destacou por sua mistura de ritmos e pela energia contagiante de suas performances. O nome da banda é uma referência a uma música popular de carnaval. Ao longo dos anos, a banda lançou diversos álbuns e se apresentou em grandes eventos, consolidando sua presença no cenário musical brasileiro. Chiclete com Banana é conhecida por suas participações marcantes nos carnavais da Bahia, onde suas músicas são obrigatórias em blocos de carnaval.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Chiclete Com Banana incluem:</p>
         <ul>
           <li>"Chiclete com Banana" (1990): Um dos álbuns que ajudou a consolidar a banda, incluindo "O Canto da Cidade".</li>
           <li>"Eletrodoméstico" (1993): Com sucessos como "Diga Que Valeu".</li>
@@ -216,7 +216,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>A banda foi formada por Léo Santana, que se destacou como vocalista e frontman. Parangolé ficou conhecida por suas apresentações ao vivo vibrantes e por suas coreografias marcantes. Desde o início, o grupo conquistou um grande público, se apresentando em festas, eventos e carnavais. O primeiro álbum, "Parangolé ao Vivo", lançado em 2002, trouxe sucessos que rapidamente se tornaram populares. Ao longo dos anos, a banda lançou uma série de álbuns e singles, solidificando sua posição no gênero axé e pagode.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Parangolé incluem:</p>
         <ul>
           <li>"Parangolé ao Vivo" (2002): Inclui "Dança do Ventre" e "Bebendo Água de Coco".</li>
           <li>"Tô na Pista" (2005): Apresenta "É o Amor" e "Festa do Interior".</li>
@@ -245,7 +245,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>A banda foi criada pelo cantor Márcio Victor, que também é um dos compositores e vocalistas. Psirico ganhou notoriedade com suas apresentações enérgicas e carismáticas, tornando-se uma presença constante nos grandes eventos e festivais de carnaval na Bahia e em outras regiões do Brasil. O grupo lançou seu primeiro álbum em 2003, e desde então, tem lançado diversos trabalhos que consolidaram sua popularidade. Suas músicas frequentemente falam sobre amor, festa e a cultura baiana, refletindo a alegria do carnaval.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Psirico incluem:</p>
         <ul>
           <li>"Pé no Chão" (2003): Inclui "Lepo Lepo", que se tornou um dos maiores sucessos da banda.</li>
           <li>"Ao Vivo em Salvador" (2006): Um registro de suas performances ao vivo, com músicas como "Dança do Ventre".</li>
@@ -274,7 +274,7 @@ const Axe = () => {
         <h3>História na Música</h3>
         <p>A banda foi fundada por Xanddy, que se destacou como vocalista e principal figura do grupo. Desde o início, a Harmonia do Samba ganhou destaque com suas performances animadas e letras que falam sobre amor, alegria e a cultura baiana. O grupo se tornou uma presença constante em grandes eventos e no carnaval, atraindo um público fiel. O primeiro álbum da banda, "Harmonia do Samba", foi lançado em 1998 e rapidamente consolidou a fama do grupo. Ao longo dos anos, a Harmonia do Samba lançou diversos álbuns e singles, sempre mantendo a essência do axé.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Harmonia Do Samba incluem:</p>
         <ul>
           <li>"Harmonia do Samba" (1998): Inclui sucessos como "Dança do Ventre".</li>
           <li>"O Coração do Brasil" (2000): Com a famosa "Aí Sim".</li>
