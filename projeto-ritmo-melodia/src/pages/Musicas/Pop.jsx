@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Pop = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Funk</h1>
+      <h1>Alguns dos Artistas Mais Famosos do Pop</h1>
 
       <div> 
         <h2 className="cantores">Anitta</h2>
@@ -13,7 +13,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>Anitta começou sua carreira em 2010, mas foi com "Show das Poderosas" que ela se firmou como uma das principais artistas do Brasil. Seu estilo é uma mistura de funk, pop, reggaeton e R&B, refletindo a diversidade da música brasileira e latino-americana. Com seu carisma e habilidades de performance, Anitta rapidamente conquistou fãs no Brasil e no exterior.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Anitta incluem:</p>
         <ul>
           <li>"Anitta" (2013) - Inclui o hit "Show das Poderosas".</li>
           <li>"Ritmo Perfeito" (2014) - Destaque para "Não Para".</li>
@@ -42,7 +42,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>Pabllo Vittar se tornou uma figura proeminente no cenário musical brasileiro ao combinar elementos de pop, funk e música eletrônica. Sua presença de palco cativante e seu estilo ousado ajudaram a quebrar barreiras, especialmente em relação à representação LGBTQIA+ na música. O sucesso de Pabllo veio com o lançamento de seu primeiro álbum, "Vai Passar Mal", em 2017, que solidificou sua posição na indústria.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Pabllo Vittar incluem:</p>
         <ul>
           <li>"Vai Passar Mal" (2017) - Inclui hits como "K.O." e "Corpo Sensual".</li>
           <li>"Não Para Não" (2018) - Destaque para "Disk Me" e "Amor de Que".</li>
@@ -71,7 +71,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>Ludmilla ganhou destaque em 2013 com o sucesso "Fala Mal de Mim", que rapidamente se tornou um hit nas rádios e nas festas. Com uma mistura de funk, pop e R&B, ela se destacou por suas letras autênticas e sua forte presença de palco. Ao longo dos anos, Ludmilla evoluiu como artista, explorando novos estilos e colaborando com diversos músicos renomados.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Ludmilla incluem:</p>
         <ul>
           <li>"Hoje" (2015) - Álbum de estreia que inclui sucessos como "Não Encosta" e "Hoje".</li>
           <li>"A Danada Sou Eu" (2019) - Contém hits como "Cheguei" e "Verdinha".</li>
@@ -100,7 +100,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>Jão ganhou notoriedade em 2018 com o lançamento de seu single "Imaturo", que rapidamente se tornou um sucesso nas plataformas digitais. Sua mistura de pop, MPB e influências do rock se destacou por letras emocionais e autênticas, abordando temas como amor, desamor e autoaceitação. Jão é conhecido por sua voz marcante e performances energéticas, que cativam o público.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Jão incluem:</p>
         <ul>
           <li>"Jão" (2018) - Álbum de estreia que inclui sucessos como "Imaturo" e "Vou Morrer Sozinho".</li>
           <li>"Léo" (2020) - Com faixas como "Amei Te Ver" e "Me Beija", este álbum solidificou sua carreira.</li>
@@ -128,7 +128,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>A carreira de IZA começou a decolar em 2016, quando lançou seu primeiro single, "Te Pegar", que rapidamente chamou a atenção do público. Em 2018, ela lançou o sucesso "Pesadão", uma colaboração com o rapper Fausto, que a consagrou como uma das principais vozes da música pop brasileira. Seu estilo combina elementos de pop, R&B e soul, e suas letras muitas vezes abordam temas de empoderamento e autoaceitação.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de IZA incluem:</p>
         <ul>
           <li>"Dona de Mim" (2019) - Álbum de estreia que traz hits como "Dona de Mim" e "Pesadão".</li>
           <li>"Iza, a Ilha" (2022) - Um projeto mais experimental e introspectivo, que inclui faixas como "Fé" e "Emocional".</li>
@@ -162,7 +162,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>Luísa ganhou notoriedade no cenário musical brasileiro com sua mistura de pop, funk e R&B. Em 2018, ela lançou "Devagarinho", que se tornou um sucesso nas paradas. Seu estilo autêntico e suas letras que abordam temas como amor e empoderamento a ajudaram a se estabelecer como uma das novas vozes da música pop no Brasil.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Luísa Sonza incluem:</p>
         <ul>
           <li>"Luísa Sonza" (2020) - Álbum de estreia que inclui hits como "Devagarinho".</li>
           <li>"Ano V" (2022) - Este projeto traz uma diversidade de estilos, com músicas como "Melhor Sozinha" e "Pior Que Passei".</li>
@@ -197,7 +197,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>Gloria Groove começou sua carreira musical em 2016, com o lançamento do single "Dona", que combinou elementos de pop e funk. Desde então, sua carreira decolou, e ela se consolidou como uma das principais artistas da música brasileira contemporânea. Com uma mistura de gêneros como pop, rap, funk e R&B, Gloria se destaca por suas letras que falam sobre identidade, amor e empoderamento.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Gloria Groove incluem:</p>
         <ul>
           <li>"O Processo" (2019) - Álbum de estreia que inclui sucessos como "Bumbum de Ouro" e "Dona".</li>
           <li>"Lady Leste" (2021) - Contém faixas como "A Queda" e "Cazuza", mostrando uma evolução artística e sonora.</li>
@@ -233,7 +233,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>Duda Beat ganhou notoriedade em 2018 com o lançamento do single "Bixinho", que se tornou um hit e a apresentou a um público mais amplo. Sua música é uma fusão de pop, MPB e influências de música eletrônica, destacando letras que exploram temas como amor, desamor e autoconhecimento. A artista se tornou conhecida por seu estilo único e pela forma como aborda questões emocionais e relacionamentos em suas músicas.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Duda Beat incluem:</p>
         <ul>
           <li>"Sinto muito" (2018): Com as famosas "Bichinho" e "Deretendo".</li>
           <li>"DUDA BEAT & NANDO REIS" (2021): Com destaque para "Na Estrada". </li>
@@ -261,7 +261,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>A carreira da ANAVITÓRIA começou a decolar com o lançamento do single "O Mundo é Só Um Lugar" em 2016, que apresentou seu estilo característico, uma fusão de pop e MPB com influências de folk. Com harmonias vocais marcantes e letras poéticas, a dupla rapidamente conquistou um público fiel. Em 2017, elas participaram do programa "SuperStar", onde tiveram uma ótima recepção, o que impulsionou ainda mais sua carreira.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de ANAVITÓRIA incluem:</p>
         <ul>
           <li>"ANAVITÓRIA" (2016) - Álbum de estreia que inclui sucessos como "O Mundo é Só Um Lugar" e "Fica".</li>
           <li>"O Tempo É Agora" (2019) - Apresenta faixas como "Pupila" e "Ninguém Poderia Acreditar".</li>
@@ -288,7 +288,7 @@ const Pop = () => {
         <h3>História na Música</h3>
         <p>Vitor Kley ganhou notoriedade em 2018 com o lançamento do single "O Sol", que se tornou um grande sucesso, alcançando as paradas musicais e conquistando o público com sua sonoridade leve e contagiante. Seu estilo mistura pop, rock e MPB, e suas letras costumam abordar temas como amor, esperança e autoaceitação. A popularidade de "O Sol" abriu portas para Vitor, permitindo que ele se apresentasse em diversos festivais e plataformas.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Vitor Kley incluem:</p>
         <ul>
           <li>"Eclipse" (2018) - Álbum de estreia, com destaque para "O Sol" e "Sublime".</li>
           <li>"Ao Vivo" (2020) - Um registro de suas performances ao vivo, que inclui novas interpretações de suas músicas.</li>

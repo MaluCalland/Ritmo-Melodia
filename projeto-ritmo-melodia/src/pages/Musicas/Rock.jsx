@@ -13,7 +13,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>Rita Lee começou sua carreira musical nos anos 1960 como integrante da banda Os Mutantes, que se tornou um dos pilares do movimento tropicalista. Com sua mistura de rock psicodélico e música brasileira, a banda conquistou um grande público e fez história na música nacional. Em 1972, Rita começou sua carreira solo, lançando seu primeiro álbum, "Rita Lee", e rapidamente se destacou por sua personalidade forte e suas letras ousadas. Ao longo da década de 1970 e 1980, ela lançou uma série de álbuns que se tornaram clássicos, abordando temas como amor, liberdade e crítica social.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Rita Lee incluem:</p>
         <ul>
           <li>"Rita Lee" (1979): Inclui a famosa "Mania de Você".</li>
           <li>"A distribuição do peso" (1980): Com sucessos como "Lança Perfume".</li>
@@ -42,7 +42,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>A banda começou sua trajetória com o álbum "Transpiração Contínua Prolongada" (1997), que trouxe hits como "Proibida Pra Mim" e "O Caderno". Com uma sonoridade única e letras que abordavam temas como amor, sociedade e questões pessoais, Charlie Brown Jr. rapidamente se tornou uma das bandas mais populares do Brasil. Ao longo de sua carreira, a banda lançou vários álbuns, consolidando-se como um dos ícones do rock nacional.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Charlie Brown Jr. incluem:</p>
         <ul>
           <li>"Transpiração Contínua Prolongada" (1997): Inclui músicas como "Proibida Pra Mim" e "O Caderno".</li>
           <li>"Segundo Ato" (1999): Inclui múicas com "Cazuza" e "Papo Reto".</li>
@@ -71,7 +71,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>A carreira de Pitty começou de verdade com o álbum "Admirável Chip Novo" (2003), que trouxe sucessos como "Pintura Íntima" e "Equalize". Seu estilo mistura rock, pop e elementos do punk, e suas letras frequentemente abordam temas como amor, liberdade e empoderamento. Ao longo dos anos, Pitty se destacou não apenas como cantora, mas também como compositora e ativista.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Pitty incluem:</p>
         <ul>
           <li>"Admirável Chip Novo" (2003) - "Pintura Íntima", "Equalize", "Teto de Vidro".</li>
           <li>"Anacrônico" (2005) - "Déjà Vu", "Pulsos", "Sorrindo".</li>
@@ -99,7 +99,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>A banda ganhou notoriedade no final dos anos 90 e início dos anos 2000, se destacando por suas letras críticas, que falam sobre desigualdade social, violência urbana e amor. Seu estilo único e inovador ajudou a popularizar o rock brasileiro em um momento em que o gênero estava em transformação.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de O Rappa incluem:</p>
         <ul>
           <li>"O Rappa" (1994): Inclui as famosas "Pescador de Ilusões" e "Me Deixa".</li>
           <li>"Lado B Lado A" (1999): Com sucessos como "O Mundo é um Moinho" e "Revolta dos Dandaras".</li>
@@ -128,7 +128,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>A banda surgiu em um contexto de efervescência cultural e política no Brasil, influenciada pelo rock internacional e pela cena punk. Capital Inicial ganhou notoriedade com seu primeiro álbum, "Capital Inicial" (1986), e se consolidou com sucessos ao longo das décadas, misturando rock com letras que abordam amor, crítica social e questões do cotidiano. Capital Inicial ficou famosa por suas letras que abordam temas sociais, relacionamentos e a busca por identidade.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Capital Inicial incluem:</p>
         <ul>
           <li>Capital Inicial (1986): Inclui a famosas "Música Urbana", "Fogo".</li>
           <li>O Passageiro (1987): Com sucessos como  "Veraneio Vascaína".</li>
@@ -157,7 +157,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>A Legião Urbana emergiu em um período de transição política no Brasil, logo após o fim da ditadura militar. Seu primeiro álbum, Legião Urbana (1985), apresentou canções que rapidamente conquistaram o público. O sucesso continuou com Dois (1986), que solidificou a banda como uma das principais do rock nacional. A banda alcançou o auge da popularidade nos anos 90 com álbuns como Que País É Este (1987) e As Quatro Estações (1989), que incluíam clássicos que até hoje são lembrados. Após a morte de Renato Russo em 1996, a banda passou por mudanças, mas sua música continuou a ressoar com fãs e novos ouvintes.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Legião Urbana incluem:</p>
         <ul>
           <li>Legião Urbana (1985): Com músicas famosas como "Ainda Não Passou", "Perfeição"</li>
           <li>Dois (1986): Com sucessos como "Eduardo e Mônica" e "Tempo Perdido".</li>
@@ -186,7 +186,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>Os Paralamas do Sucesso começaram sua carreira no início dos anos 80, em um cenário musical efervescente. O primeiro álbum, Cinema Mudo (1983), trouxe a banda ao público, mas foi com O Passo do Lui (1984) que eles ganharam notoriedade. O sucesso continuou a crescer durante os anos 80 e 90, com letras que abordavam questões sociais, políticas e sentimentos da juventude. A banda passou por várias transformações ao longo dos anos, sempre se reinventando e incorporando novos estilos e influências, o que os manteve relevantes na cena musical. Herbert Vianna também enfrentou desafios pessoais, incluindo um grave acidente de ultraleve em 2001, mas voltou a fazer música com força total.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Paralamas do Sucesso incluem:</p>
         <ul>
           <li>Cinema Mudo (1983): Inclui a famosa "Vital e Sua Moto".</li>
           <li>O Passo do Lui (1984): Com sucessos como "Meu Erro" e "O Beco".</li>
@@ -215,7 +215,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>Os Engenheiros do Hawaii começaram sua trajetória musical no contexto do rock nacional da década de 1980. O primeiro álbum, Longe demais das capitais (1986), apresentou ao público seu estilo característico. Com o lançamento de O Papa é Pop (1990), a banda alcançou grande popularidade, consolidando-se como uma das principais do rock brasileiro. Ao longo dos anos, a banda passou por mudanças na formação e também enfrentou desafios pessoais, mas Humberto Gessinger sempre foi o principal compositor e a força criativa por trás da música. A banda fez pausas e retornos, mas continua a se apresentar e a lançar novos trabalhos.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Engenheiros do Hawaii incluem:</p>
         <ul>
           <li>Longe Demais das Capitais (1986): Inclui a famosa "Infinita Highway".</li>
           <li>O Papa é Pop (1990): Com sucessos como "O Papa é Pop".</li>
@@ -244,7 +244,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>O Barão Vermelho surgiu em um período de transição na música brasileira, com o fim da ditadura militar e a efervescência cultural dos anos 80. O álbum de estreia, Barão Vermelho (1982), trouxe o sucesso inicial, mas foi com Maior Abandonado (1984) que a banda se consolidou no cenário musical. Cazuza deixou a banda em 1989 para seguir carreira solo, e Frejat assumiu os vocais. A banda continuou a lançar álbuns de sucesso e a fazer turnês, mantendo-se relevante na cena do rock brasileiro.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Barão Vermelho incluem:</p>
         <ul>
           <li>Barão Vermelho (1982): Inclui a famosa "Bete Balanço".</li>
           <li>Maior Abandonado (1984): Com sucessos como "Maior Abandonado".</li>
@@ -272,7 +272,7 @@ const Rock = () => {
         <h3>História na Música</h3>
         <p>O Skank surgiu em um cenário musical efervescente, durante a explosão do rock nacional nos anos 90. O primeiro álbum, Skank (1992), trouxe uma mistura de influências que rapidamente chamou a atenção do público. O álbum O Samba Poconé (1994) consolidou a banda no cenário nacional, com hits que alcançaram grande popularidade. Com o passar dos anos, o Skank continuou a evoluir musicalmente, lançando álbuns variados e explorando novas sonoridades, enquanto mantinha sua identidade característica. A banda alcançou reconhecimento internacional e participou de festivais importantes.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Skank incluem:</p>
         <ul>
           <li>Skank (1992): Inclui a famosa "Tanto".</li>
           <li>O Samba Poconé (1994): Com sucessos como "Garota Nacional".</li>

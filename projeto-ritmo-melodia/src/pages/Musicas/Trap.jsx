@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Trap = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Trap</h1>
+      <h1>Alguns dos Artistas Mais Famosos do Trap</h1>
 
       <div> 
         <h2 className="cantores">Matuê</h2>
@@ -13,7 +13,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>Matuê começou a ganhar notoriedade no cenário do rap e trap brasileiro em meados de 2018. Sua mistura de melodias cativantes com letras que abordam temas como amor, desafios e a vida nas ruas conquistou uma base de fãs significativa. Com uma abordagem inovadora e autêntica, ele se tornou um dos principais nomes do trap no Brasil.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Matuê incluem:</p>
         <ul>
           <li>"KIDS" (2020): Este álbum solidificou sua carreira, apresentando seu estilo único e abordagens líricas que ressoaram com o público jovem.</li>
           <li>"Máquina do Tempo" (2021): Um trabalho que mistura elementos de trap e hip-hop, continuando a trajetória de sucesso de Matuê.</li>
@@ -75,7 +75,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>Veigh começou a ganhar notoriedade em 2018, quando começou a lançar suas músicas nas plataformas digitais. Ele rapidamente se tornou conhecido por sua mistura de melodias cativantes e letras que abordam temas como amor, superação e a vida nas ruas. Seu estilo é caracterizado por uma produção envolvente e uma entrega lírica autêntica.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Veigh incluem:</p>
         <ul>          
           <li>"Dos Prédios" (2022): Com os sucessos "Vida chique", "Perdoa Por Tudo Vida" e "Meio Pá".</li>
           <li>"Dos Prédios Deluxe" (2023): Inclue os hits "Novo Balanço" e "Engana Dizendo Que Ama" (part. TZ da Coronel).</li>
@@ -107,7 +107,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>WIU começou a ganhar notoriedade em 2018, quando começou a lançar suas músicas nas plataformas digitais. Com uma mistura de rap, trap e R&B, ele rapidamente conquistou uma base de fãs, destacando-se pela autenticidade de suas letras e pela qualidade de suas produções. Seu estilo único e suas colaborações com outros artistas também contribuíram para seu crescimento no cenário musical.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de WIU incluem:</p>
         <ul>          
           <li>"Manual de Como Amar Errado" (2022): Com destaque para "Coração Gelado" e "Ciumenta". </li>
           <li>"Vagabundo de Luxo" (2024): Incluem sucessos como "Rainha da Finesse" e "Eu Nao Ouço Mais Trap".</li>
@@ -141,7 +141,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>Chefin começou a ganhar destaque no cenário musical em 2018, quando lançou suas primeiras músicas nas plataformas digitais. Sua habilidade em mesclar melodias cativantes com letras que abordam temas como amor, superação e a vida nas ruas rapidamente conquistou uma base de fãs. Com um estilo autêntico e uma presença marcante, ele se tornou uma figura importante na nova geração do rap brasileiro.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Chefin incluem:</p>
         <ul>
           <li>"O Mais Novo Romântico" (2023): Inclue hits como "Do Seu Lado (part. Oruam)" e "Primeira Dama".</li>
           <li>"A Nova Era" (2022): Álbum que apresenta faixas como "A Nova Era (part. Racovi e Bren)" e "Tropa do Mais Novo (part. Vulgo FK)"</li>
@@ -174,7 +174,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>MC Cabelinho se destacou no cenário do funk brasileiro em meados de 2017, quando lançou suas primeiras músicas e videoclipes. Com letras que abordam temas do cotidiano, amor, e as experiências da vida nas comunidades cariocas, ele conquistou um público fiel. Seu estilo autêntico e suas letras envolventes o ajudaram a se firmar como um dos principais nomes do funk na nova geração.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de MC Cabelinho incluem:</p>
         <ul>
           <li>"Minha Raíz" (2018): Apresenta "Minha Raiz".</li>
           <li>"Ainda" (2020): Com destaque para "Reflexo (part. BK)" e "Favela Venceu (part. MC Hariel)".</li>
@@ -203,7 +203,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>Tasha & Tracie começaram suas carreiras como influenciadoras digitais e, em 2020, decidiram se unir musicalmente. Elas rapidamente chamaram a atenção do público com suas letras que abordam temas de empoderamento feminino, relacionamentos e a realidade das mulheres nas comunidades. A parceria foi um sucesso, e suas músicas começaram a ganhar popularidade nas plataformas de streaming e redes sociais.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Tasha & Tracie incluem:</p>
         <ul>
           <li>"Diretoria (2021): Inclue "ROUFF (Prod. CESRV)" e "Amarrou feat. Veigh (Prod. DJ MF e Pizzol)".</li>
         </ul>
@@ -236,7 +236,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>L7nnon começou a ganhar notoriedade em 2018, quando lançou suas primeiras músicas nas plataformas digitais. Seu estilo mistura rap, trap e elementos do R&B, destacando-se pela profundidade de suas letras e por suas melodias envolventes. Através de sua música, ele aborda temas como amor, superação e a realidade das periferias, conquistando uma base de fãs leal.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de L7nnon incluem:</p>
         <ul>
           <li>"Podium" (2019): Inclue as famosas "Sorrisos (part. Lourena)", "Podium" e "Ninguém (part. MV Bill)".</li>
           <li>"Hip Hop Rare" (2020): Apresenta com destaque "Algumas Frases", "Perdição", "Inabalável (part. MC Hariel)" e "Gratidão".</li>
@@ -265,7 +265,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>Xamã começou a ganhar notoriedade em 2019, quando lançou suas primeiras músicas e colaborou com outros artistas emergentes. Ele é conhecido por suas letras poéticas e reflexivas, que abordam temas como a vida nas favelas, amor, superação e espiritualidade. Seu estilo mistura rap, trap e influências da música brasileira, criando um som único e envolvente.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Xamã incluem:</p>
         <ul>
           <li>"Pecado Capital" (2018): Com destaque para "Luxúria (part. Bagua Records, Neo Beats e Matuê)", "A Bela e a Fera 2" e "44 Problems". </li>
           <li>"O Iluminado" (2019): Contém "American Pie (part. Orochi)", "Uma Linda Mulher (part. Luccas Carlos)" e "Central do Brasil (4:20)".</li>
@@ -294,7 +294,7 @@ const Trap = () => {
         <h3>História na Música</h3>
         <p>Slipmami ganhou notoriedade no cenário do rap brasileiro em 2019, quando lançou suas primeiras músicas nas plataformas digitais. Sua mistura de rap e funk, combinada com letras empoderadoras e envolventes, rapidamente conquistou um público fiel. Ela se destaca pela sua abordagem direta e por trazer à tona questões como empoderamento feminino, amor e desafios da vida urbana.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Slipmami incluem:</p>
         <ul>
           <li>"Gostosa Posturada" (2021): Apresenta "Potranca" e "Gostosa Posturada".</li>
           <li>"Malvatrem" (2023): Inclue as faixas "8x5 (part. Yung Nobre)" e "Malvatrem (part. Leo Justi, Dorly)".</li>

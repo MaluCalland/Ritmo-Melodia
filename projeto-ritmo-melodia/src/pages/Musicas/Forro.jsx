@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Forro = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Forró</h1>
+      <h1>Alguns dos Artistas Mais Famosos do Forró</h1>
 
       <div >
         <h2 className="cantores">Zé Ramalho</h2>
@@ -13,7 +13,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>Zé Ramalho começou sua carreira musical na década de 1970, inicialmente em bandas de rock. Em 1978, lançou seu primeiro álbum, "Zé Ramalho", que rapidamente chamou a atenção do público. Sua música é marcada por temas como misticismo, folclore e críticas sociais, refletindo sua origem nordestina e a rica cultura brasileira. Ao longo dos anos, ele se consolidou como uma das vozes mais autênticas da música brasileira, colaborando com diversos artistas e experimentando com diferentes estilos. Zé Ramalho se destacou não apenas como intérprete, mas também como compositor, criando músicas que se tornaram clássicos.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Zé Ramalho incluem:</p>
         <ul>
           <li>"Zé Ramalho" (1978): Com canções como "Admirável Gado Novo".</li>
           <li>"O Grande Dito" (1980): Inclui "Avohai", uma de suas músicas mais conhecidas.</li>
@@ -42,7 +42,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>Elba começou sua carreira nos anos 1970, participando de grupos teatrais e de música popular. Em 1980, ela lançou seu primeiro álbum, que a apresentou ao grande público. Sua mistura de forró, MPB e outros ritmos brasileiros rapidamente a destacou na cena musical. Ao longo das décadas, Elba se tornou conhecida por suas performances enérgicas e por sua voz marcante.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Elba Ramalho incluem:</p>
         <ul>
           <li>"O Canto da Ema" (1982): Com músicas que celebram a cultura nordestina, este álbum solidificou sua carreira.</li>
           <li>"Fogo e Paixão" (1987): Inclui sucessos como "Fogo e Paixão" e "Meus Amigos".</li>
@@ -71,7 +71,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>Alceu Valença começou sua carreira musical na década de 1970, inicialmente participando de festivais e se apresentando em casas de shows. Em 1972, lançou seu primeiro álbum, "Cavalo de Pau", que trouxe seu estilo inovador e letras poéticas. Ao longo dos anos, ele se destacou não apenas como cantor, mas também como compositor, criando canções que celebram a cultura nordestina.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Alceu Valença incluem:</p>
         <ul>
           <li>"Cavalo de Pau" (1972): Álbum de estreia que apresentou seu estilo característico e rítmico.</li>
           <li>"Anjo Avesso" (1976): Inclui clássicos como "Anjo Avesso" e "La Belle de Jour".</li>
@@ -100,7 +100,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>Geraldo começou sua carreira musical na década de 1960, participando de festivais de música e se destacando por suas composições poéticas. Em 1972, lançou seu primeiro álbum, "Geraldo Azevedo", que apresentou ao público suas influências e estilo característicos. Ao longo das décadas, ele se tornou um dos principais representantes da música nordestina, sempre inovando e experimentando novas sonoridades.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Geraldo Azevedo incluem:</p>
         <ul>
           <li>"O Canto e a Brasa" (1975): Com clássicos como "Caravana" e "Sabor de Olho".</li>
           <li>"Frevo e Forró" (1978): Um álbum que explora os ritmos tradicionais do Nordeste.</li>
@@ -129,7 +129,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>Luiz Gonzaga começou a tocar sanfona aos 18 anos e rapidamente se destacou por sua habilidade e inovação musical. Ele foi fundamental na popularização do baião, um ritmo nordestino, trazendo-o para o cenário nacional a partir da década de 1940. Seu primeiro grande sucesso, "Asa Branca", lançado em 1947, solidificou sua carreira e sua importância na música brasileira.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Luiz Gonzaga incluem:</p>
         <ul>
           <li>"Luiz Gonzaga" (1953): Um dos primeiros álbuns que apresentou seu estilo característico e suas composições.</li>
           <li>"Asa Branca" (1947): O álbum que contém a famosa canção que se tornou um hino da música nordestina - "Asa Branca".</li>
@@ -187,7 +187,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>João começou sua carreira musical em 2020, quando lançou suas primeiras canções nas plataformas digitais. A mistura de forró com elementos de outros estilos, como o sertanejo, rapidamente conquistou o público, especialmente entre os jovens. João Gomes ganhou reconhecimento rapidamente após o lançamento de suas primeiras músicas. Ele se destacou por letras que falam sobre amor e vida cotidiana, resonando com o público jovem. O uso de redes sociais, como o TikTok e o Instagram, ajudou a impulsionar sua popularidade, tornando suas músicas virais.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de João Gomes incluem:</p>
         <ul>"João Gomes" (2021) - Este EP inclui sucessos como:</ul>
         <ul>
           <li>"Eu Tenho a Senha": Uma canção que explora a temática do amor de forma leve e cativante.</li>
@@ -220,7 +220,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>Wesley começou sua carreira na banda "Garota Safada", onde ganhou notoriedade por seu estilo carismático e suas apresentações energéticas. Em 2015, decidiu seguir carreira solo, o que impulsionou ainda mais sua popularidade. Sua música combina forró com elementos de outros gêneros, como sertanejo e pop, atraindo uma ampla audiência.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Wesley Safadão incluem:</p>
         <ul>"Na Hora do Vamos Ver" (2013) - Com hits como:</ul>
         <ul>
           <li>"Camarote": Uma das músicas mais icônicas da carreira dele, fala sobre festas e celebração.</li>
@@ -255,7 +255,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>Dominguinhos começou sua carreira musical na década de 1950 e rapidamente se destacou como um virtuoso da sanfona. Em 1970, ele formou uma parceria icônica com o cantor e compositor Luiz Gonzaga, que o ajudou a solidificar sua presença no cenário musical. Ao longo de sua carreira, Dominguinhos lançou vários álbuns e compôs músicas que se tornaram clássicos da música popular brasileira.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Dominguinhos incluem:</p>
         <ul>"Dominguinhos" (1973) - Este álbum inclui algumas de suas composições mais memoráveis.</ul>
         <ul>
           <li>"Eu Só Quero um Xodó": Uma das canções mais emblemáticas de sua carreira, que fala sobre amor e saudade.</li>
@@ -289,7 +289,7 @@ const Forro = () => {
         <h3>História na Música</h3>
         <p>Mari iniciou sua carreira profissional em 2020, quando lançou suas primeiras músicas nas plataformas digitais. Com uma mistura de forró, sertanejo e pop, ela rapidamente conquistou um público jovem, destacando-se por suas letras autênticas e seu estilo vibrante. Sua música aborda temas como amor, relacionamentos e a vida cotidiana.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Mari Fernadez incluem:</p>
         <ul>"Mari Fernandez" (2021) - Este EP contém faixas que rapidamente ganharam popularidade:</ul>
         <ul>
           <li>"Pedaço Meu": Uma canção romântica que fala sobre amor e saudade, tornando-se um grande sucesso.</li>
