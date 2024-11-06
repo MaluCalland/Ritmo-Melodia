@@ -9,9 +9,9 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">Matuê</h2>
-        <p>Matuê, cujo nome verdadeiro é Matheus Sampaio de Lima, nasceu em 24 de janeiro de 1996, em Fortaleza, Ceará. Ele cresceu em um ambiente musical e desenvolveu sua paixão pela música desde jovem. Matuê se destacou inicialmente como rapper, utilizando suas experiências pessoais e a realidade ao seu redor como inspiração para suas letras.</p>
+        <p>Matheus Brasileiro Aguiar, mais conhecido como Matuê, é um dos nomes mais influentes do cenário musical brasileiro, especialmente no universo do trap. Nascido em Fortaleza, Ceará, Matuê revolucionou o rap nacional com sua sonoridade única e letras impactantes.</p>
         <h3>História na Música</h3>
-        <p>Matuê começou a ganhar notoriedade no cenário do rap e trap brasileiro em meados de 2018. Sua mistura de melodias cativantes com letras que abordam temas como amor, desafios e a vida nas ruas conquistou uma base de fãs significativa. Com uma abordagem inovadora e autêntica, ele se tornou um dos principais nomes do trap no Brasil.</p>
+        <p>A trajetória de Matuê é marcada por uma ascensão meteórica. Influenciado pela cultura hip-hop desde jovem, ele começou a produzir suas próprias músicas ainda adolescente. Com a criação da gravadora 30PRAUM, ao lado de amigos, Matuê encontrou o ambiente ideal para desenvolver seu talento e dar vida a seus projetos. A consagração veio com o lançamento de hits como "Anos Luz" e "Máquina do Tempo", que o projetaram para o cenário nacional. Sua sonoridade experimental, que mistura elementos do trap com outros gêneros musicais, conquistou um público fiel e diversificado.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Matuê incluem:</p>
         <ul>
@@ -38,9 +38,9 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">Teto</h2>
-        <p>Teto, cujo nome verdadeiro é Teto Tavares, nasceu em 20 de agosto de 2001, em São Paulo, Brasil. Desde jovem, Teto se interessou por música e começou a produzir suas próprias faixas, inicialmente influenciado pelo rap e pelo trap. Ele se destacou por sua habilidade lírica e pela maneira como abordava temas do cotidiano em suas letras.</p>
+        <p>Clériton Sávio Santos Silva, mais conhecido como Teto, é um dos nomes mais quentes do cenário musical brasileiro, especialmente no universo do trap. Nascido em Jacobina, Bahia, Teto conquistou o público com sua voz marcante, letras autênticas e um carisma inegável.</p>
         <h3>História na Música</h3>
-        <p>Teto começou a ganhar notoriedade em 2019, lançando suas primeiras músicas nas plataformas de streaming. Sua mistura de melodias cativantes com letras que falam sobre amor, relacionamentos e as dificuldades da vida urbana rapidamente conquistou uma base de fãs sólida. Ele é conhecido por sua autenticidade e pelo estilo único, que combina influências do rap e do R&B.</p>
+        <p>A história de Teto é um verdadeiro fenômeno da era digital. Ainda adolescente, ele começou a compor e gravar suas músicas em um quarto, sem grandes pretensões. No entanto, o que começou como um hobby logo se transformou em uma paixão que tomaria conta de sua vida. A grande virada veio com as famosas "prévias". Teto compartilhava trechos de suas músicas nas redes sociais, e a repercussão foi instantânea. Seus fãs se apaixonaram por sua sonoridade única e por suas letras que falavam sobre o dia a dia da juventude. Rapidamente, Teto ganhou o apelido de "Rei das Prévias". A demanda por suas músicas era tão grande que, mesmo antes de lançar um álbum completo, Teto já era um dos artistas mais ouvidos no Brasil. Sua autenticidade e carisma o tornaram um dos representantes da nova geração do rap nacional.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns das músicas mais notáveis de Teto incluem:</p>
         <ul>
@@ -52,6 +52,8 @@ const Trap = () => {
           <li>"Minha Vida É Um Filme"</li>
           <li>"Flow Espacial" (part. WIU e Matuê)</li>
           <li>"Fim de Semana no Rio"</li>
+          <li>"Problemas de um Milionário" (part. WIU)</li>
+          <li>Vampiro" (part. Matuê e WIU)</li>
         </ul>
         <p>Essas faixas se destacaram nas paradas e ajudaram a consolidar sua presença na cena musical.</p>
         <h3>Contribuições e Legado</h3>
@@ -71,7 +73,7 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">Veigh</h2>
-        <p>Veigh, cujo nome verdadeiro é Gustavo Veiga, nasceu em 17 de agosto de 1998, em São Paulo, Brasil. Desde jovem, ele se interessou por música e começou a escrever letras e compor suas próprias canções. Veigh se destacou no cenário do rap e do trap brasileiro, utilizando suas experiências pessoais como inspiração para suas letras.</p>
+        <p>Veigh, cujo nome verdadeiro é Thiago Veigh, nasceu em 12 de setembro de 2001, em São Paulo, Brasil. Desde jovem, ele se interessou por música e começou a escrever letras e compor suas próprias canções. Veigh se destacou no cenário do rap e do trap brasileiro, utilizando suas experiências pessoais como inspiração para suas letras.</p>
         <h3>História na Música</h3>
         <p>Veigh começou a ganhar notoriedade em 2018, quando começou a lançar suas músicas nas plataformas digitais. Ele rapidamente se tornou conhecido por sua mistura de melodias cativantes e letras que abordam temas como amor, superação e a vida nas ruas. Seu estilo é caracterizado por uma produção envolvente e uma entrega lírica autêntica.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -85,6 +87,8 @@ const Trap = () => {
           <li>"Vem Desestressar"</li>
           <li>"Olá, Moça"</li>
           <li>"Nois é Nois"</li>
+          <li>"CONFISSÕES PT2"</li>
+          <li>"Loucura"</li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>Veigh é reconhecido por trazer uma nova perspectiva ao rap e trap brasileiros, explorando temas relevantes e conectando-se emocionalmente com seu público. Sua capacidade de contar histórias por meio de suas letras e sua autenticidade como artista o tornaram uma figura influente entre os jovens. Seu legado se reflete na sua contribuição para a cena musical urbana, inspirando novos artistas a serem verdadeiros em sua expressão artística. Com uma base de fãs crescente e um estilo único, Veigh está moldando o futuro do rap no Brasil, abrindo portas para a nova geração de músicos.</p>
@@ -103,9 +107,9 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">WIU</h2>
-        <p>WIU, cujo nome verdadeiro é Wilian Gomes, nasceu em 20 de fevereiro de 1998, em São Paulo, Brasil. Desde cedo, ele se interessou por música e começou a produzir suas próprias canções. WIU se destacou no cenário do rap e do trap brasileiro, trazendo uma proposta inovadora e letras que refletem suas experiências pessoais e a realidade ao seu redor.</p>
+        <p>WIU, nome artístico de Vinicius William Sales de Lima, é um rapper, cantor, compositor e produtor musical brasileiro que tem conquistado o cenário musical nacional com seu estilo único e letras marcantes. Nascido em Fortaleza, no Ceará, WIU desde cedo demonstrou paixão pelo hip-hop e pela produção musical.</p>
         <h3>História na Música</h3>
-        <p>WIU começou a ganhar notoriedade em 2018, quando começou a lançar suas músicas nas plataformas digitais. Com uma mistura de rap, trap e R&B, ele rapidamente conquistou uma base de fãs, destacando-se pela autenticidade de suas letras e pela qualidade de suas produções. Seu estilo único e suas colaborações com outros artistas também contribuíram para seu crescimento no cenário musical.</p>
+        <p>WIU começou sua jornada musical ainda adolescente, explorando programas de produção musical e compartilhando suas criações nas plataformas digitais. Sua ascensão meteórica se deu após ser descoberto por Matuê e integrado à gravadora 30PRAUM, um dos principais selos de trap no Brasil. A parceria com a 30PRAUM impulsionou a carreira de WIU, que rapidamente se tornou um dos nomes mais relevantes do trap brasileiro. Seus hits como "Felina", "Horas Iguais" e "Coração de Gelo" alcançaram o topo das paradas musicais e o tornaram um dos artistas mais ouvidos no país.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de WIU incluem:</p>
         <ul>          
@@ -137,7 +141,7 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">Chefin</h2>
-        <p>Chefin, cujo nome verdadeiro é Lucas Dantas, nasceu em 28 de agosto de 1997, em São Paulo, Brasil. Desde jovem, Chefin se interessou pela música, especialmente pelo rap e trap. Ele começou a escrever suas próprias letras e a produzir suas canções, buscando expressar suas vivências e sentimentos por meio da música.</p>
+        <p>Chefin, cujo nome verdadeiro é Natanael Cauã Almeida, nasceu em 14 de setembro de 2004, no Rio de Janeiro, Brasil. Desde jovem, Chefin se interessou pela música, especialmente pelo rap e trap. Ele começou a escrever suas próprias letras e a produzir suas canções, buscando expressar suas vivências e sentimentos por meio da música.</p>
         <h3>História na Música</h3>
         <p>Chefin começou a ganhar destaque no cenário musical em 2018, quando lançou suas primeiras músicas nas plataformas digitais. Sua habilidade em mesclar melodias cativantes com letras que abordam temas como amor, superação e a vida nas ruas rapidamente conquistou uma base de fãs. Com um estilo autêntico e uma presença marcante, ele se tornou uma figura importante na nova geração do rap brasileiro.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -170,7 +174,7 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">MC Cabelinho </h2>
-        <p>MC Cabelinho, cujo nome verdadeiro é Gustavo Rodrigues, nasceu em 25 de julho de 1996, na cidade do Rio de Janeiro, Brasil. Crescendo em um ambiente marcado pela cultura de rua e pelo funk carioca, ele começou a se interessar pela música desde jovem. A carreira de MC Cabelinho decolou quando ele começou a se apresentar em bailes e eventos locais, onde rapidamente ganhou notoriedade.</p>
+        <p>MC Cabelinho, cujo nome verdadeiro é Victor Hugo Oliveira, nasceu em 28 de janeiro de 1996, na cidade do Rio de Janeiro, Brasil. Crescendo em um ambiente marcado pela cultura de rua e pelo funk carioca, ele começou a se interessar pela música desde jovem. A carreira de MC Cabelinho decolou quando ele começou a se apresentar em bailes e eventos locais, onde rapidamente ganhou notoriedade.</p>
         <h3>História na Música</h3>
         <p>MC Cabelinho se destacou no cenário do funk brasileiro em meados de 2017, quando lançou suas primeiras músicas e videoclipes. Com letras que abordam temas do cotidiano, amor, e as experiências da vida nas comunidades cariocas, ele conquistou um público fiel. Seu estilo autêntico e suas letras envolventes o ajudaram a se firmar como um dos principais nomes do funk na nova geração.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -199,7 +203,7 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">Tasha & Tracie</h2>
-        <p>Tasha & Tracie são uma dupla de cantoras e compositoras brasileiras, formadas por Tasha (Tasha de Souza) e Tracie (Tracie de Souza), que ganharam destaque na cena musical brasileira com seu estilo autêntico e envolvente. Elas são conhecidas por sua fusão de ritmos que inclui funk, rap e R&B, trazendo uma nova perspectiva ao cenário da música urbana.</p>
+        <p>Tasha & Tracie são uma dupla de cantoras e compositoras brasileiras, formadas por Tasha (Tasha Okereke) e Tracie (Tracie Okereke), que ganharam destaque na cena musical brasileira com seu estilo autêntico e envolvente. Elas são conhecidas por sua fusão de ritmos que inclui funk, rap e R&B, trazendo uma nova perspectiva ao cenário da música urbana.</p>
         <h3>História na Música</h3>
         <p>Tasha & Tracie começaram suas carreiras como influenciadoras digitais e, em 2020, decidiram se unir musicalmente. Elas rapidamente chamaram a atenção do público com suas letras que abordam temas de empoderamento feminino, relacionamentos e a realidade das mulheres nas comunidades. A parceria foi um sucesso, e suas músicas começaram a ganhar popularidade nas plataformas de streaming e redes sociais.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -232,7 +236,7 @@ const Trap = () => {
     
       <div> 
         <h2 className="cantores">L7nnon</h2>
-        <p>L7nnon, cujo nome verdadeiro é Lennon Costa, nasceu em 24 de janeiro de 1999, em São Paulo, Brasil. Desde cedo, ele se interessou pela música, especialmente pelo rap e pelo trap. Com uma trajetória marcada por desafios pessoais, L7nnon começou a escrever letras como uma forma de se expressar e contar suas experiências de vida.</p>
+        <p>L7nnon, cujo nome verdadeiro é Lennon Barbosa, nasceu em 30 de março de 1994, no Rio de Janeiro, Brasil. Desde cedo, ele se interessou pela música, especialmente pelo rap e pelo trap. Com uma trajetória marcada por desafios pessoais, L7nnon começou a escrever letras como uma forma de se expressar e contar suas experiências de vida.</p>
         <h3>História na Música</h3>
         <p>L7nnon começou a ganhar notoriedade em 2018, quando lançou suas primeiras músicas nas plataformas digitais. Seu estilo mistura rap, trap e elementos do R&B, destacando-se pela profundidade de suas letras e por suas melodias envolventes. Através de sua música, ele aborda temas como amor, superação e a realidade das periferias, conquistando uma base de fãs leal.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -261,7 +265,7 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">Xamã</h2>
-        <p>Xamã, cujo nome verdadeiro é Gustavo Pereira (também conhecido como Xamã da Silva), nasceu em 22 de março de 1995, no Rio de Janeiro, Brasil. Desde jovem, ele foi influenciado pela cultura do hip-hop e pela música brasileira, começando a se interessar pela produção musical e pela escrita de letras. Sua jornada começou em batalhas de freestyle e ele rapidamente se destacou no cenário do rap.</p>
+        <p>Xamã, cujo nome verdadeiro é Geizon Carlos (também conhecido como Xamã da Silva), nasceu em 30 de outubro de 1989, no Rio de Janeiro, Brasil. Desde jovem, ele foi influenciado pela cultura do hip-hop e pela música brasileira, começando a se interessar pela produção musical e pela escrita de letras. Sua jornada começou em batalhas de freestyle e ele rapidamente se destacou no cenário do rap.</p>
         <h3>História na Música</h3>
         <p>Xamã começou a ganhar notoriedade em 2019, quando lançou suas primeiras músicas e colaborou com outros artistas emergentes. Ele é conhecido por suas letras poéticas e reflexivas, que abordam temas como a vida nas favelas, amor, superação e espiritualidade. Seu estilo mistura rap, trap e influências da música brasileira, criando um som único e envolvente.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -290,7 +294,7 @@ const Trap = () => {
 
       <div> 
         <h2 className="cantores">Slipmami</h2>
-        <p>Slipmami, cujo nome verdadeiro é Jéssica de Oliveira, nasceu em 4 de fevereiro de 2000, no Rio de Janeiro, Brasil. Desde jovem, ela se interessou pela música e pela cultura do hip-hop, especialmente pelo rap. Com uma forte presença nas redes sociais, Slipmami começou a se destacar por sua autenticidade e letras que refletem suas experiências pessoais e a realidade das comunidades cariocas.</p>
+        <p>Slipmami, cujo nome verdadeiro é Yasmin Pinto da Silva,, nasceu em 3 de junho de 2000, no Rio de Janeiro, Brasil. Desde jovem, ela se interessou pela música e pela cultura do hip-hop, especialmente pelo rap. Com uma forte presença nas redes sociais, Slipmami começou a se destacar por sua autenticidade e letras que refletem suas experiências pessoais e a realidade das comunidades cariocas.</p>
         <h3>História na Música</h3>
         <p>Slipmami ganhou notoriedade no cenário do rap brasileiro em 2019, quando lançou suas primeiras músicas nas plataformas digitais. Sua mistura de rap e funk, combinada com letras empoderadoras e envolventes, rapidamente conquistou um público fiel. Ela se destaca pela sua abordagem direta e por trazer à tona questões como empoderamento feminino, amor e desafios da vida urbana.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
