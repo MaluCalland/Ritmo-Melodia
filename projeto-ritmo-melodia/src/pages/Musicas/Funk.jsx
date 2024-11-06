@@ -170,7 +170,7 @@ const Funk = () => {
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p> Bonde do Tigrão lançou diversos álbuns e singles ao longo de sua carreira. Entre seus principais trabalhos, destacam-se:</p>
         <ul>
-          <li>O Baile Todo (2018): Com a conhcida "Tchutchuca".</li>
+          <li>O Baile Todo (2018): Com a conhecida "Tchutchuca".</li>
           <li>Ressurreição (2015): Possui "Quem Tá Feliz Levante a Mão".</li>
           <li>Bonde Do Tigrão (2001): Inclui "O Baile Todo", uma de suas músicas mais conhecidas.</li>
           <li>Pega o Bonde e Vem (2001): Contém "Mais um dia"</li>
