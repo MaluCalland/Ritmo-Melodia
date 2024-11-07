@@ -136,7 +136,7 @@ const Samba = () => {
           <li>Da Noite pro Dia (2010): Um álbum com novas composições e arranjos, mantendo sua essência musical e seu lirismo característico.</li>
         </ul>
         <h3>Contribuições e Legado</h3>
-        <p></p>
+        <p>Jorge Aragão é considerado um dos maiores poetas do samba brasileiro e um dos principais representantes do gênero nas últimas décadas. Com sua habilidade para criar letras poéticas e sua musicalidade rica, ele foi responsável por trazer o samba de volta para as rádios e para as paradas de sucesso, contribuindo para uma nova era do gênero na música popular brasileira. Suas composições foram gravadas por grandes nomes, como Beth Carvalho, Alcione, Leci Brandão e Zeca Pagodinho, o que solidificou seu papel como referência na música brasileira. Além disso, Aragão também é celebrado por sua presença no palco e por sua relação próxima com o público. Seus shows são caracterizados pela interação com a plateia e pelo clima de celebração da cultura do samba. O legado de Jorge Aragão está em suas composições atemporais, que ainda tocam corações e continuam sendo regravadas por novos artistas. Ele segue como um ícone do samba e da cultura brasileira, representando a resistência, a alegria e a poesia do samba em suas mais diversas formas.</p>
       </div>
       <div>
         <h3></h3>
@@ -180,116 +180,116 @@ const Samba = () => {
       </div>
 
       <div> 
-        <h2 className="cantores">Artista</h2>
-        <p></p>
+        <h2 className="cantores">Elza Soares</h2>
+        <p>Elza Soares, nascida em 23 de junho de 1930 no Rio de Janeiro, é uma das figuras mais icônicas da música brasileira. Conhecida como a "Mulher do Fim do Mundo", Elza conquistou o público com sua voz rouca e inconfundível e com uma trajetória marcada por superações e uma obra que expressa o sofrimento e a força do povo brasileiro. Com sua mistura de samba, jazz, MPB e música eletrônica, ela se reinventou inúmeras vezes, sempre se mantendo relevante e revolucionária. Elza é celebrada tanto por sua contribuição artística quanto por sua voz ativista em favor das mulheres, dos negros e dos marginalizados.</p>
         <h3>História na Música</h3>
-        <p></p>
+        <p>Elza Soares teve uma infância marcada pela pobreza e, desde jovem, passou por diversas dificuldades, casando-se aos 12 anos e perdendo seu primeiro filho logo em seguida. Em uma audição ainda adolescente, ela disse que queria "comer" e impressionou a todos com sua voz e força. Sua carreira começou nos anos 50, quando cantou no programa de calouros de Ary Barroso, no qual foi incentivada a seguir cantando. Sua primeira gravação foi em 1959, com a música “Se Acaso Você Chegasse”, que rapidamente virou sucesso e lançou Elza ao estrelato. Elza Soares consolidou sua carreira nos anos 60 e 70, cantando samba e MPB com um estilo único e inovador. Nos anos 80 e 90, Elza teve que enfrentar dificuldades pessoais e problemas de saúde, mas retornou com força nos anos 2000, tornando-se um ícone de resistência e representatividade. Sua parceria com a nova geração de músicos e sua capacidade de se reinventar a cada fase foram essenciais para que ela se mantivesse uma artista relevante e inovadora até o final de sua vida.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Artista incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Elza Soares incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Se Acaso Você Chegasse (1960): Seu primeiro grande sucesso e um dos sambas mais icônicos de sua carreira</li>
+          <li>A Bossa Negra (1961): Um álbum que mostra seu talento em combinar samba com a sofisticação da bossa nova e do jazz.</li>
+          <li>Do Cóccix Até o Pescoço (2002): Marca seu retorno triunfal e traz parcerias com grandes músicos brasileiros.</li>
+          <li>A Mulher do Fim do Mundo (2015): Um álbum premiado e revolucionário que mistura samba com elementos de rock e música eletrônica, abordando temas como violência, racismo e empoderamento.</li>
+          <li>Deus é Mulher (2018): Com letras fortes sobre empoderamento feminino, o álbum reafirma seu papel como voz de resistência e inovação.</li>
         </ul>
         <h3>Contribuições e Legado</h3>
-        <p></p>
+        <p>Elza Soares é uma das artistas mais versáteis e inovadoras do Brasil, sempre engajada em temas sociais e nunca se limitando a um único estilo. Sua voz rouca e sua personalidade forte abriram espaço para que ela se tornasse uma voz poderosa em questões de gênero, raça e justiça social. Sua carreira é marcada pelo engajamento social e político, tendo sido uma das primeiras artistas a expor questões como o racismo e a violência doméstica. A contribuição de Elza vai além de suas músicas: ela se tornou um símbolo de resistência, força e transformação. Ela influenciou uma geração de artistas, como Linn da Quebrada, Emicida e Liniker, e seu legado se mantém vivo em sua luta pela representatividade. Em 2022, aos 91 anos, Elza Soares faleceu, deixando uma marca indelével na música e cultura brasileiras. Ela será lembrada como uma lenda que transformou a dor em arte e como um ícone de empoderamento e luta pela justiça e igualdade.</p>
       </div>
       <div>
         <h3></h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/74B0AOD5Ni0"
+            title="Se acaso você chegasse"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
 
       <div> 
-        <h2 className="cantores">Artista</h2>
-        <p></p>
+        <h2 className="cantores">Arlindo Cruz</h2>
+        <p>Arlindo Cruz é um dos maiores nomes do samba e do pagode brasileiro. Nascido Arlindo Domingos da Cruz Filho, em 14 de setembro de 1958, no Rio de Janeiro, ele é cantor, compositor e multi-instrumentista. Arlindo é amplamente reconhecido por sua habilidade de compor sambas marcantes e por sua contribuição para o gênero ao longo de décadas. Sua carreira foi interrompida em 2017, quando ele sofreu um grave AVC, mas seu legado e influência continuam vivos no samba brasileiro.</p>
         <h3>História na Música</h3>
-        <p></p>
+        <p>Arlindo Cruz cresceu no bairro de Madureira, um dos berços do samba carioca, e desde cedo mostrou interesse pela música. Aos sete anos, começou a tocar cavaquinho e, mais tarde, se aproximou do samba ao frequentar escolas de samba e rodas no subúrbio carioca. Sua trajetória profissional começou no final dos anos 70, quando ele se juntou ao grupo Fundo de Quintal, um dos maiores expoentes do samba e do pagode da época. Ao lado de artistas como Jorge Aragão e Almir Guineto, Arlindo ajudou a popularizar o pagode e a modernizar o samba com o uso de instrumentos como o banjo e o tantã. Além do Fundo de Quintal, Arlindo também teve uma carreira solo de muito sucesso. Com uma abordagem poética e melodiosa, ele conquistou o público e consolidou sua carreira como um dos maiores compositores do samba. Sua habilidade de criar letras que falam de amor, religiosidade e cotidiano o fez popular entre sambistas e amantes do gênero.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Artista incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Arlindo Cruz incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Sambista Perfeito (2006): Um dos álbuns mais celebrados de Arlindo, que mostra seu talento em canções clássicas.</li>
+          <li>Pagode do Arlindo (2008): Um álbum que apresenta Arlindo em seu melhor estilo, com letras que retratam o cotidiano e a alegria do samba.</li>
+          <li>Batuques e Romances (2009): Este álbum mostra sua versatilidade ao misturar elementos do samba com outros estilos brasileiros.</li>
+          <li>Herança Popular (2012): Um álbum que revisita as raízes do samba com composições próprias e homenagens aos grandes nomes do gênero.</li>
+          <li>2 Arlindos (2013): Álbum colaborativo com seu filho, Arlindo Neto, que reafirma o legado de sua música e mostra a passagem de geração.</li>
         </ul>
         <h3>Contribuições e Legado</h3>
-        <p></p>
+        <p>Arlindo Cruz é amplamente reconhecido como um dos maiores poetas do samba contemporâneo. Seu talento para compor letras poéticas e ao mesmo tempo acessíveis conquistou sambistas de todas as gerações, e suas composições são gravadas por artistas de vários estilos. Ao lado de outros nomes, ele ajudou a moldar o que hoje é conhecido como pagode, uma vertente mais popular do samba. A importância de Arlindo Cruz também reside na sua capacidade de unir tradição e inovação. Ele modernizou o samba ao introduzir novos instrumentos e estilos, mas sempre mantendo a essência do gênero. Além disso, ele teve papel crucial no lançamento e apoio de novos talentos do samba, atuando como uma espécie de mentor para jovens músicos. O legado de Arlindo foi imortalizado não só em suas músicas, mas também em sua atitude como defensor do samba e da cultura popular brasileira. Mesmo após o AVC que o afastou dos palcos em 2017, sua obra continua a inspirar e é celebrada por artistas e fãs. Arlindo Cruz representa a alma do samba, e sua contribuição para a música brasileira é inestimável.</p>
       </div>
       <div>
         <h3></h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/WL5eFEKUcPQ"
+            title="O show tem que continuar"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
 
       <div> 
-        <h2 className="cantores">Artista</h2>
-        <p></p>
+        <h2 className="cantores">Paulinho da Viola</h2>
+        <p>Paulinho da Viola, nascido Paulo César Batista de Faria em 12 de novembro de 1942, no Rio de Janeiro, é um dos maiores sambistas, compositores e violonistas do Brasil. Com sua voz suave e seu estilo elegante, Paulinho é conhecido por unir tradição e modernidade no samba, e é considerado um dos grandes poetas da música popular brasileira. Ele é também um importante defensor das escolas de samba e da cultura do samba de raiz, mantendo-se fiel às suas origens e ao mesmo tempo inovando em suas criações.</p>
         <h3>História na Música</h3>
-        <p></p>
+        <p>Filho do violonista César Faria, do grupo Época de Ouro, Paulinho cresceu em um ambiente musical, onde o samba e o choro eram parte do cotidiano. Na juventude, começou a frequentar rodas de samba e conheceu grandes nomes do gênero, como Cartola, Nelson Cavaquinho e Zé Keti. Sua carreira começou a ganhar destaque nos anos 60, quando ele se uniu ao movimento do samba moderno no Rio de Janeiro, principalmente no ambiente da Portela, uma das mais tradicionais escolas de samba da cidade. Em 1965, Paulinho se juntou ao grupo A Voz do Morro, ao lado de Zé Keti e Elton Medeiros, entre outros, e juntos ajudaram a difundir o samba de raiz. Durante os anos 70, ele consolidou sua carreira solo, lançando álbuns icônicos e ganhando o respeito e admiração do público e da crítica. Sua música é caracterizada pela abordagem lírica e poética, muitas vezes falando sobre o cotidiano, o amor e as tradições do samba. Paulinho é também um exímio compositor de choros, e sua produção se estende por diversos estilos da música popular brasileira.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Artista incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Paulinho da Viola incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Paulinho da Viola (1968): Um de seus primeiros álbuns solo, que inclui músicas como “Recado” e “Duvide-o-dó”.</li>
+          <li>Foi um Rio que Passou em Minha Vida (1970): Um álbum que traz o clássico título homônimo, que é um verdadeiro hino à Portela e ao samba.</li>
+          <li>Nervos de Aço (1973): Um dos álbuns mais aclamados de sua carreira, com sambas melancólicos e belos choros, incluindo “Nervos de Aço”.</li>
+          <li>Memórias Cantando (1976): Um álbum em que Paulinho revisita suas raízes e homenageia o samba tradicional, com faixas como “Sinal Fechado”.</li>
+          <li>Paulinho da Viola e a Velha Guarda da Portela (1980): Um projeto ao lado da Velha Guarda da Portela, reafirmando seu vínculo com a tradição do samba de raiz.</li>
         </ul>
         <h3>Contribuições e Legado</h3>
-        <p></p>
+        <p>Paulinho da Viola é um dos sambistas mais respeitados do Brasil, não apenas pelo seu talento como compositor e cantor, mas também por sua dedicação à cultura do samba e do choro. Ele desempenhou um papel crucial na valorização da Velha Guarda da Portela, ajudando a resgatar a história e a obra de sambistas mais antigos e mantendo viva a tradição das escolas de samba do Rio de Janeiro. Sua música é reverenciada por unir o samba e o choro com elementos de música erudita, jazz e MPB, criando uma sonoridade única que é ao mesmo tempo clássica e inovadora. Ele também é uma figura importante na valorização do samba como expressão cultural e social, e suas letras, muitas vezes poéticas e reflexivas, abordam temas como o amor, a vida e a identidade cultural brasileira. Paulinho é conhecido por sua integridade e compromisso com a arte e com o samba, sempre mantendo uma postura discreta e humilde. O legado de Paulinho da Viola é imensurável. Ele é considerado um dos maiores compositores do Brasil e uma verdadeira referência para o samba e para a música popular brasileira. Sua contribuição foi fundamental para que o samba fosse não só preservado, mas também reconhecido e celebrado como patrimônio cultural. Com seu estilo único e seu respeito pela tradição, Paulinho da Viola permanece como uma das maiores vozes do samba e como um ícone da música brasileira.</p>
       </div>
       <div>
         <h3></h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/DFBBy0RY8p0"
+            title="Foi um rio que passou em minha vida"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
 
       <div> 
-        <h2 className="cantores">Artista</h2>
-        <p></p>
+        <h2 className="cantores">Diogo Nogueira</h2>
+        <p>Diogo Nogueira, nascido em 26 de abril de 1981, no Rio de Janeiro, é um dos principais sambistas contemporâneos do Brasil. Filho do lendário sambista João Nogueira, Diogo cresceu rodeado pelo samba, e sua carreira reflete o amor pelo gênero e pela tradição da música brasileira. Apesar de inicialmente sonhar em ser jogador de futebol, ele acabou seguindo os passos do pai e dedicou-se ao samba, trazendo um toque jovem e contemporâneo ao estilo sem perder a essência do samba de raiz. Diogo é conhecido por sua voz potente, carisma no palco e um repertório que inclui sambas de amor, samba de roda e até fusões com outros ritmos brasileiros.</p>
         <h3>História na Música</h3>
-        <p></p>
+        <p>Diogo Nogueira teve contato com o samba desde pequeno, frequentando rodas e eventos promovidos pelo pai, João Nogueira, e conviveu com grandes nomes do samba, como Beth Carvalho, Alcione e Martinho da Vila. Sua carreira começou oficialmente em 2007, após participar de uma roda de samba em homenagem ao seu pai. Diogo decidiu gravar um CD em tributo ao pai, que rapidamente conquistou o público e deu início à sua jornada musical. Seu álbum de estreia, Diogo Nogueira Ao Vivo, lançado em 2007, foi um grande sucesso e solidificou seu nome no cenário do samba brasileiro. A partir daí, ele lançou diversos álbuns e DVDs ao vivo que mostraram seu talento e consolidaram sua carreira. Com um estilo próprio, Diogo se tornou conhecido não só pelo samba de raiz, mas também por sua versatilidade ao incorporar outros estilos e ao renovar o samba com sua interpretação única.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Artista incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Diogo Nogueira incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>Diogo Nogueira Ao Vivo (2007): Seu álbum de estreia, que inclui sucessos como “A Vitória Demora Mas Vem” e “Fé em Deus”.</li>
+          <li>Tô Fazendo a Minha Parte (2009): Inclui faixas como “Malandro é Malandro e Mané é Mané”, que se tornaram hits e ajudaram a consolidar seu nome.</li>
+          <li>Diogo Nogueira Ao Vivo em Cuba (2012): Um projeto especial gravado em Cuba, que traz o samba com influências da música caribenha, com músicas como “Tá Faltando o Quê?”.</li>
+          <li>Munduê (2017): Com uma sonoridade mais voltada ao samba de raiz e percussão, esse álbum destaca faixas como “Coragem” e “Pé na Areia”.</li>
+          <li>Samba de Verão (2021): Um álbum em homenagem ao verão carioca e ao samba, com músicas alegres e vibrantes, incluindo o sucesso “Ouro da Mina”.</li>
         </ul>
         <h3>Contribuições e Legado</h3>
-        <p></p>
+        <p>Diogo Nogueira é visto como um dos maiores representantes do samba moderno, sendo responsável por atrair uma nova geração de fãs ao gênero, ao mesmo tempo que homenageia e respeita as tradições do samba. Ele colabora frequentemente com outros grandes nomes do samba e da MPB, ajudando a difundir o samba em outras esferas da música brasileira. Com seu carisma e talento, Diogo conseguiu se destacar e preservar o legado deixado por seu pai, ao mesmo tempo que construiu uma carreira própria e trouxe inovações ao gênero. Diogo Nogueira também é um dos artistas que mais se apresenta ao vivo, seja em shows, festivais ou eventos culturais, fortalecendo a presença do samba nos palcos brasileiros. Além de seu talento musical, ele se destaca pelo envolvimento em causas sociais e pela divulgação da cultura brasileira no exterior, especialmente na América Latina, onde o samba tem forte aceitação. O legado de Diogo Nogueira é uma prova de sua dedicação ao samba e à cultura brasileira. Com uma carreira em ascensão e uma voz única, ele ajudou a renovar o gênero e trouxe um toque contemporâneo, mostrando que o samba continua vivo e relevante. Ele é um dos principais responsáveis pela preservação e popularização do samba entre o público jovem, e seu trabalho assegura que as futuras gerações também se apaixonem por esse gênero essencial da música brasileira.</p>
       </div>
       <div>
         <h3></h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/h8PQQvNn6aI"
+            title="Pé na areia"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>

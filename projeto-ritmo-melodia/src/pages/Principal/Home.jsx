@@ -2,17 +2,17 @@ import React from 'react';
 import { Outlet , useNavigate} from 'react-router-dom';
 
 import imagemAxe from '../../assets/axe.webp'; 
-import imagemForro from '../../assets/forro.png'; 
-import imagemFunk from '../../assets/funk.png'; 
+import imagemForro from '../../assets/forro.jpg'; 
+import imagemFunk from '../../assets/funk.webp'; 
 import imagemMPB from '../../assets/mpb.png'; 
-import imagemPagode from '../../assets/pagode.png'; 
-import imagemPop from '../../assets/pop.png'; 
+import imagemPagode from '../../assets/pagode.jpg'; 
+import imagemPop from '../../assets/pop.webp'; 
 import imagemRap from '../../assets/rap.png'; 
-import imagemReggae from '../../assets/reggae.png'; 
-import imagemRock from '../../assets/rock.png'; 
+import imagemReggae from '../../assets/reggae.jpg'; 
+import imagemRock from '../../assets/rock.webp'; 
 import imagemSamba from '../../assets/samba.png'; 
 import imagemSertanejo from '../../assets/sertanejo.png'; 
-import imagemTrap from '../../assets/trap.png'; 
+import imagemTrap from '../../assets/trap.jpg'; 
 
 
 const Home = () => {
