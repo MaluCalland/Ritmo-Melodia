@@ -218,84 +218,84 @@ const Reggae = () => {
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
         <ul>
-          <li>"Chimarruts" (2002): O álbum de estreia da banda, que já trazia grandes hits como "Pra Ela" e "O Sol".</li>
-          <li>"Só pra Brilhar" (2004): Um álbum que consolida o sucesso da banda, com músicas como "Versos Simples" e "Do Lado de Cá".</li>
-          <li>"Ao Vivo" (2007): Um álbum ao vivo que registra a energia contagiante dos shows da banda.</li>
-          <li></li>
-          <li></li>
+          <li>”Chimarruts Ao Vivo” (2007): Com as famosas “Versos Simples”, “Saber Voar” e “Deixa Chover”.</li>
+          <li>”Chimarruts” (2007): Com os hits “Pra Ela”, “Iemanjá”, “Mil Poesias” e “Floripa”.</li>
+          <li>”Só Pra Brilhar” (2010): O álbum apresenta uma série de sucessos como “Do Lado de Cá”, “Quando O Amor Bate A Porta” e “Novo Começo”.</li>
+ 	        <li>”A Diferença” (2016): Inclui “Menina Blues”, “A Diferença” e “Me Leva”.</li>
+   	      <li>”Todos Somos Um - Live Session” (2020): Destaque para “Roots Dance”, “Marujo” e “Cabelo”.</li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>A Chimarruts deixou um legado significativo na música brasileira. A banda foi pioneira em levar o reggae com uma identidade gaúcha para um público mais amplo, ajudando a popularizar o gênero no país. Suas letras, que abordam temas como amor, natureza, amizade e a busca por um mundo melhor, tocaram o coração de milhões de pessoas, e suas músicas continuam a ser cantadas e celebradas até hoje. Em resumo, a Chimarruts é muito mais do que uma banda, é um movimento que celebra a vida, a amizade e a música. Suas canções continuam a ecoar em nossos corações, nos lembrando da importância de viver cada momento com intensidade e positividade.</p>
       </div>
       <div>
-        <h3> - Chimarruts</h3>
+        <h3> Versos Simples- Chimarruts</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/kc2MyOkFbuc"
+            title="Canção Versos Simples"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
 
-      <div> 
-        <h2 className="cantores">Marília Mendonça</h2>
-        <p></p>
-        <h3>História na Música</h3>
-        <p></p>
-        <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        <h3>Contribuições e Legado</h3>
-        <p></p>
-      </div>
       <div>
-        <h3></h3>
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-          ></iframe>
-      </div>
+          <h2 className="cantores">Edson Gomes</h2>
+          <p>Edson Gomes, nascido em 1961 em Salvador, Bahia, é um dos mais importantes representantes da música reggae no Brasil. Desde jovem, Edson se interessou por música, influenciado pelo cenário musical da sua cidade, que mesclava ritmos como o reggae, o samba e a MPB. Sua carreira começou a ganhar destaque nos anos 80, quando ele começou a se apresentar em festas e eventos locais.</p>
+          <h3>História na Música</h3>
+          <p>Edson Gomes é conhecido por suas letras que abordam temas sociais, políticos e espirituais, muitas vezes inspiradas por sua experiência de vida e pela realidade do povo brasileiro. Seu estilo único combina reggae jamaicano com ritmos brasileiros, o que o tornou um ícone do gênero no Brasil. Ele se destacou especialmente na cena musical da Bahia, trazendo uma nova perspectiva ao reggae nacional.</p>
+          <h3>Principais Álbuns e Músicas Famosas</h3>
+          <p>Ao longo de sua carreira, Edson Gomes lançou diversos álbuns que se tornaram referência no reggae brasileiro. Alguns dos principais álbuns incluem:</p>
+          <ul>
+            <li>”Reggae Resistência” (1988): Com os hits “Malandrinha”, “Na Sombra Da Noite” e "Rastafary”.</li>
+            <li>”Campo De Batalha” (1992): Com as famosas “Árvore”, “Ovelha” e “Criminalidade”.</li>
+            <li>Ao Vivo Em Salvador” (2005): Inclui “Campo de Batalha”, “Perdido de Amor” e “Samarina”.</li>
+            <li>”O  Melhor de Edson Gomes - Ao Vivo” (2013): O álbum apresenta uma série de sucessos como “Camalô”, “Babylon Vampire” e “Dívidas”.</li>
+            <li>A História Continua” (2024): Destaque para “Isaac / Malandrinha”, “Barrados no Baile” e “Lili”.</li>
+          </ul>
+          <h3>Contribuições e Legado</h3>
+          <p>Edson Gomes é reconhecido não apenas por sua música, mas também por seu papel como ativista social. Ele usa sua plataforma para abordar questões como desigualdade social, racismo e direitos humanos, tornando-se uma voz importante na luta por justiça social no Brasil. Seu legado é notável, pois ele ajudou a popularizar o reggae no Brasil e inspirou muitos artistas que vieram depois dele. Sua mistura de ritmos e letras profundas ajudou a criar um espaço único para o reggae dentro da cultura musical brasileira. Edson Gomes continua a se apresentar e gravar, mantendo viva a chama do reggae e sua mensagem de resistência e esperança.</p>
+        </div>
+        <div>
+          <h3>Malandrinha - Edson Gomes part. Natiruts</h3>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/bPlObRY40xs"
+              title="Canção Malandrinha"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+        </div>
 
-      <div> 
-        <h2 className="cantores">Marília Mendonça</h2>
-        <p></p>
-        <h3>História na Música</h3>
-        <p></p>
-        <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
-        <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-        </ul>
-        <h3>Contribuições e Legado</h3>
-        <p></p>
-      </div>
-      <div>
-        <h3></h3>
-          <iframe
-            width="560"
-            height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowFullScreen
-          ></iframe>
-      </div>
+        <div>
+          <h2 className="cantores">Ponto de Equilíbrio</h2>
+          <p>Ponto de Equilíbrio é uma banda brasileira de reggae formada em 1997, no Rio de Janeiro. Com uma formação que já passou por diversas mudanças, a banda se consolidou como um dos principais nomes do reggae no Brasil, sendo reconhecida por suas letras engajadas e melodias marcantes. O grupo é composto por músicos que compartilham uma paixão pelo reggae e pela mensagem de paz, amor e resistência.</p>
+          <h3>História na Música</h3>
+          <p>A banda começou a se destacar nos anos 2000, com uma proposta que mistura reggae, rock e influências da música popular brasileira. Desde seu início, Ponto de Equilíbrio tem se apresentado em festivais e eventos, conquistando um público fiel com suas performances energéticas. A sonoridade da banda é caracterizada por arranjos sofisticados e letras que falam sobre amor, justiça social e questões contemporâneas.</p>
+          <h3>Principais Álbuns e Músicas Famosas</h3>
+          <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+          <ul>
+            <li>”Reggae a Vida Com Amor” (2013): O álbum apresenta uma série de sucessos como “Ponto de Equilíbrio”, “Aonde Vai Chegar (Coisa Feia)” e “Árvore do Reggae”.</li>
+            <li>”Dia Após Dia Lutando” (2013): Com as famosas “Santa Kaya”, “Novo Dia” e “Hipócritas”.</li>
+            <li>”Essa É a Nossa Música” (2016): Com os hits “Estar Com Você”, “Chances” e “Nossa Música”.</li>
+ 	          <li>”Ponto & Amigos” (2017): Inclui “Vida de Rastaman”, “Stay Alive” e “Malandragem Às Avessas”.</li>
+   	        <li>”Abre a Janela” (2018): Destaque para “Janela da Favela”, “Verdadeiro Valor” e “Menino João”.</li>
+          </ul>
+          <h3>Contribuições e Legado</h3>
+          <p>Ponto de Equilíbrio é reconhecida por sua contribuição à cena do reggae brasileiro, ajudando a expandir o gênero e a torná-lo acessível a um público mais amplo. A banda é admirada não apenas pela qualidade de suas músicas, mas também pela forma como aborda temas sociais e políticos em suas letras. O legado da banda se reflete na forma como continua a inspirar novos artistas e a promover uma mensagem de amor e resistência em um contexto de desigualdade social. Com uma base de fãs sólida e um compromisso com a qualidade musical, Ponto de Equilíbrio se firmou como um dos pilares do reggae no Brasil, e sua influência continua a ser sentida na música contemporânea.</p>
+        </div>
+        <div>
+          <h3> Estar Com Você - Ponto de Equilíbrio</h3>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/t0iW__yQHBM"
+              title="Canção  Estar Com Você"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowFullScreen
+            ></iframe>
+        </div>
     </div>
   )
 }

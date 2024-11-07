@@ -315,8 +315,4 @@ const Pagode = () => {
   )
 }
 
-
 export default Pagode
-
-
-
