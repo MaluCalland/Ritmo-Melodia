@@ -9,7 +9,7 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">Ivete Sangalo</h2>
-        <p>Ivete Sangalo, nascida em 27 de maio de 1972, em Juazeiro, Bahia, é uma das mais icônicas cantoras e compositoras do Brasil, conhecida por sua energia contagiante e performances vibrantes. Ela é uma das principais figuras do axé music e do carnaval brasileiro.</p>
+        <p>Ivete Sangalo, nascida em 27 de maio de 1972, em Juazeiro - Bahia, é uma das mais icônicas cantoras e compositoras do Brasil, conhecida por sua energia contagiante e performances vibrantes. Ela é uma das principais figuras do axé music e do carnaval brasileiro.</p>
         <h3>História na Música</h3>
         <p>Ivete começou sua carreira nos anos 1990 como vocalista da banda Banda Eva, onde ganhou destaque com seu carisma e voz potente. Em 1999, lançou seu primeiro álbum solo, "Ivete Sangalo", que consolidou sua carreira e a tornou uma das artistas mais populares do Brasil. Desde então, Ivete se tornou uma presença constante no cenário musical brasileiro, com uma série de sucessos que a tornaram referência no gênero. Além de sua carreira musical, ela também se destacou como apresentadora de televisão e em eventos de grande porte, como o Carnaval da Bahia</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -37,12 +37,12 @@ const Axe = () => {
       </div>
 
       <div> 
-        <h2 className="cantores">Cláudia Leitte</h2>
-        <p>Cláudia Leitte, nascida em 10 de julho de 1980, em São Gonçalo dos Campos, Bahia, é uma renomada cantora e compositora brasileira, conhecida por sua voz potente e carisma no palco. Ela se destacou principalmente no gênero axé, tornando-se uma das principais artistas do carnaval brasileiro.</p>
+        <h2 className="cantores">Claudia Leitte</h2>
+        <p>Claudia Leitte, nascida em 10 de julho de 1980, em São Gonçalo - Rio de Janeiro, é uma renomada cantora e compositora brasileira, conhecida por sua voz potente e carisma no palco. Ela se destacou principalmente no gênero axé, tornando-se uma das principais artistas do carnaval brasileiro.</p>
         <h3>História na Música</h3>
-        <p>Cláudia começou sua carreira musical na adolescência, se apresentando em bandas locais. Em 2001, tornou-se vocalista da Banda Babado Novo, que rapidamente ganhou popularidade no cenário do axé. Com hits como "Bola de Sabão" e "Amor de Chocolate", a banda se tornou um sucesso no Brasil. Em 2008, Cláudia decidiu seguir carreira solo e lançou seu primeiro álbum solo, "Claudia Leitte", que a consolidou como uma das grandes estrelas da música brasileira. Sua mistura de axé com influências de pop e outros gêneros a tornou uma artista versátil e inovadora.</p>
+        <p>Claudia começou sua carreira musical na adolescência, se apresentando em bandas locais. Em 2001, tornou-se vocalista da Banda Babado Novo, que rapidamente ganhou popularidade no cenário do axé. Com hits como "Bola de Sabão" e "Amor de Chocolate", a banda se tornou um sucesso no Brasil. Em 2008, Claudia decidiu seguir carreira solo e lançou seu primeiro álbum solo, "Claudia Leitte", que a consolidou como uma das grandes estrelas da música brasileira. Sua mistura de axé com influências de pop e outros gêneros a tornou uma artista versátil e inovadora.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Cláudia Leitte incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Claudia Leitte incluem:</p>
         <ul>
           <li>"Claudia Leitte" (2008): Seu álbum de estreia solo, com hits como "As Máscaras" e "Pássaro de Fogo".</li>
           <li>"Dois Lados" (2009): Inclui "Samba de Verão" e "Famosa".</li>
@@ -67,9 +67,9 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">Banda Eva </h2>
-        <p>A Banda Eva é uma das mais icônicas bandas de axé music do Brasil, formada em 1990, em Salvador, Bahia. Inicialmente, a banda era liderada por Daniela Mercury, que contribuiu para seu crescimento e popularidade. Desde então, a Banda Eva tem se tornado um símbolo do carnaval baiano, conhecido por suas músicas animadas e contagiantes.</p>
+        <p>A Banda EVA, também conhecida apenas como EVA, é uma banda de axé music brasileira. Iniciada em 1980 apenas como um bloco de carnaval, o Eva, como era apenas chamado, teve em sua frente importantes cantores como Luiz Caldas, Daniela Mercury, Ricardo Chaves e Durval Lelys, vocalista do Asa de Águia. Em 1993 o bloco de carnaval se tornou oficialmente uma banda quando Ivete Sangalo assumiu os vocais e o grupo recém-formado oficialmente assinou com a Universal Music. Com Ivete o grupo "Me Abraça", "Beleza Rara", "Levada Louca", "Arerê" e "Carro Velho". Em 1999 Ivete Sangalo deixa o grupo para seguir carreira solo, sendo que em seu lugar entra Emanuelle Araújo. Em 2002 Emanuelle Araújo deixou a banda, entrando em seu lugar Saulo Fernandes, ex-vocalista do Chica Fé, banda que havia formado com seu irmão Sérgio Fernandes, sendo que com a entrada de Saulo se quebrou o ciclo de mulheres comandando os vocais da banda. Saulo passou 11 anos sendo vocalista da banda mas saiu no Carnaval de 2013, após a saída dele quem assumiu à frente da banda foi Felipe Pezzoni que permanece como vocalista até hoje.</p>
         <h3>História na Música</h3>
-        <p>A Banda Eva surgiu como um grupo de pagode e axé, ganhando notoriedade em festas de carnaval e eventos ao ar livre. Com a saída de Daniela Mercury em 1992, a banda passou por diversas formações e lideranças, mas sempre manteve seu foco em animar o público com ritmos dançantes e letras festivas. A Banda se destacou com sucessos que marcaram os anos 90 e 2000, e seu repertório inclui clássicos que são frequentemente tocados durante o carnaval. Ao longo dos anos, a banda lançou vários álbuns e se apresentou em grandes eventos, consolidando sua posição como uma das principais bandas de axé do Brasil.</p>
+        <p>A Banda Eva surgiu como um grupo de pagode e axé, ganhando notoriedade em festas de carnaval e eventos ao ar livre. A banda passou por diversas formações e lideranças, mas sempre manteve seu foco em animar o público com ritmos dançantes e letras festivas. A Banda se destacou com sucessos que marcaram os anos 90 e 2000, e seu repertório inclui clássicos que são frequentemente tocados durante o carnaval. Ao longo dos anos, a banda lançou vários álbuns e se apresentou em grandes eventos, consolidando sua posição como uma das principais bandas de axé do Brasil.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Banda Eva incluem:</p>
         <ul>
@@ -96,9 +96,9 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">É o Tchan</h2>
-        <p>É o Tchan é uma das bandas mais emblemáticas do axé music, formada em 1992 na Bahia. O grupo é conhecido por suas coreografias animadas, letras festivas e ritmos contagiantes, rapidamente se tornando um fenômeno cultural, especialmente durante o carnaval.</p>
+        <p>É o Tchan é uma das bandas mais emblemáticas do axé music, formada em 1994 na Bahia. O grupo é conhecido por suas coreografias animadas, letras festivas e ritmos contagiantes, rapidamente se tornando um fenômeno cultural, especialmente durante o carnaval.</p>
         <h3>História na Música</h3>
-        <p>A banda foi criada por Beto Jamaica e Compadre Washington, que trouxeram uma mistura de axé, pagode e outras influências musicais. Com suas performances carismáticas e danças marcantes, É o Tchan se destacou em várias festas e eventos, tornando-se um nome recorrente no carnaval baiano. O grupo lançou vários álbuns ao longo de sua carreira, e suas músicas se tornaram hits populares, atraindo um público diversificado. A partir dos anos 90, É o Tchan passou a fazer parte da identidade musical do Brasil, especialmente nas festas de carnaval.</p>
+        <p>A banda foi criada por Beto Jamaica e Compadre Washington, que trouxeram uma mistura de axé, pagode e outras influências musicais. Originalmente, além dos vocalistas, tinha como dançarinos Carla Perez, Débora Brasil e Jacaré, sendo que posteriormente Scheila Carvalho e Sheila Mello também se destacaram. Com suas performances carismáticas e danças marcantes, É o Tchan se destacou em várias festas e eventos, tornando-se um nome recorrente no carnaval baiano. O grupo lançou vários álbuns ao longo de sua carreira, e suas músicas se tornaram hits populares, atraindo um público diversificado. A partir dos anos 90, É o Tchan passou a fazer parte da identidade musical do Brasil, especialmente nas festas de carnaval.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de É o Tchan incluem:</p>
         <ul>
@@ -125,7 +125,7 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">Léo Santana </h2>
-        <p>Léo Santana, nascido Léo Santana de Jesus em 22 de fevereiro de 1988, em Salvador, Bahia, é um cantor e compositor brasileiro conhecido por sua energia contagiante e carisma no palco. Ele é um dos principais representantes do gênero axé e do pagode baiano.</p>
+        <p>Léo Santana, nascido Leandro Silva em 22 de abril de 1988, em Salvador - Bahia, é um cantor e compositor brasileiro conhecido por sua energia contagiante e carisma no palco. Ele é um dos principais representantes do gênero axé e do pagode baiano.</p>
         <h3>História na Música</h3>
         <p>Léo começou sua carreira musical em 2008 como vocalista do grupo de pagode Parangolé, onde se destacou com sucessos que rapidamente conquistaram o público. Sua voz marcante e presença de palco o tornaram um dos artistas mais populares da Bahia. Em 2016, Léo decidiu seguir carreira solo e lançou uma série de hits que solidificaram sua posição na música brasileira. Desde então, Léo Santana se tornou uma figura central no carnaval e em eventos de grande porte, conhecido por suas performances energéticas e dançantes.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -154,9 +154,9 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">Jammil e Uma Noites </h2>
-        <p>Jammil e Uma Noites é uma banda de axé music brasileira, formada em 1999, em Salvador, Bahia. O grupo é conhecido por sua mistura de ritmos, incluindo rock, reggae e música popular brasileira, trazendo um estilo inovador para o cenário do axé.</p>
+        <p>Jammil e Uma Noites é uma banda de axé music brasileira, formada em 1994, em Salvador, Bahia. O grupo é conhecido por sua mistura de ritmos, incluindo rock, reggae e música popular brasileira, trazendo um estilo inovador para o cenário do axé.</p>
         <h3>História na Música</h3>
-        <p>A banda foi criada pelo cantor Felipe Pezzoni e pelo guitarrista Sérgio Faria, que começaram a se apresentar em eventos e festas na Bahia. O nome "Jammil e Uma Noites" é uma referência ao famoso livro "As Mil e Uma Noites". Desde o início, o grupo se destacou pela energia contagiante de suas apresentações e pela originalidade de suas músicas. Em 2000, Jammil lançou seu primeiro álbum, "Jammil e Uma Noites", que rapidamente conquistou o público. O grupo se tornou um dos mais populares do carnaval, com canções que se tornaram clássicos do gênero.</p>
+        <p>Teve como vocalista original, Tuca Fernandes, entre 1994 e 2011, fase onde extraiu os maiores sucessos do grupo, como "Praieiro", "Tchau (I Have to Go Now)", "Ê, Saudade", "De Bandeja" e "É Verão". Entre 2011 e 2020, Levi Lima assumiu os vocais, e desde 2021, Rafael Barreto. Começaram a se apresentar em eventos e festas na Bahia. O nome "Jammil e Uma Noites" é uma referência ao famoso livro "As Mil e Uma Noites". Desde o início, o grupo se destacou pela energia contagiante de suas apresentações e pela originalidade de suas músicas. Em 2000, Jammil lançou seu primeiro álbum, "Jammil e Uma Noites", que rapidamente conquistou o público. O grupo se tornou um dos mais populares do carnaval, com canções que se tornaram clássicos do gênero.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Jammil e Uma Noites incluem:</p>
         <ul>
@@ -183,9 +183,9 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">Chiclete Com Banana</h2>
-        <p>Chiclete com Banana é uma das bandas mais icônicas do axé music brasileiro, formada em 1980, em Salvador, Bahia. Conhecida por suas letras românticas e animadas, a banda se tornou um verdadeiro símbolo do carnaval, atraindo multidões e conquistando uma base de fãs fiel.</p>
+        <p>Um dos maiores nomes do axé music, o Chiclete com Banana deixou sua marca indelével na história da música brasileira. Com uma trajetória repleta de sucessos e um carisma contagiante, a banda conquistou milhões de fãs ao redor do país e se tornou sinônimo de alegria e diversão. Formado em 1980, o Chiclete com Banana surgiu da união de talentosos músicos, entre eles Bell Marques, que se tornaria a voz marcante da banda. Inicialmente, o grupo se apresentava em festas e eventos locais, mas logo chamou a atenção do público e se tornou um dos principais nomes do Carnaval de Salvador. O nome "Chiclete com Banana", escolhido pelo cartunista Nildão, gerou bastante polêmica na época, mas acabou se tornando um dos mais originais e memoráveis da música brasileira. A sonoridade da banda, que mesclava ritmos africanos, caribenhos e brasileiros, conquistou o público e impulsionou a carreira do grupo.</p>
         <h3>História na Música</h3>
-        <p>A banda foi criada por Bell Marques, Elliott Sanches, Rafael Gouveia e outros músicos. Desde o início, Chiclete com Banana se destacou por sua mistura de ritmos e pela energia contagiante de suas performances. O nome da banda é uma referência a uma música popular de carnaval. Ao longo dos anos, a banda lançou diversos álbuns e se apresentou em grandes eventos, consolidando sua presença no cenário musical brasileiro. Chiclete com Banana é conhecida por suas participações marcantes nos carnavais da Bahia, onde suas músicas são obrigatórias em blocos de carnaval.</p>
+        <p>Com hits como "100%", "Diga que Valeu", "Voa Voa", "Amor Perfeito" e muitos outros, o Chiclete com Banana se consolidou como uma das principais bandas de axé music do país. Seus shows eram verdadeiras festas, com uma energia contagiante que contagiava o público. A banda se tornou um fenômeno de vendas, com milhões de discos vendidos e uma legião de fãs apaixonados, conhecidos como "chicleteiros". Ao longo de sua carreira, o Chiclete com Banana inovou e experimentou novos ritmos, sempre mantendo sua identidade musical. A banda participou de grandes eventos e festivais, levando sua música para todo o Brasil e para outros países. Com a saída de Bell Marques em 2014, o Chiclete com Banana passou por uma nova fase, com novos vocalistas e uma sonoridade renovada. Apesar das mudanças, a banda mantém viva a tradição e o legado deixado por seus fundadores. O Chiclete com Banana é muito mais do que uma banda de axé music. É um símbolo de uma época, um marco na história da música brasileira e uma fonte de alegria para milhões de pessoas. Seu legado musical continuará inspirando novas gerações por muitos anos.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Chiclete Com Banana incluem:</p>
         <ul>
@@ -199,12 +199,12 @@ const Axe = () => {
         <p>Chiclete com Banana é uma referência no gênero axé e tem contribuído significativamente para a cultura do carnaval no Brasil. A banda é conhecida por sua capacidade de inovar e se reinventar ao longo dos anos, mantendo-se relevante na cena musical. Seus shows são marcados por uma energia única, e suas músicas continuam a tocar corações, celebrando a alegria e a festa que caracterizam a cultura baiana. A influência de Chiclete com Banana é evidente em muitas novas gerações de artistas e fãs do axé.</p>
       </div>
       <div>
-        <h3>Chiclete com Banana</h3>
+        <h3> Diga Que Valeu - Chiclete Com Banana</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/xNo2kP7HJyw"
-            title="Canção Chiclete com Banana"
+            src="https://www.youtube.com/embed/FiNMkSWvWdE"
+            title="Canção  Diga Que Valeu"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
@@ -212,9 +212,9 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">Parangolé </h2>
-        <p>Parangolé é uma banda de pagode e axé music brasileira, fundada em 2001, em Salvador, Bahia. Conhecida por sua energia contagiante e músicas dançantes, a banda rapidamente ganhou notoriedade na cena musical brasileira, especialmente durante o carnaval.</p>
+        <p>Parangolé é uma banda de pagode e axé music brasileira, fundada em 1997, em Salvador, Bahia. Conhecida por sua energia contagiante e músicas dançantes, a banda rapidamente ganhou notoriedade na cena musical brasileira, especialmente durante o carnaval.</p>
         <h3>História na Música</h3>
-        <p>A banda foi formada por Léo Santana, que se destacou como vocalista e frontman. Parangolé ficou conhecida por suas apresentações ao vivo vibrantes e por suas coreografias marcantes. Desde o início, o grupo conquistou um grande público, se apresentando em festas, eventos e carnavais. O primeiro álbum, "Parangolé ao Vivo", lançado em 2002, trouxe sucessos que rapidamente se tornaram populares. Ao longo dos anos, a banda lançou uma série de álbuns e singles, solidificando sua posição no gênero axé e pagode.</p>
+        <p>A história do Parangolé começa no final dos anos 90, mais precisamente no bairro da Federação, em Salvador no "Bar de Dona Maria". Todas as tardes, Adriano Nenel e Nailton Alves se reuniam para jogar baralho e, sempre ao fim das partidas, faziam um pagode, aos poucos, a ideia de formar uma banda foi tomando forma. A mistura de samba, salsa, axé e ritmos percussivos criou um som único e envolvente que logo chamou a atenção do público. Em 2000, Nailton decidiu sair da banda para seguir carreira na música gospel, sendo liderada entre 2000 e 2002 por Mucinho, e posteriormente por Paulinho, que gravaram músicas como "Swing do Cavaco", "Timanamanô", e "Colé Véio", lançando o sucesso do grupo para a Bahia. Mais tarde, em 2004, foi liderada por Eddye (Edcity, atualmente em carreira solo e que foi do Fantasmão), com Nenel deixando o cavaco para cantar em parceria com ele, gravando os sucessos "Delícia" e "Baculejo". Em 2006, Bambam assume ao lado de Nenel, o que tornou a banda bastante popular. Tendo como principais hits as músicas "Só as Cabeças" e "Problemática", foi lançado no mesmo ano, o álbum A Verdade da Cidade, 2 e o primeiro DVD Movimento Shake Style, gravado no evento Muquiverão em Salvador. Ambos tiveram boa divulgação. Após a saída dos dois cantores, um sócio da banda mostrou um CD demo do então vocalista da banda Apert Play, para a Salvador Produções, empresa que admnistra o Parangolé. Então, ainda á tempo do carnaval de 2008, Léo Santana assume os vocais.Com a entrada de Léo, a banda assumiu uma nova "cara" e definitivamente consagrou-se como um dos mais poderosos nomes da música baiana. As apresentações do Parangolé passaram a ter uma produção diferenciada, com cenário e figurino diversificados, o que abriu os olhos dos produtores de eventos para o grupo. É atualmente liderada por Tony Salles e é conhecida principalmente pelo single "Rebolation". </p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Parangolé incluem:</p>
         <ul>
@@ -241,9 +241,9 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">Psirico</h2>
-        <p>Psirico é uma banda de axé music e pagode baiano, formada em 2001, em Salvador, Bahia. Conhecida por suas letras animadas e ritmos contagiantes, a banda rapidamente se tornou um nome forte no cenário do carnaval brasileiro.</p>
+        <p>Psirico é uma banda de axé music e pagode baiano, formada na década de 2000, em Salvador, Bahia. Conhecida por suas letras animadas e ritmos contagiantes, a banda rapidamente se tornou um nome forte no cenário do carnaval brasileiro.</p>
         <h3>História na Música</h3>
-        <p>A banda foi criada pelo cantor Márcio Victor, que também é um dos compositores e vocalistas. Psirico ganhou notoriedade com suas apresentações enérgicas e carismáticas, tornando-se uma presença constante nos grandes eventos e festivais de carnaval na Bahia e em outras regiões do Brasil. O grupo lançou seu primeiro álbum em 2003, e desde então, tem lançado diversos trabalhos que consolidaram sua popularidade. Suas músicas frequentemente falam sobre amor, festa e a cultura baiana, refletindo a alegria do carnaval.</p>
+        <p>A banda foi criada pelo cantor Márcio Victor, que também é um dos compositores e vocalistas. No grupo, Márcio Vitor é acompanhado pelos percussionistas Alison, David, Jadson, Samuel, Serginho, Vitor e Zezel; pelo tecladista Paulo; o baixista Luisinho; os guitarristas André e Netinho; o cavaquinista Neneu; o baterista Davi. Psirico ganhou notoriedade com suas apresentações enérgicas e carismáticas, tornando-se uma presença constante nos grandes eventos e festivais de carnaval na Bahia e em outras regiões do Brasil. O grupo lançou seu primeiro álbum em 2003, e desde então, tem lançado diversos trabalhos que consolidaram sua popularidade. Suas músicas frequentemente falam sobre amor, festa e a cultura baiana, refletindo a alegria do carnaval.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Psirico incluem:</p>
         <ul>
@@ -270,9 +270,9 @@ const Axe = () => {
 
       <div> 
         <h2 className="cantores">Harmonia Do Samba</h2>
-        <p>Harmonia do Samba é uma das bandas mais conhecidas do axé music, formada em 1993, em Salvador, Bahia. Com um estilo que mistura pagode e axé, o grupo se tornou um ícone do carnaval e das festas populares no Brasil.</p>
+        <p>O Harmonia do Samba é um dos grupos mais emblemáticos do pagode baiano, com uma trajetória marcada por sucessos e inovações no cenário musical brasileiro. Fundado em Salvador, Bahia, em 1993 por Roque Cezar, o grupo se destacou por mesclar o samba raiz com o samba-reggae e ritmos regionais da Bahia, criando um som único e contagiante. A ideia de criar o Harmonia do Samba surgiu do desejo de Roque Cezar de montar um grupo que tocasse músicas que agradassem ao público baiano, com uma pegada mais moderna e dançante. A união do pandeiro e do cavaquinho a elementos de percussão e sopro deu origem ao pagode baiano, um gênero que se popularizou rapidamente na Bahia e em todo o Brasil. Com o passar dos anos, o grupo passou por diversas mudanças em sua formação, mas sempre mantendo a essência do seu som. Em 1998, Xanddy assumiu os vocais da banda, e sua voz marcante se tornou uma das marcas registradas do Harmonia do Samba.</p>
         <h3>História na Música</h3>
-        <p>A banda foi fundada por Xanddy, que se destacou como vocalista e principal figura do grupo. Desde o início, a Harmonia do Samba ganhou destaque com suas performances animadas e letras que falam sobre amor, alegria e a cultura baiana. O grupo se tornou uma presença constante em grandes eventos e no carnaval, atraindo um público fiel. O primeiro álbum da banda, "Harmonia do Samba", foi lançado em 1998 e rapidamente consolidou a fama do grupo. Ao longo dos anos, a Harmonia do Samba lançou diversos álbuns e singles, sempre mantendo a essência do axé.</p>
+        <p>Com Xanddy à frente, o Harmonia do Samba conquistou um público cada vez maior, graças a sucessos como "Uva", "Ta Tamboril" e "Pagode Raiz". A banda se tornou um dos principais nomes do carnaval baiano, arrastando multidões em seus blocos e shows. Ao longo de sua carreira, o Harmonia do Samba lançou diversos álbuns de sucesso, sendo indicado ao Grammy Latino e recebendo diversos prêmios. O grupo também se destacou por seus shows grandiosos e por sua capacidade de renovar seu repertório, mesclando clássicos da banda com novas músicas. Suas atividades como grupo acabaram em 2022, mas continua sendo um fenômeno musical que marcou a história da música brasileira e que continua a encantar gerações. O Harmonia do Samba é muito mais do que uma banda de pagode.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
         <p>Alguns dos álbuns mais notáveis de Harmonia Do Samba incluem:</p>
         <ul>
@@ -296,9 +296,7 @@ const Axe = () => {
             allowFullScreen
           ></iframe>
       </div>
-
     </div>
-
   )
 }
 

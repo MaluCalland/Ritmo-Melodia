@@ -57,24 +57,15 @@ const Login = () => {
           />
           <FaLock className="icon" />
         </div>
-
         <div className="recall-forget">
           <p>
             <a href="#">Esqueceu a senha?</a>
           </p>
         </div>
-
-        <p>
-          <button type="submit">Entrar</button>
-        </p>
-
+        <p><button type="submit">Entrar</button></p>
         <div className="signup-link">
-          <p>
-            Não tem uma conta?{" "}
-            <button className="flex-item" onClick={() => navigate("/cadastrar")}>
-              CADASTRAR
-            </button>
-          </p>
+          <p>Não tem uma conta?</p>
+          <p><button className="flex-item" onClick={() => navigate("/cadastrar")}>CADASTRAR</button></p>
         </div>
       </form>
 

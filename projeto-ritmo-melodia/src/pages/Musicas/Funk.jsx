@@ -9,7 +9,7 @@ const Funk = () => {
 
       <div> 
         <h2 className="cantores">MC Leozinho</h2>
-        <p>Leozinho, cujo nome verdadeiro é Leonardo Nascimento, nasceu em 14 de janeiro de 1985, em São Paulo. Ele se destacou no cenário do funk brasileiro, especialmente no funk paulista. Desde jovem, Leozinho se envolveu com a música e rapidamente ganhou popularidade nas festas e bailes funk da região.</p>
+        <p>Leozinho, cujo nome verdadeiro é Leonardo Freitas, nasceu em 6 de maio de 1977, no Rio de Janeiro. Ele se destacou no cenário do funk brasileiro, especialmente no funk paulista. Desde jovem, Leozinho se envolveu com a música e rapidamente ganhou popularidade nas festas e bailes funk da região.</p>
         <h3>História na Música</h3>
         <p>Leozinho começou sua carreira musical no início dos anos 2000, e seu estilo característico, que mistura batidas contagiantes com letras que falam sobre amor e cotidiano, conquistou o público rapidamente. Ele ficou conhecido por sua voz marcante e seu jeito animado de se apresentar, tornando-se uma figura popular nas baladas e nas redes sociais.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -41,7 +41,7 @@ const Funk = () => {
       </div>
       <div> 
         <h2 className="cantores">MC Marcinho</h2>
-        <p>MC Marcinho, cujo nome verdadeiro é Marcinho de Souza, nasceu em 24 de abril de 1980, no Rio de Janeiro. Desde jovem, ele se envolveu com a música, especialmente no ambiente do funk carioca, que se popularizou nas favelas do Rio durante os anos 1990. MC Marcinho se destacou por seu estilo único, misturando letras que falam sobre a realidade da vida nas comunidades com melodias cativantes.</p>
+        <p>MC Marcinho, cujo nome verdadeiro é Márcio André, nasceu em 1 de novembro de 1977, no Rio de Janeiro. Desde jovem, ele se envolveu com a música, especialmente no ambiente do funk carioca, que se popularizou nas favelas do Rio durante os anos 1990. MC Marcinho se destacou por seu estilo único, misturando letras que falam sobre a realidade da vida nas comunidades com melodias cativantes.</p>
         <h3>História na Música</h3>
         <p>MC Marcinho começou sua carreira no início dos anos 90 e rapidamente ganhou popularidade. Seus primeiros sucessos foram tocados em bailes funk, e ele se tornou uma figura emblemática do gênero. Marcinho é conhecido por suas letras que abordam temas como amor, festas e a vida nas comunidades cariocas, capturando a essência da cultura funk.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -71,7 +71,7 @@ const Funk = () => {
       
       <div> 
         <h2 className="cantores">MC Koringa</h2>
-        <p>MC Koringa, cujo nome verdadeiro é Leandro Ferreira, nasceu em 14 de março de 1984, em São Paulo. Ele se destacou no cenário do funk carioca e, mais tarde, no funk paulista. Desde cedo, Koringa se interessou pela música e começou a cantar em bailes funk, onde rapidamente ganhou notoriedade por seu estilo carismático e suas letras envolventes.</p>
+        <p>MC Koringa, cujo nome verdadeiro é Fábio Luis, nasceu em 31 de dezembro de 1979, no Rio de Janeiro. Ele se destacou no cenário do funk carioca e, mais tarde, no funk paulista. Desde cedo, Koringa se interessou pela música e começou a cantar em bailes funk, onde rapidamente ganhou notoriedade por seu estilo carismático e suas letras envolventes.</p>
         <h3>História na Música</h3>
         <p>MC Koringa começou sua carreira musical no início dos anos 2000. Sua popularidade cresceu rapidamente, especialmente após o lançamento de suas primeiras músicas que se tornaram hits nas pistas de dança e nas rádios. Ele é conhecido por seu estilo enérgico e por abordar temas como amor, festas e a vida nas comunidades.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -103,7 +103,7 @@ const Funk = () => {
       </div>
       <div> 
         <h2 className="cantores">Tati Quebra Barroco</h2>
-        <p>Tati Quebra Barraco, cujo nome verdadeiro é Tatiane de Souza Oliveira, nasceu em 19 de agosto de 1980, no Rio de Janeiro. Ela cresceu na comunidade da Cidade de Deus e desde jovem se interessou pela música, especialmente pelo funk carioca. Tati se destacou por sua personalidade forte e suas letras que refletem a realidade das mulheres nas favelas.</p>
+        <p>Tati Quebra Barraco, cujo nome verdadeiro é Tatiana Lourenço, nasceu em 21 de setembro de 1980, no Rio de Janeiro. Ela cresceu na comunidade da Cidade de Deus e desde jovem se interessou pela música, especialmente pelo funk carioca. Tati se destacou por sua personalidade forte e suas letras que refletem a realidade das mulheres nas favelas.</p>
         <h3>História na Música</h3>
         <p>Tati Quebra Barraco começou sua carreira musical no início dos anos 2000, ganhando notoriedade em bailes funk. Sua primeira música de sucesso, "Tati Quebra Barraco", a catapultou para a fama, e ela rapidamente se tornou uma das principais representantes do funk carioca. Seu estilo é marcado pela ousadia, autenticidade e empoderamento feminino.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -133,8 +133,8 @@ const Funk = () => {
           ></iframe>
       </div>
       <div> 
-        <h2 className="cantores">Caludinho & Buchecha</h2>
-        <p>Claudinho e Buchecha é uma das duplas mais icônicas do funk e do pagode no Brasil, formada por Claudinho (Cláudio Rodrigues de Oliveira) e Buchecha (Breno de Oliveira). Claudinho nasceu em 18 de setembro de 1970 e Buchecha em 22 de setembro de 1973, ambos no Rio de Janeiro. A dupla começou a se apresentar no início dos anos 90, rapidamente conquistando o público com seu estilo único.</p>
+        <h2 className="cantores">Claudinho & Buchecha</h2>
+        <p>Claudinho e Buchecha é uma das duplas mais icônicas do funk e do pagode no Brasil, formada por Claudinho (Cláudio Rodrigues) e Buchecha (Claucirlei Jovêncio). Claudinho nasceu em 14 de novembro de 1975 e Buchecha em 1 de abril de 1975, ambos no Rio de Janeiro. A dupla começou a se apresentar no início dos anos 90, rapidamente conquistando o público com seu estilo único.</p>
         <h3>História na Música</h3>
         <p>Claudinho e Buchecha se uniram em 1994 e logo se tornaram conhecidos por suas músicas que mesclavam funk, pagode e pop. Eles foram responsáveis por popularizar o estilo conhecido como "funk melody", caracterizado por letras românticas e batidas dançantes. O sucesso da dupla cresceu principalmente durante os anos 90 e início dos anos 2000.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -164,7 +164,7 @@ const Funk = () => {
       </div>
       <div> 
         <h2 className="cantores">Bonde do Tigrão</h2>
-        <p>O Bonde do Tigrão é um grupo brasileiro de pagode funk, conhecido por sua energia contagiante e letras que falam sobre amor, festas e a vida nas comunidades urbanas. Formado em 1997 no Rio de Janeiro, o grupo rapidamente se destacou na cena musical, especialmente durante os anos 2000.</p>
+        <p>O Bonde do Tigrão é um grupo brasileiro de pagode funk, conhecido por sua energia contagiante e letras que falam sobre amor, festas e a vida nas comunidades urbanas. Formado em 1999 no Rio de Janeiro, o grupo rapidamente se destacou na cena musical, especialmente durante os anos 2000.</p>
         <h3>História na Música</h3>
         <p>O Bonde do Tigrão surgiu em um contexto de forte efervescência do funk carioca. Com seu estilo único, que mistura funk, pagode e influências de outros gêneros, o grupo conquistou um grande público. O sucesso começou com a divulgação de suas músicas em bailes funk e festas, o que ajudou a popularizar o estilo.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -197,7 +197,7 @@ const Funk = () => {
       </div>
       <div> 
         <h2 className="cantores">Kevin O Chris</h2>
-        <p>Kevin O Chris é um dos principais nomes do funk carioca contemporâneo, conhecido por seu estilo inovador e por trazer uma nova sonoridade ao gênero. Nascido Kevin Nascimento Bueno em 1998, na cidade do Rio de Janeiro, ele ganhou destaque rapidamente na cena musical.</p>
+        <p>Kevin O Chris é um dos principais nomes do funk carioca contemporâneo, conhecido por seu estilo inovador e por trazer uma nova sonoridade ao gênero. Kevin de Oliveira nasceu em 1997, na cidade do Rio de Janeiro, e ganhou destaque rapidamente na cena musical.</p>
         <h3>História na Música</h3>
         <p>Kevin começou sua carreira ainda adolescente, postando suas músicas nas redes sociais e se apresentando em bailes funk. Seu talento e carisma chamaram a atenção, e logo ele se tornou um dos artistas mais populares do cenário. Com um estilo que mistura funk com influências de outros gêneros, como trap e hip-hop, Kevin se destacou por suas letras envolventes e batidas dançantes.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -226,7 +226,7 @@ const Funk = () => {
       </div>
       <div> 
         <h2 className="cantores">MC Livinho</h2>
-        <p>MC Livinho, nascido Oliver Enrico de Souza em 1993, na cidade de São Paulo, é um dos artistas mais influentes do funk brasileiro. Sua trajetória é marcada por uma mistura de ritmos e letras que falam sobre amor, festas e a vida nas periferias.</p>
+        <p>MC Livinho, nascido Oliver Santos em 1994, na cidade de São Paulo, é um dos artistas mais influentes do funk brasileiro. Sua trajetória é marcada por uma mistura de ritmos e letras que falam sobre amor, festas e a vida nas periferias.</p>
         <h3>História na Música</h3>
         <p>MC Livinho começou a se destacar em 2014, quando começou a lançar suas músicas nas redes sociais. Ele rapidamente ganhou popularidade com seu estilo autêntico e carisma. Livinho se destaca por sua habilidade de misturar funk com outros gêneros, como o R&B e o trap, o que trouxe uma nova abordagem ao funk paulista.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -237,7 +237,7 @@ const Funk = () => {
           <li>"Vagabundo Romântico" (2016)</li>
           </ul>
           <ul> Músicas:
-          <li>Fazer Falta</li>
+            <li>Fazer Falta</li>
           <li>Novidade na Área</li>
           <li>Hoje Eu Vou Parar na Gaiola</li>
           <li>Cheia de Marra</li>
@@ -262,7 +262,7 @@ const Funk = () => {
       </div>
       <div> 
         <h2 className="cantores">MC Hariel</h2>
-        <p>MC Hariel, nascido em 2001, na cidade de São Paulo, é um dos nomes em ascensão no cenário do funk brasileiro. Conhecido por suas letras marcantes e estilo autêntico, ele tem se destacado especialmente entre o público jovem.</p>
+        <p>MC Hariel, nascido em 1997, na cidade de São Paulo, é um dos nomes em ascensão no cenário do funk brasileiro. Conhecido por suas letras marcantes e estilo autêntico, ele tem se destacado especialmente entre o público jovem.</p>
         <h3>História na Música</h3>
         <p>Hariel começou sua carreira musical em 2015, quando ainda era adolescente. Inicialmente, ele gravou suas músicas em casa e as postou nas redes sociais, o que ajudou a construir uma base de fãs. Seu talento e carisma logo chamaram a atenção, e ele começou a se apresentar em bailes funk e festas, ganhando notoriedade no meio.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>

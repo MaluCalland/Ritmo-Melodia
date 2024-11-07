@@ -67,7 +67,7 @@ const MPB = () => {
 
       <div >
         <h2 className="cantores">Jorge Ben Jor</h2>
-        <p> Jorge Ben Jor, nascido Jorge Duilio Lima Menezes em 22 de março de 1939, no Rio de Janeiro, é um influente cantor, compositor e guitarrista brasileiro. Ele é conhecido por sua mistura única de samba, bossa nova, funk, rock e outros gêneros, criando um estilo distintivo que o tornou um ícone da música brasileira.</p>
+        <p> Jorge Ben Jor, nascido Jorge Duilio Lima Meneses em 22 de março de 1939, no Rio de Janeiro, é um influente cantor, compositor e guitarrista brasileiro. Ele é conhecido por sua mistura única de samba, bossa nova, funk, rock e outros gêneros, criando um estilo distintivo que o tornou um ícone da música brasileira.</p>
         <h3>História na Música</h3>
         <p>Jorge começou sua carreira na década de 1960, lançando seu primeiro álbum, "Samba Esquema Novo", em 1963. Sua música inovadora, que combina ritmos brasileiros com elementos do jazz e do rock, rapidamente conquistou o público. Jorge Ben Jor se destacou por sua habilidade em criar melodias cativantes e letras que falam sobre amor, cotidiano e a cultura brasileira. Nos anos 70, ele continuou a evoluir seu estilo, experimentando com diferentes sonoridades e colaborações. A partir de então, seu trabalho se tornou mais reconhecido internacionalmente, especialmente com o álbum "Africa Brasil". </p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -241,7 +241,7 @@ const MPB = () => {
 
       <div >
         <h2 className="cantores">Cássia Eller</h2>
-        <p>Cássia Eller, nascida em 10 de janeiro de 1962, em Brasília, foi uma das mais talentosas e carismáticas cantoras e compositoras brasileiras. Conhecida por sua voz potente e sua presença de palco marcante, Cássia se destacou na cena da música popular brasileira (MPB) nos anos 90.</p>
+        <p>Cássia Eller, nascida em 10 de dezembro de 1962, no Rio de Janeiro, foi uma das mais talentosas e carismáticas cantoras e compositoras brasileiras. Conhecida por sua voz potente e sua presença de palco marcante, Cássia se destacou na cena da música popular brasileira (MPB) nos anos 90.</p>
         <h3>História na Música</h3>
         <p>Cássia começou sua carreira em 1990, quando lançou seu primeiro álbum, "Cássia Eller". Desde o início, seu estilo foi uma fusão de rock, pop e MPB, o que a tornou uma artista única. Sua interpretação intensa e suas letras profundas conquistaram um público fiel. Nos anos seguintes, Cássia lançou uma série de álbuns de sucesso, tornando-se um símbolo da música brasileira e atraindo fãs de diferentes gerações. Além de suas canções autorais, ela se destacou em suas interpretações de músicas de outros compositores, trazendo uma nova vida a clássicos da MPB.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>

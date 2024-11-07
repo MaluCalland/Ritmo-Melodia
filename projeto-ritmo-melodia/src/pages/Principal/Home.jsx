@@ -25,12 +25,12 @@ const Home = () => {
             <h1 className='tituloHome'>Ritmo & Melodia</h1>
             <p className='subtituloHome'>Ritmos que ecoam, vozes que emocionam. Venha explorar o melhor da música brasileira!</p>
         </div>
-        <div>
+        {/* <div>
             <form className='barraPesquisa' >
                 <input className='inputPesquisa' type="text" name="query" placeholder="Faça sua pesquisa"></input>
                 <button className='enviarPequisa' type="submit">Buscar</button>
             </form>
-        </div>
+        </div> */}
 
         <div className='paginasHome'>
             <nav className='flex-conteiner-home'>

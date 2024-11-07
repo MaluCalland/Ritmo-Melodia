@@ -1,5 +1,6 @@
 body{
-  background-color:rgb(50, 167, 50)
+  /* background-color:rgb(50, 167, 50); */
+  background-color: rgb(63, 167, 71);
 }
 
 /* .flex-conteiner{
@@ -20,7 +21,7 @@ body{
   height: 50px;
   margin: 20px;
   border: none;
-  background-color:rgb(94, 153, 255);
+  background-color:rgb(37, 117, 253);
   font-family: Garet;
   font-size: larger;
   border-radius: 50px; /* Borda arredondada */
@@ -40,7 +41,8 @@ nav{
 }
 
 .faixaInicial{
-  background-color:rgb(255, 234, 4);
+  /* background-color:rgb(255, 234, 4); */
+  background-color: rgb(220, 184, 5);
   border-radius: 50px;
   margin: 20px;
   height: 120px;
