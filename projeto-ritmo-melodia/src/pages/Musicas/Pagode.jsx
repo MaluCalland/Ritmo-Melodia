@@ -1,14 +1,11 @@
 import React from 'react';
 
-
 import '../../css/Musicas.css';
-
 
 const Pagode = () => {
   return (
     <div>
       <h1>Alguns dos Artistas Mais Famosos do Pagode</h1>
-
 
       <div>
         <h2 className="cantores">Turma do Pagode</h2>
@@ -69,7 +66,6 @@ const Pagode = () => {
           ></iframe>
       </div>
 
-
       <div>
         <h2 className="cantores">Grupo Revelação</h2>
         <p>Grupo Revelação é uma das mais renomadas bandas de pagode do Brasil, formada em 1991, no Rio de Janeiro. Composto por Xande de Pilares (vocal), César Camargo (cavaco), Diego (violão), Luizinho (pandeiro) e Edson (percussão), o grupo rapidamente se destacou na cena musical, tornando-se um dos principais representantes do pagode romântico.</p>
@@ -98,7 +94,6 @@ const Pagode = () => {
             allowFullScreen
           ></iframe>
       </div>
-
 
       <div>
         <h2 className="cantores">Ferrugem</h2>
@@ -158,7 +153,6 @@ const Pagode = () => {
           ></iframe>
       </div>
 
-
       <div>
         <h2 className="cantores">Pixote</h2>
         <p>Pixote, cujo nome verdadeiro é Mário Sérgio de Oliveira, nasceu em 17 de dezembro de 1991, em São Paulo, Brasil. Desde cedo, ele se interessou pela música, especialmente pelo pagode e pelo samba. Pixote começou sua carreira musical em 1995, quando se juntou ao grupo Os Travessos, onde ganhou notoriedade como vocalista. Em 2009, ele decidiu seguir carreira solo, consolidando-se como uma das principais vozes do pagode.</p>
@@ -187,7 +181,6 @@ const Pagode = () => {
             allowFullScreen
           ></iframe>
       </div>
-
 
       <div>
         <h2 className="cantores">Belo</h2>
@@ -224,21 +217,21 @@ const Pagode = () => {
         <h3>História na Música</h3>
         <p>Durante sua passagem pelo Exaltasamba, Péricles foi um dos principais responsáveis pelo sucesso do grupo, contribuindo com sua voz marcante e carisma. O grupo se tornou um dos mais influentes do pagode nos anos 90 e 2000. Em 2012, Péricles decidiu seguir carreira solo, lançando seu primeiro álbum solo e explorando novas sonoridades.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Péricles incluem:</p>
         <ul>
-          <li>"Sensações" (2012): "Depois da Briga", "Linguagem dos Olhos" e "Linda Voz".</li>
-          <li>"Nos Arcos da Lapa" (2013): "Êta Amor", "Final de Tarde" e "Se Eu Largar O Freio". </li>
-          <li>"Feito Pra Durar" (2015): "Melhor Eu Ir"</li>
-          <li>"Deserto da Ilusão" (2017): "Eu Te Uso e Sumo" e "Vai Por Mim".</li>
-          <li>"Pagode do Pericão - Ao Vivo" (2019): "Supera" e "No Fundo Dos Meus Olhos".</li>
-          <p>Péricles tem,  ou todo 17 álbuns, e dentre eles, algumas das suas músicas mais tocadas são:</p>
+          <li>"Sensações" (2012): Traz canções como "Depois da Briga", "Linguagem dos Olhos" e "Linda Voz".</li>
+          <li>"Nos Arcos da Lapa" (2013): Apresenta hits como "Êta Amor", "Final de Tarde" e "Se Eu Largar O Freio". </li>
+          <li>"Feito Pra Durar" (2015): O álbum apresenta uma série de sucessos como "Melhor Eu Ir"</li>
+          <li>"Deserto da Ilusão" (2017): Destaque para "Eu Te Uso e Sumo" e "Vai Por Mim".</li>
+          <li>"Pagode do Pericão - Ao Vivo" (2019): Com as famosas "Supera" e "No Fundo Dos Meus Olhos".</li>
+        </ul>
+        <p>Péricles tem, ou todo 17 álbuns, e dentre eles, algumas das suas músicas mais tocadas são:</p>
           <ul>
             <li>"Sinais"</li>
             <li>"Até Que Durou"</li>
             <li>"Nosso Amor Quer Paz"</li>
             <li>"Graveto"</li>
           </ul>
-        </ul>
         <h3>Contribuições e Legado</h3>
         <p>Péricles é reconhecido por sua habilidade vocal e por suas letras que falam sobre amor, superação e relacionamentos, conectando-se profundamente com o público. Ele é uma figura central no pagode romântico, influenciando novos artistas e ajudando a popularizar o gênero. Seu legado se reflete na forma como ele continua a atrair fãs de todas as idades e na maneira como contribuiu para a evolução do pagode. Com uma carreira sólida e uma vasta discografia, Péricles permanece como uma das vozes mais importantes e respeitadas do pagode, celebrando a alegria e a emoção através de sua música.</p>
       </div>
@@ -254,36 +247,41 @@ const Pagode = () => {
           ></iframe>
       </div>
 
-
       <div>
         <h2 className="cantores"> Fundo de Quintal</h2>
         <p>Fundo de Quintal é um dos grupos mais icônicos do samba brasileiro, formado em 1980, no Rio de Janeiro. O grupo é composto por músicos talentosos, incluindo Jorge Aragão, Beto Sem Braço, César Camargo, Almir Guineto e Neoci, entre outros. Desde sua formação, o Fundo de Quintal se destacou por sua abordagem inovadora ao samba, misturando ritmos e estilos e utilizando instrumentos como o banjo e a cuíca.</p>
         <h3>História na Música</h3>
         <p>O Fundo de Quintal é considerado um dos pioneiros do samba de roda e do pagode, influenciando a cena musical brasileira na década de 1980 e além. O grupo começou a se apresentar em festas e eventos, rapidamente conquistando uma base de fãs fiel. Sua música, que aborda temas do cotidiano e do amor, ressoou profundamente com o público.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Fundo de Quintal incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>"O Show Tem Que Continuar" (1988): Com as famosas "Lua Cheia", "O Show Tem Que Continuar" e "Romance Dos Astros".</li>
+          <li>"Palco Iluminado" (1995): Traz canções como "Doce Felicidade", "Mistura de Peles" e "Responde".</li>
+          <li>"Festa Pra Comunidade" (2003): O álbum apresenta uma série de sucessos como "Não Tá Nem Aí" e "Divino e Natural".</li>
+          <li>"O Quintal do Samba" (2007): Destaque para "A Amizade", "Ela Só Quer Samba" e "Ex-Amor".</li>
+          <li>"Vou Festejar" (2008): Apresenta hits como "Vou Festejar" e "Trem das Onze".</li>
+        </ul>
+        <p>Fundo de Quintal tem, ou todo 34 álbuns, e dentre eles, algumas das suas músicas mais tocadas são:</p>
+        <ul>
+          <li>"Sonho Meu"</li>
+          <li>"Amor Dos Deuses"</li>
+          <li>"Vai lá, vai lá"</li>
+          <li>"Um Lindo Sonho"</li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>Fundo de Quintal é amplamente reconhecido por sua contribuição significativa ao samba, ajudando a popularizar o gênero e a abrir espaço para novos artistas e estilos. Eles foram fundamentais na transição do samba tradicional para o pagode, incorporando novas sonoridades e influências. Seu legado se reflete na maneira como influenciaram gerações de músicos e na popularidade contínua do samba no Brasil. Com uma carreira marcada por sucessos e uma vasta discografia, Fundo de Quintal permanece como uma das maiores referências do samba, celebrando a cultura e a alegria brasileira através de sua música.</p>
       </div>
       <div>
-        <h3> -  Fundo de Quintal</h3>
+        <h3>O Show Tem Que Continuar -  Fundo de Quintal</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/_0mAeu8s5eA"
+            title="Canção O Show Tem Que Continuar"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>
       </div>
-
 
       <div>
         <h2 className="cantores">Menos é Mais</h2>
@@ -291,24 +289,24 @@ const Pagode = () => {
         <h3>História na Música</h3>
         <p>Foi durante a pandemia que o Menos É Mais começou a conquistar ainda mais fãs através das lives. Logo, o grupo de pagode com DNA brasiliense viu suas redes sociais e views no YouTube alcançarem números impressionantes. Com um repertório que mescla músicas autorais com covers de músicos consagrados como Pixote, Dilsinho e Péricles, o Menos É Mais ganhou fama por trazer novamente o clima animado das rodas de samba.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
-        <p>Alguns dos álbuns mais notáveis de Caetano incluem:</p>
+        <p>Alguns dos álbuns mais notáveis de Menos é Mais incluem:</p>
         <ul>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
-          <li></li>
+          <li>"Churrasquinho Menos É Mais - Ao Vivo" (2020): O álbum apresenta uma série de sucessos como "Vai Me Dando Corda" e "Pot-Pourri: Cohab City / Vem Pra Cá / Beijinho Geladinho".</li>
+          <li>"Plano Piloto" (2021): Apresenta hits como  "Adorei", "Pagando Mal Com Mal" e "Coração Chorando".</li>
+          <li>"Churrasquinho Menos É Mais, Vol. 2" (2021): Destaque para "Até Que Durou / Tu Mandas No Meu Coração / Adorei / Supera".</li>
+          <li>"Confia - Ao Vivo" (2023): Traz canções como "Lapada Dela", "Ah Tá" e "Iludidão".</li>
+          <li>"Virado No Pagode - Ao Vivo" (2024): Com as famosas "Metadiniha De Saudade", "Um Por Cento" e "Ficadinha".</li>
         </ul>
         <h3>Contribuições e Legado</h3>
         <p>Menos é Mais tem sido importante para revitalizar o gênero do pagode, trazendo uma nova geração de ouvintes. Eles conseguiram misturar o tradicional com o contemporâneo, influenciando outras bandas e artistas que buscam um som mais moderno. O legado da banda está na sua capacidade de conectar-se emocionalmente com o público e na sua contribuição para a diversidade dentro do pagode, mostrando que é possível inovar sem perder a essência do gênero.</p>
       </div>
       <div>
-        <h3> - Menos é Mais</h3>
+        <h3>Lapada Dela - Menos é Mais</h3>
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/WL8l8olaMmI"
-            title="Canção Alegria Alegria"
+            src="https://www.youtube.com/embed/fd3PJfv7SaY"
+            title="Canção Lapada Dela"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
           ></iframe>

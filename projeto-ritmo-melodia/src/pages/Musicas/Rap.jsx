@@ -36,9 +36,7 @@ const Rap = () => {
             allowFullScreen
           ></iframe>
       </div>
-
     </div>
-
   )
 }
 

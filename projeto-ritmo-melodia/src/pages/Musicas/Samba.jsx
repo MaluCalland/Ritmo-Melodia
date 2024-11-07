@@ -107,9 +107,7 @@ const Samba = () => {
           <li>Raça Negra & Amigos II (2016): Dando sequência ao projeto, o grupo grava novos duetos e releituras, mostrando a atemporalidade de suas músicas.</li>
         </ul>
         <h3>Contribuições e Legado</h3>
-        <p>O Raça Negra é um dos pioneiros do pagode romântico no Brasil, ajudando a estabelecer esse estilo como um dos mais populares dos anos 90. Com letras românticas e uma musicalidade acessível, o grupo popularizou o pagode em todo o país e inspirou o surgimento de várias outras bandas e artistas, como Só Pra Contrariar, Exaltasamba e Katinguelê. Além disso, a banda ajudou a derrubar as barreiras que existiam entre o samba e a música popular, criando uma nova geração de fãs e fortalecendo o pagode como um estilo querido no Brasil.
-
-O legado do Raça Negra se traduz na sua permanência nas playlists e nos corações do público, com músicas que se mantêm relevantes até hoje. Suas canções são regravadas por artistas de diferentes gêneros, e seus shows ainda atraem grandes públicos, mostrando a força de um grupo que se tornou símbolo do pagode romântico no Brasil.</p>
+        <p>O Raça Negra é um dos pioneiros do pagode romântico no Brasil, ajudando a estabelecer esse estilo como um dos mais populares dos anos 90. Com letras românticas e uma musicalidade acessível, o grupo popularizou o pagode em todo o país e inspirou o surgimento de várias outras bandas e artistas, como Só Pra Contrariar, Exaltasamba e Katinguelê. Além disso, a banda ajudou a derrubar as barreiras que existiam entre o samba e a música popular, criando uma nova geração de fãs e fortalecendo o pagode como um estilo querido no Brasil. O legado do Raça Negra se traduz na sua permanência nas playlists e nos corações do público, com músicas que se mantêm relevantes até hoje. Suas canções são regravadas por artistas de diferentes gêneros, e seus shows ainda atraem grandes públicos, mostrando a força de um grupo que se tornou símbolo do pagode romântico no Brasil.</p>
       </div>
       <div>
         <h3></h3>
@@ -296,7 +294,6 @@ O legado do Raça Negra se traduz na sua permanência nas playlists e nos coraç
             allowFullScreen
           ></iframe>
       </div>
-
     </div>
   )
 }

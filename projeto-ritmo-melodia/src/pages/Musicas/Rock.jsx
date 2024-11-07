@@ -5,6 +5,7 @@ import '../../css/Musicas.css';
 const Rock = () => {
   return (
     <div>
+      
       <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Rock</h1>
 
       <div >
@@ -266,6 +267,7 @@ const Rock = () => {
             allowFullScreen
           ></iframe>
       </div>
+
       <div >
         <h2 className="cantores">Skank</h2>
         <p>Skank é uma banda brasileira de rock e pop rock, formada em 1991, em Belo Horizonte, Minas Gerais. A banda é composta por Samuel Rosa (vocal e guitarra), Henrique Portugal (teclados), Lelo Zaneti (baixo) e Júlio F. (bateria). Desde o início, o Skank se destacou por seu estilo que mistura rock, reggae, ska e música brasileira, criando um som único e acessível.</p>
@@ -294,7 +296,6 @@ const Rock = () => {
             allowFullScreen
           ></iframe>
       </div>
-      
     </div>
   )
 }

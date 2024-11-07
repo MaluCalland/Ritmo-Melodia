@@ -317,9 +317,7 @@ const Forro = () => {
             allowFullScreen
           ></iframe>
       </div>
-
     </div>
-
   )
 }
 

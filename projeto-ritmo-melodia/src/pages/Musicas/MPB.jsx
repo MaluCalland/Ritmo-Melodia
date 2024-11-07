@@ -2,7 +2,6 @@ import React from 'react';
 
 import '../../css/Musicas.css';
 
-
 const MPB = () => {
   return (
     <div>
@@ -268,7 +267,6 @@ const MPB = () => {
             allowFullScreen
           ></iframe>
       </div>
-
     </div>
   )
 }

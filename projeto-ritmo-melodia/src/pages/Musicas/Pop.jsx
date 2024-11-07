@@ -309,7 +309,6 @@ const Pop = () => {
             allowFullScreen
           ></iframe>
       </div>
-
     </div>
   )
 }
