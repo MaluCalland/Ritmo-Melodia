@@ -39,7 +39,7 @@ const Rock = () => {
 
       <div >
         <h2 className="cantores">Charlie Brown Jr.</h2>
-        <p>Charlie Brown Jr. foi uma banda brasileira de rock formada em 1992, na cidade de Santos, São Paulo. A banda era liderada pelo vocalista Chorão (Alexandre Magno Abrão), que se destacou pela sua personalidade marcante e letras profundas. Charlie Brown Jr. combinava rock, reggae, rap e influências do punk, conquistando uma base de fãs leais ao longo dos anos.</p>
+        <p>Charlie Brown Jr. foi uma banda brasileira de rock formada em 1992, na cidade de Santos, São Paulo, por Chorão, Champignon, Marcão Britto, Thiago Castanho e Renato Pelado. A banda era liderada pelo vocalista Chorão (Alexandre Magno Abrão), que se destacou pela sua personalidade marcante e letras profundas. Charlie Brown Jr. combinava rock, reggae, rap e influências do punk, conquistando uma base de fãs leais ao longo dos anos.</p>
         <h3>História na Música</h3>
         <p>A banda começou sua trajetória com o álbum "Transpiração Contínua Prolongada" (1997), que trouxe hits como "Proibida Pra Mim" e "O Caderno". Com uma sonoridade única e letras que abordavam temas como amor, sociedade e questões pessoais, Charlie Brown Jr. rapidamente se tornou uma das bandas mais populares do Brasil. Ao longo de sua carreira, a banda lançou vários álbuns, consolidando-se como um dos ícones do rock nacional.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -68,7 +68,7 @@ const Rock = () => {
 
       <div >
         <h2 className="cantores">Pitty</h2>
-        <p>Pitty, nome artístico de Priscilla Novaes Leite, nasceu em 7 de outubro de 1977, em Salvador, Bahia. Desde cedo, mostrou interesse pela música, aprendendo a tocar violão e se apresentando em pequenos eventos. Em 2003, ela lançou seu álbum de estreia e rapidamente se tornou uma das vozes mais reconhecidas do rock brasileiro.</p>
+        <p>Pitty, nome artístico de Priscilla Novaes Leone, nasceu em 7 de outubro de 1977, em Salvador, Bahia. Desde cedo, mostrou interesse pela música, aprendendo a tocar violão e se apresentando em pequenos eventos. Em 2003, ela lançou seu álbum de estreia e rapidamente se tornou uma das vozes mais reconhecidas do rock brasileiro.</p>
         <h3>História na Música</h3>
         <p>A carreira de Pitty começou de verdade com o álbum "Admirável Chip Novo" (2003), que trouxe sucessos como "Pintura Íntima" e "Equalize". Seu estilo mistura rock, pop e elementos do punk, e suas letras frequentemente abordam temas como amor, liberdade e empoderamento. Ao longo dos anos, Pitty se destacou não apenas como cantora, mas também como compositora e ativista.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -96,7 +96,7 @@ const Rock = () => {
 
       <div >
         <h2 className="cantores">O Rappa</h2>
-        <p>O Rappa é uma banda brasileira formada em 1993, no Rio de Janeiro, composta por Fábio Braz, Marcello Lobato, Lauro Farias e, posteriormente, pelo vocalista Saulo e pelo percussionista Santi. A banda é conhecida por sua fusão de rock, reggae, rap e MPB, além de letras que abordam temas sociais e políticos.</p>
+        <p>O Rappa é uma banda brasileira formada em 1993, no Rio de Janeiro, composta por Marcelo Falcão, Marcelo Yuka, Marcelo Lobato, Xandão, Lauro Farias, Marcos Lobato e Nelson Meirelles. A banda é conhecida por sua fusão de rock, reggae, rap e MPB, além de letras que abordam temas sociais e políticos.</p>
         <h3>História na Música</h3>
         <p>A banda ganhou notoriedade no final dos anos 90 e início dos anos 2000, se destacando por suas letras críticas, que falam sobre desigualdade social, violência urbana e amor. Seu estilo único e inovador ajudou a popularizar o rock brasileiro em um momento em que o gênero estava em transformação.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -125,7 +125,7 @@ const Rock = () => {
 
       <div >
         <h2 className="cantores">Capital Inicial</h2>
-        <p>Capital Inicial é uma banda de rock brasileira formada em 1982 em Brasília. Originalmente composta por Dinho Ouro Preto (vocal), Fê Lemos (guitarra), Flávio Lemos (baixo) e Milton Ribeiro (bateria), a banda emergiu durante um período de efervescência cultural no Brasil, sendo influenciada pelo rock nacional e pelo contexto político da época.</p>
+        <p>Capital Inicial é uma banda de rock brasileira formada em 1982 em Brasília. Originalmente composta por Dinho Ouro Preto, Fê Lemos, Flávio Lemos, Yves Passarell, Loro Jones, Murillo Lima e Bozzo Barretti, a banda emergiu durante um período de efervescência cultural no Brasil, sendo influenciada pelo rock nacional e pelo contexto político da época.</p>
         <h3>História na Música</h3>
         <p>A banda surgiu em um contexto de efervescência cultural e política no Brasil, influenciada pelo rock internacional e pela cena punk. Capital Inicial ganhou notoriedade com seu primeiro álbum, "Capital Inicial" (1986), e se consolidou com sucessos ao longo das décadas, misturando rock com letras que abordam amor, crítica social e questões do cotidiano. Capital Inicial ficou famosa por suas letras que abordam temas sociais, relacionamentos e a busca por identidade.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -154,7 +154,7 @@ const Rock = () => {
 
       <div >
         <h2 className="cantores">Legião Urbana</h2>
-        <p>Legião Urbana foi uma das bandas mais icônicas do rock brasileiro, formada em 1982 em Brasília. A banda tinha como membros principais Renato Russo (vocal e guitarra), Dado Villa-Lobos (guitarra), Marcelo Bonfá (bateria) e Renato Rocha (baixo). Desde o início, a Legião se destacou por suas letras poéticas e engajadas, refletindo a realidade social e política do Brasil na época.</p>
+        <p>Legião Urbana foi uma das bandas mais icônicas do rock brasileiro, formada em 1982 em Brasília. A banda tinha como membros principais Renato Russo (vocal e guitarra), Dado Villa-Lobos (violão), Marcelo Bonfá (bateria) e Renato Rocha (baixo). Desde o início, a Legião se destacou por suas letras poéticas e engajadas, refletindo a realidade social e política do Brasil na época.</p>
         <h3>História na Música</h3>
         <p>A Legião Urbana emergiu em um período de transição política no Brasil, logo após o fim da ditadura militar. Seu primeiro álbum, Legião Urbana (1985), apresentou canções que rapidamente conquistaram o público. O sucesso continuou com Dois (1986), que solidificou a banda como uma das principais do rock nacional. A banda alcançou o auge da popularidade nos anos 90 com álbuns como Que País É Este (1987) e As Quatro Estações (1989), que incluíam clássicos que até hoje são lembrados. Após a morte de Renato Russo em 1996, a banda passou por mudanças, mas sua música continuou a ressoar com fãs e novos ouvintes.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -182,7 +182,7 @@ const Rock = () => {
       </div>
 
       <div >
-        <h2 className="cantores">Paralamas do Sucesso</h2>
+        <h2 className="cantores">Os Paralamas do Sucesso</h2>
         <p>Os Paralamas do Sucesso é uma das bandas mais influentes do rock brasileiro, formada em 1982, no Rio de Janeiro. A banda é composta por Herbert Vianna (vocal e guitarra), Bi Ribeiro (baixo) e João Barone (bateria). Desde sua formação, os Paralamas se destacaram por sua fusão de rock, reggae, ska e elementos da música brasileira, criando um som único e inovador.</p>
         <h3>História na Música</h3>
         <p>Os Paralamas do Sucesso começaram sua carreira no início dos anos 80, em um cenário musical efervescente. O primeiro álbum, Cinema Mudo (1983), trouxe a banda ao público, mas foi com O Passo do Lui (1984) que eles ganharam notoriedade. O sucesso continuou a crescer durante os anos 80 e 90, com letras que abordavam questões sociais, políticas e sentimentos da juventude. A banda passou por várias transformações ao longo dos anos, sempre se reinventando e incorporando novos estilos e influências, o que os manteve relevantes na cena musical. Herbert Vianna também enfrentou desafios pessoais, incluindo um grave acidente de ultraleve em 2001, mas voltou a fazer música com força total.</p>
