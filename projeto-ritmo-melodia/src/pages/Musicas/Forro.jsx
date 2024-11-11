@@ -154,7 +154,7 @@ const Forro = () => {
 
       <div> 
         <h2 className="cantores">Xand Avião</h2>
-        <p>Xandy Avião, nome artístico de Alexandre Avião, é um cantor e compositor brasileiro, conhecido por sua contribuição ao gênero do forró e à música nordestina. Nascido em 1981 em uma pequena cidade do Ceará, Xandy começou sua carreira musical ainda jovem, inicialmente influenciado por ritmos tradicionais da região.</p>
+        <p>Xandy Avião, nome artístico de José Alexandre, é um cantor e compositor brasileiro, conhecido por sua contribuição ao gênero do forró e à música nordestina. Nascido em 1982 em uma pequena cidade do Rio Grande do Norte, Xandy começou sua carreira musical ainda jovem, inicialmente influenciado por ritmos tradicionais da região.</p>
         <h3>História na Música</h3>
         <p>Xandy ganhou notoriedade como vocalista da banda Aviões do Forró, formada em 2002. A banda rapidamente se destacou, misturando forró com outros estilos, como sertanejo e axé, e conquistou um grande público. O grupo se tornou um dos mais influentes no cenário musical brasileiro, especialmente nas festas de São João e nos circuitos de verão. Xand Avião começou sua carreira musical em bandas locais, ganhando notoriedade na cena do forró nos anos 2000. Com seu talento e presença de palco, ele se tornou um dos vocalistas mais queridos do Brasil. Seu estilo combina o forró tradicional com elementos contemporâneos, atraindo uma ampla gama de ouvintes.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -183,7 +183,7 @@ const Forro = () => {
 
       <div >
         <h2 className="cantores">João Gomes</h2>
-        <p>João Gomes é um cantor e compositor brasileiro, nascido em 1999 em Serrita, Pernambuco. Ele ganhou destaque na música sertaneja e forró, sendo considerado uma das vozes mais promissoras da nova geração. João Gomes é um cantor e compositor brasileiro que se destacou na cena musical por sua fusão de forró e outros estilos, especialmente o sertanejo. Desde jovem, ele demonstrou interesse pela música, e sua carreira começou a ganhar força em 2020, quando suas canções começaram a circular nas plataformas digitais.</p>
+        <p>João Gomes é um cantor e compositor brasileiro, nascido em 2002 em Serrita, Pernambuco. Ele ganhou destaque na música sertaneja e forró, sendo considerado uma das vozes mais promissoras da nova geração. João Gomes é um cantor e compositor brasileiro que se destacou na cena musical por sua fusão de forró e outros estilos, especialmente o sertanejo. Desde jovem, ele demonstrou interesse pela música, e sua carreira começou a ganhar força em 2020, quando suas canções começaram a circular nas plataformas digitais.</p>
         <h3>História na Música</h3>
         <p>João começou sua carreira musical em 2020, quando lançou suas primeiras canções nas plataformas digitais. A mistura de forró com elementos de outros estilos, como o sertanejo, rapidamente conquistou o público, especialmente entre os jovens. João Gomes ganhou reconhecimento rapidamente após o lançamento de suas primeiras músicas. Ele se destacou por letras que falam sobre amor e vida cotidiana, resonando com o público jovem. O uso de redes sociais, como o TikTok e o Instagram, ajudou a impulsionar sua popularidade, tornando suas músicas virais.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -216,7 +216,7 @@ const Forro = () => {
 
       <div >
         <h2 className="cantores"> Wesley Safadão</h2>
-        <p>Wesley Safadão, nascido Wesley de Andrade Brasil de Bessa em 6 de setembro de 1988, em Fortaleza, Ceará, é um cantor e compositor brasileiro de forró e música sertaneja. Desde cedo, ele se envolveu com a música, participando de bandas locais antes de alcançar a fama nacional.</p>
+        <p>Wesley Safadão, nascido Wesley Oliveira da Silva, em 6 de setembro de 1988, em Fortaleza, Ceará, é um cantor e compositor brasileiro de forró e música sertaneja. Desde cedo, ele se envolveu com a música, participando de bandas locais antes de alcançar a fama nacional.</p>
         <h3>História na Música</h3>
         <p>Wesley começou sua carreira na banda "Garota Safada", onde ganhou notoriedade por seu estilo carismático e suas apresentações energéticas. Em 2015, decidiu seguir carreira solo, o que impulsionou ainda mais sua popularidade. Sua música combina forró com elementos de outros gêneros, como sertanejo e pop, atraindo uma ampla audiência.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -251,7 +251,7 @@ const Forro = () => {
 
       <div >
         <h2 className="cantores">Dominguinhos</h2>
-        <p>Dominguinhos, nome artístico de Domenico de Oliveira, nasceu em 12 de fevereiro de 1941, em Exu, Pernambuco. Ele foi um dos mais importantes compositores e sanfoneiros do Brasil, reconhecido por sua habilidade em misturar o forró com outros estilos, como a MPB e o jazz. Desde jovem, ele se envolveu com a música, sendo influenciado por grandes nomes do forró e da música nordestina.</p>
+        <p>Dominguinhos, nome artístico de José Domingos de Morais, nasceu em 12 de fevereiro de 1941, em Garanhuns, Pernambuco. Ele foi um dos mais importantes compositores e sanfoneiros do Brasil, reconhecido por sua habilidade em misturar o forró com outros estilos, como a MPB e o jazz. Desde jovem, ele se envolveu com a música, sendo influenciado por grandes nomes do forró e da música nordestina.</p>
         <h3>História na Música</h3>
         <p>Dominguinhos começou sua carreira musical na década de 1950 e rapidamente se destacou como um virtuoso da sanfona. Em 1970, ele formou uma parceria icônica com o cantor e compositor Luiz Gonzaga, que o ajudou a solidificar sua presença no cenário musical. Ao longo de sua carreira, Dominguinhos lançou vários álbuns e compôs músicas que se tornaram clássicos da música popular brasileira.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -285,7 +285,7 @@ const Forro = () => {
       </div>
       <div >
         <h2 className="cantores">Mari Fernadez</h2>
-        <p>Mari Fernandez é uma cantora e compositora brasileira, nascida em 27 de outubro de 1998, em Feira de Santana, na Bahia. Desde jovem, ela demonstrou interesse pela música, e seu talento começou a ser reconhecido em suas apresentações em festas e eventos locais. Mari ganhou notoriedade nas redes sociais, especialmente no TikTok e Instagram, onde suas músicas se tornaram virais.</p>
+        <p>Mari Fernandez é uma cantora e compositora brasileira, nascida em 19 de fevereiro de 2001, em Alto Santo, Ceará. Desde jovem, ela demonstrou interesse pela música, e seu talento começou a ser reconhecido em suas apresentações em festas e eventos locais. Mari ganhou notoriedade nas redes sociais, especialmente no TikTok e Instagram, onde suas músicas se tornaram virais.</p>
         <h3>História na Música</h3>
         <p>Mari iniciou sua carreira profissional em 2020, quando lançou suas primeiras músicas nas plataformas digitais. Com uma mistura de forró, sertanejo e pop, ela rapidamente conquistou um público jovem, destacando-se por suas letras autênticas e seu estilo vibrante. Sua música aborda temas como amor, relacionamentos e a vida cotidiana.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>

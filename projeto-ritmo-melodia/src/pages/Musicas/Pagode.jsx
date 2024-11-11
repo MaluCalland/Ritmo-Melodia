@@ -9,7 +9,7 @@ const Pagode = () => {
 
       <div>
         <h2 className="cantores">Turma do Pagode</h2>
-        <p>Turma do Pagode é um grupo brasileiro de pagode formado no início dos anos 2000, no Rio de Janeiro. Composto por amigos de longa data, o grupo se destacou por sua mistura de ritmos e letras que falam sobre amor, relacionamentos e a vida cotidiana. O Turma do Pagode rapidamente conquistou um espaço no cenário musical brasileiro, se tornando um dos representantes do pagode romântico.</p>
+        <p>Turma do Pagode é um grupo brasileiro de pagode formado em 1994, na Zone Norte de São Paulo. Composto por amigos de longa data, o grupo se destacou por sua mistura de ritmos e letras que falam sobre amor, relacionamentos e a vida cotidiana. O Turma do Pagode rapidamente conquistou um espaço no cenário musical brasileiro, se tornando um dos representantes do pagode romântico.</p>
         <h3>História na Música</h3>
         <p>O grupo começou a se apresentar em eventos e festas, ganhando popularidade nas comunidades. Seu primeiro álbum, lançado em 2004, ajudou a consolidar sua carreira, e eles rapidamente se tornaram um dos grupos de pagode mais queridos do Brasil. A combinação de melodias envolventes e letras que falam do cotidiano conquistou um público fiel.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -68,7 +68,7 @@ const Pagode = () => {
 
       <div>
         <h2 className="cantores">Grupo Revelação</h2>
-        <p>Grupo Revelação é uma das mais renomadas bandas de pagode do Brasil, formada em 1991, no Rio de Janeiro. Composto por Xande de Pilares (vocal), César Camargo (cavaco), Diego (violão), Luizinho (pandeiro) e Edson (percussão), o grupo rapidamente se destacou na cena musical, tornando-se um dos principais representantes do pagode romântico.</p>
+        <p>Grupo Revelação é uma das mais renomadas bandas de pagode do Brasil, formada na década de 1990, no Rio de Janeiro. Composto por Xande de Pilares (vocal), César Camargo (cavaco), Diego (violão), Luizinho (pandeiro) e Edson (percussão), o grupo rapidamente se destacou na cena musical, tornando-se um dos principais representantes do pagode romântico.</p>
         <h3>História na Música</h3>
         <p>O Grupo Revelação começou sua trajetória em bailes e festas, ganhando notoriedade pela qualidade de suas apresentações e por suas letras envolventes. O primeiro álbum, lançado em 1997, trouxe o grupo para o cenário nacional. Desde então, eles lançaram diversos álbuns, consolidando sua carreira e conquistando prêmios e reconhecimento no Brasil e no exterior.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -97,7 +97,7 @@ const Pagode = () => {
 
       <div>
         <h2 className="cantores">Ferrugem</h2>
-        <p>Ferrugem, cujo nome verdadeiro é Jorge Luiz de D. Silva, nasceu em 14 de abril de 1991, na Baixada Fluminense, Rio de Janeiro, Brasil. Desde jovem, ele se interessou pela música, especialmente pelo pagode e pelo samba. Ferrugem começou a cantar em festas e eventos, e seu talento rapidamente o destacou na cena musical carioca.</p>
+        <p>Ferrugem, cujo nome verdadeiro é Jheison Failde de Souza, nasceu em 20 de outubro de 1988, na Baixada Fluminense, Rio de Janeiro. Desde jovem, ele se interessou pela música, especialmente pelo pagode e pelo samba. Ferrugem começou a cantar em festas e eventos, e seu talento rapidamente o destacou na cena musical carioca.</p>
         <h3>História na Música</h3>
         <p>Ferrugem começou sua carreira profissional em 2013, lançando suas primeiras músicas e se apresentando em diversos eventos. Ele ganhou notoriedade por sua voz marcante e por suas letras que falam sobre amor e relacionamentos, conquistando uma base de fãs leal. Com uma mistura de pagode e influências de outros gêneros, Ferrugem se tornou um dos principais nomes do pagode romântico.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -125,7 +125,7 @@ const Pagode = () => {
       </div>
       <div>
         <h2 className="cantores">Thiaguinho</h2>
-        <p>Thiaguinho, cujo nome completo é Thiago André Gomes da Rocha, nasceu em 10 de agosto de 1983, em Presidente Prudente, São Paulo, Brasil. Desde jovem, ele demonstrou talento musical, participando de corais e bandas da escola. Thiaguinho começou sua carreira profissional no pagode ao se juntar ao grupo Exaltasamba em 2003, onde rapidamente se destacou como vocalista.</p>
+        <p>Thiaguinho, cujo nome completo é Thiago André Barbosa, nasceu em 11 de março de 1983, em Presidente Prudente, São Paulo. Desde jovem, ele demonstrou talento musical, participando de corais e bandas da escola. Thiaguinho começou sua carreira profissional no pagode ao se juntar ao grupo Exaltasamba em 2003, onde rapidamente se destacou como vocalista.</p>
         <h3>História na Música</h3>
         <p>Thiaguinho ganhou notoriedade nacional como membro do Exaltasamba, contribuindo para o sucesso do grupo com sua voz marcante e carisma. Em 2012, ele decidiu seguir carreira solo e lançou seu primeiro álbum, que consolidou seu estilo e o transformou em um dos principais nomes do pagode romântico.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -155,7 +155,7 @@ const Pagode = () => {
 
       <div>
         <h2 className="cantores">Pixote</h2>
-        <p>Pixote, cujo nome verdadeiro é Mário Sérgio de Oliveira, nasceu em 17 de dezembro de 1991, em São Paulo, Brasil. Desde cedo, ele se interessou pela música, especialmente pelo pagode e pelo samba. Pixote começou sua carreira musical em 1995, quando se juntou ao grupo Os Travessos, onde ganhou notoriedade como vocalista. Em 2009, ele decidiu seguir carreira solo, consolidando-se como uma das principais vozes do pagode.</p>
+        <p>Pixote é um grupo brasileiro de pagode romântico e pop, criado nos anos 90, originário do bairro de Cidade Tiradentes, zona leste de São Paulo. Desde cedo, ele se interessou pela música, especialmente pelo pagode e pelo samba. Pixote começou sua carreira musical em 1995, quando se juntou ao grupo Os Travessos, onde ganhou notoriedade como vocalista. Em 2009, ele decidiu seguir carreira solo, consolidando-se como uma das principais vozes do pagode.</p>
         <h3>História na Música</h3>
         <p>Pixote ganhou destaque na cena musical com sua voz poderosa e seu carisma no palco. Sua passagem pelo grupo Os Travessos foi marcada por grandes sucessos, mas sua carreira solo trouxe uma nova fase de popularidade. Com letras que falam sobre amor, relacionamentos e a vida cotidiana, ele conquistou uma base de fãs fiel e se destacou no cenário do pagode romântico.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -184,7 +184,7 @@ const Pagode = () => {
 
       <div>
         <h2 className="cantores">Belo</h2>
-        <p>Belo, cujo nome verdadeiro é Marcelo Pires Vieira, nasceu em 22 de abril de 1974, em Caxias, no estado do Rio de Janeiro, Brasil. Desde jovem, Belo demonstrou interesse pela música, influenciado pelo samba e pelo pagode. Sua carreira começou em 1997, quando se juntou ao grupo Exaltasamba, onde se destacou como vocalista e conquistou uma enorme popularidade.</p>
+        <p>Belo, cujo nome verdadeiro é Marcelo Pires Vieira, nasceu em 22 de abril de 1974, em São Paulo. Desde jovem, Belo demonstrou interesse pela música, influenciado pelo samba e pelo pagode. Sua carreira começou em 1997, quando se juntou ao grupo Exaltasamba, onde se destacou como vocalista e conquistou uma enorme popularidade.</p>
         <h3>História na Música</h3>
         <p>Belo ganhou notoriedade com o Soweto, um dos grupos de pagode mais influentes da época, contribuindo para o sucesso do gênero. Em 2001, ele decidiu seguir carreira solo, lançando seu primeiro álbum e consolidando seu estilo característico, que mescla pagode romântico com influências de samba e R&B.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -213,7 +213,7 @@ const Pagode = () => {
 
       <div>
         <h2 className="cantores">Péricles</h2>
-        <p>Péricles, cujo nome completo é Péricles de Faria, nasceu em 22 de agosto de 1975, em São Paulo, Brasil. Desde cedo, ele se interessou pela música, especialmente pelo samba e pelo pagode. Péricles começou sua carreira em 1992 como vocalista do grupo Exaltasamba, onde se destacou e ganhou notoriedade nacional.</p>
+        <p>Péricles, cujo nome completo é Péricles de Faria, nasceu em 22 de junho de 1969, em São Paulo. Desde cedo, ele se interessou pela música, especialmente pelo samba e pelo pagode. Péricles começou sua carreira em 1992 como vocalista do grupo Exaltasamba, onde se destacou e ganhou notoriedade nacional.</p>
         <h3>História na Música</h3>
         <p>Durante sua passagem pelo Exaltasamba, Péricles foi um dos principais responsáveis pelo sucesso do grupo, contribuindo com sua voz marcante e carisma. O grupo se tornou um dos mais influentes do pagode nos anos 90 e 2000. Em 2012, Péricles decidiu seguir carreira solo, lançando seu primeiro álbum solo e explorando novas sonoridades.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -249,7 +249,7 @@ const Pagode = () => {
 
       <div>
         <h2 className="cantores"> Fundo de Quintal</h2>
-        <p>Fundo de Quintal é um dos grupos mais icônicos do samba brasileiro, formado em 1980, no Rio de Janeiro. O grupo é composto por músicos talentosos, incluindo Jorge Aragão, Beto Sem Braço, César Camargo, Almir Guineto e Neoci, entre outros. Desde sua formação, o Fundo de Quintal se destacou por sua abordagem inovadora ao samba, misturando ritmos e estilos e utilizando instrumentos como o banjo e a cuíca.</p>
+        <p>Fundo de Quintal é um dos grupos mais icônicos do samba brasileiro, formado na década de 1970, no Rio de Janeiro. O grupo é composto por músicos talentosos, incluindo Jorge Aragão, Beto Sem Braço, César Camargo, Almir Guineto e Neoci, entre outros. Desde sua formação, o Fundo de Quintal se destacou por sua abordagem inovadora ao samba, misturando ritmos e estilos e utilizando instrumentos como o banjo e a cuíca.</p>
         <h3>História na Música</h3>
         <p>O Fundo de Quintal é considerado um dos pioneiros do samba de roda e do pagode, influenciando a cena musical brasileira na década de 1980 e além. O grupo começou a se apresentar em festas e eventos, rapidamente conquistando uma base de fãs fiel. Sua música, que aborda temas do cotidiano e do amor, ressoou profundamente com o público.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
@@ -285,7 +285,7 @@ const Pagode = () => {
 
       <div>
         <h2 className="cantores">Menos é Mais</h2>
-        <p>O Grupo Menos É Mais surgiu em 2016, em Brasília, e é formado por pelo vocalista Duzão, Gustavo Goes, Jorge Farias, Paulinho Félix e Ramon Alvarenga na percussão.</p>
+        <p>O Grupo Menos É Mais surgiu em 2017, em Brasília, e é formado por pelo vocalista Duzão, Gustavo Goes, Jorge Farias, Paulinho Félix e Ramon Alvarenga na percussão.</p>
         <h3>História na Música</h3>
         <p>Foi durante a pandemia que o Menos É Mais começou a conquistar ainda mais fãs através das lives. Logo, o grupo de pagode com DNA brasiliense viu suas redes sociais e views no YouTube alcançarem números impressionantes. Com um repertório que mescla músicas autorais com covers de músicos consagrados como Pixote, Dilsinho e Péricles, o Menos É Mais ganhou fama por trazer novamente o clima animado das rodas de samba.</p>
         <h3>Principais Álbuns e Músicas Famosas</h3>
