@@ -1,5 +1,3 @@
-import ReactDOM from "react-dom/client";
-
 //importnado pacote de rotas do react
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -38,7 +36,7 @@ function App() {
           <Route index element={<Home />} />
           <Route path="login" element={<Login />} />
           <Route path="playlist" element={<Playlist />} />
-          <Route path="cadastro" element={<Cadastrar />} />
+          <Route path="cadastrar" element={<Cadastrar />} />
           <Route path="duvidas" element={<Duvidas />} />
           <Route path="musicas/mpb" element={<MPB />} />
           <Route path="musicas/axe" element={<Axe />} />

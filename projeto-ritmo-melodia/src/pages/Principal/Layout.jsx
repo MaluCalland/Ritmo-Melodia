@@ -10,10 +10,10 @@ const Layout = () => {
         <>
         <div className='paginasHome'>
             <nav className='flex-conteiner'>
-                <button className='flex-item' onClick={() => navigate("/")}>HOME</button>
-                <button className='flex-item' onClick={() => navigate("/login")}>LOGIN</button>
-                <button className='flex-item' onClick={() => navigate("/playlist")}>PLAYLIST</button>
-                <button className='flex-item' onClick={() => navigate("/duvidas")}>SOBRE NÓS</button>
+                <button className='flex-item' onClick={() => navigate("/")}><strong>HOME</strong></button>
+                <button className='flex-item' onClick={() => navigate("/login")}><strong>LOGIN</strong></button>
+                <button className='flex-item' onClick={() => navigate("/playlist")}><strong>PLAYLIST</strong></button>
+                <button className='flex-item' onClick={() => navigate("/duvidas")}><strong>SOBRE NÓS</strong></button>
             </nav>
         </div>
 
