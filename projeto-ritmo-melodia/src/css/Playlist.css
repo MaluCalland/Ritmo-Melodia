@@ -1,6 +1,10 @@
 .tituloPlaylist{
-    background-color:#F3C623;;
+    background-color:#F3C623;
     text-align: center;
+    border-radius: 50px;
+    margin: 20px;
+    height: 120px;
+    padding: 10px;
 }
 
 .buttonCategoria{
@@ -19,5 +23,15 @@
     letter-spacing: 3px;
     padding:8px 20.8px;
     transition: all .5s;
-    
+    cursor: pointer;
+}
+
+.flex-conteiner-playlist{
+    display: flex;
+    gap: 10px;
+}
+
+.flex-item-playlist{
+    margin: 20px;
+
 }
