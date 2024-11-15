@@ -4,7 +4,7 @@ const PlaylistAxe = () => {
   return (
     <div className="">
       <nav className="flex-conteiner-playlist">
-          <iframe className="flex-item-playlist"
+          {/* <iframe className="flex-item-playlist"
             width="280"
             height="157.5"
             src="https://www.youtube.com/embed/videoseries?list=PL3IsGvUdVyAJ6gOeibD3m8pQ2LRsHTeNm"
@@ -20,7 +20,7 @@ const PlaylistAxe = () => {
             title="Minha Playlist"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowFullScreen
-          ></iframe>
+          ></iframe> */}
       </nav>
     </div>
   );

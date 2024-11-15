@@ -13,7 +13,7 @@ const Layout = () => {
                 <button className='flex-item' onClick={() => navigate("/")}><strong>HOME</strong></button>
                 <button className='flex-item' onClick={() => navigate("/login")}><strong>LOGIN</strong></button>
                 <button className='flex-item' onClick={() => navigate("/playlist")}><strong>PLAYLIST</strong></button>
-                <button className='flex-item' onClick={() => navigate("/duvidas")}><strong>SOBRE NÓS</strong></button>
+                <button className='flex-item' onClick={() => navigate("/sobre-nos")}><strong>SOBRE NÓS</strong></button>
             </nav>
         </div>
 

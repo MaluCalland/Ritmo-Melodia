@@ -10,7 +10,7 @@ import Home from "./pages/Principal/Home";
 import Login from "./pages/Principal/Login";
 import Playlist from "./pages/Principal/Playlist";
 import Cadastrar from "./pages/Principal/Cadastrar";
-import Duvidas from "./pages/Principal/Duvidas";
+import SobreNos from "./pages/Principal/SobreNos";
 import NoPage from "./pages/Principal/NoPage";
 
 //imortando as funções das paginas de cada estilo musical
@@ -37,7 +37,7 @@ function App() {
           <Route path="login" element={<Login />} />
           <Route path="playlist" element={<Playlist />} />
           <Route path="cadastrar" element={<Cadastrar />} />
-          <Route path="duvidas" element={<Duvidas />} />
+          <Route path="sobre-nos" element={<SobreNos />} />
           <Route path="musicas/mpb" element={<MPB />} />
           <Route path="musicas/axe" element={<Axe />} />
           <Route path="musicas/forro" element={<Forro />} />
