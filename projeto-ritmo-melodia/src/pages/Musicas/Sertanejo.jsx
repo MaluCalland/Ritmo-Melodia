@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Sertanejo = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Sertanejo</h1>
+      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Sertanejo</h1>
 
       <div> 
         <h2 className="cantores">Marília Mendonça</h2>

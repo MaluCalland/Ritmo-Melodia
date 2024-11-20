@@ -1,18 +1,18 @@
 import React from 'react';
 import { Outlet , useNavigate} from 'react-router-dom';
 
-import imagemAxe from '../../assets/axe.webp'; 
-import imagemForro from '../../assets/forro.jpg'; 
-import imagemFunk from '../../assets/funk.webp'; 
-import imagemMPB from '../../assets/mpb.png'; 
-import imagemPagode from '../../assets/pagode.jpg'; 
-import imagemPop from '../../assets/pop.webp'; 
-import imagemRap from '../../assets/rap.png'; 
-import imagemReggae from '../../assets/reggae.jpg'; 
-import imagemRock from '../../assets/rock.webp'; 
-import imagemSamba from '../../assets/samba.png'; 
-import imagemSertanejo from '../../assets/sertanejo.png'; 
-import imagemTrap from '../../assets/trap.jpg'; 
+import imagemAxe from '../../assets/images/axe.webp'; 
+import imagemForro from '../../assets/images/forro.jpg'; 
+import imagemFunk from '../../assets/images/funk.webp'; 
+import imagemMPB from '../../assets/images/mpb.png'; 
+import imagemPagode from '../../assets/images/pagode.jpg'; 
+import imagemPop from '../../assets/images/pop.webp'; 
+import imagemRap from '../../assets/images/rap.png'; 
+import imagemReggae from '../../assets/images/reggae.jpg'; 
+import imagemRock from '../../assets/images/rock.webp'; 
+import imagemSamba from '../../assets/images/samba.png'; 
+import imagemSertanejo from '../../assets/images/sertanejo.png'; 
+import imagemTrap from '../../assets/images/trap.jpg'; 
 
 
 const Home = () => {
@@ -32,97 +32,84 @@ const Home = () => {
             </form>
         </div> */}
 
-        <div className='paginasHome'>
+    <div className='paginasHome'>
             <nav className='flex-conteiner-home'>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/mpb')}>
-                    <img src={imagemMPB}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/axe')}>
-                    <img src={imagemAxe}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/forro')}>
-                    <img src={imagemForro}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>            
-                <button className='flex-item-home' onClick={() => navigate('/musicas/funk')}>
-                    <img src={imagemFunk}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/trap')}>
-                    <img src={imagemTrap}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/rap')}>
-                    <img src={imagemRap}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/reggae')}>
-                    <img src={imagemReggae}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/samba')}>
-                    <img src={imagemSamba}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/pagode')}>
-                    <img src={imagemPagode}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/rock')}>
-                    <img src={imagemRock}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/pop')}>
-                    <img src={imagemPop}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-                <button className='flex-item-home' onClick={() => navigate('/musicas/sertanejo')}>
-                    <img src={imagemSertanejo}
-                        alt="Imagem do cantor Djavan"
-                        width="403"
-                        height="303">
-                    </img>
-                </button>
-            </nav>
-        </div>
-            
-        <Outlet/>
-        </>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/mpb')}>
+                <div className="image-container">
+                    <img src={imagemMPB} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">MPB</p>
+                </div>
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/axe')}>
+                <div className="image-container">
+                    <img src={imagemAxe} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">AXÉ</p>
+                </div>    
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/forro')}>
+                <div className="image-container">
+                    <img src={imagemForro} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">FORRÓ</p>
+                </div>    
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/funk')}>
+                <div className="image-container">
+                    <img src={imagemFunk} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">FUNK</p>
+                </div>    
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/trap')}>
+                <div className="image-container">
+                    <img src={imagemTrap} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">TRAP</p>
+                </div> 
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/rap')}>
+                    <div className="image-container">
+                    <img src={imagemRap} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">RAP</p>
+                </div> 
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/reggae')}>
+                <div className="image-container">
+                    <img src={imagemReggae} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">REGGAE</p>
+                </div> 
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/samba')}>
+                <div className="image-container">
+                    <img src={imagemSamba} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">SAMBA</p>
+                </div> 
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/pagode')}>
+                <div className="image-container">
+                    <img src={imagemPagode} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">PAGODE</p>
+                </div> 
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/rock')}>
+                <div className="image-container">
+                    <img src={imagemRock} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">ROCK</p>
+                </div> 
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/pop')}>
+                <div className="image-container">
+                    <img src={imagemPop} alt="Imagem do cantor Djavan" />
+                    <p className="genre-name">POP</p>
+                </div> 
+            </button>
+            <button className='flex-item-home' onClick={() => navigate('/musicas/sertanejo')}>
+                <div className="image-container">
+                    <img src={imagemSertanejo} alt="Imagem Marília Mendonça" />
+                    <p className="genre-name">SERTANEJO</p>
+                </div> 
+            </button>
+        </nav>
+    </div>
+    <Outlet/>
+    </>
     )
   };
 

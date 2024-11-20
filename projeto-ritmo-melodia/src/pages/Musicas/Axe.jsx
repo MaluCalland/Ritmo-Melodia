@@ -5,8 +5,7 @@ import '../../css/Musicas.css'
 const Axe = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Axé</h1>
-
+      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Axé</h1>
       <div> 
         <h2 className="cantores">Ivete Sangalo</h2>
         <p>Ivete Sangalo, nascida em 27 de maio de 1972, em Juazeiro - Bahia, é uma das mais icônicas cantoras e compositoras do Brasil, conhecida por sua energia contagiante e performances vibrantes. Ela é uma das principais figuras do axé music e do carnaval brasileiro.</p>

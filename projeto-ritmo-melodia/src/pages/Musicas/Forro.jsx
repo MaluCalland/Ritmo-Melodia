@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Forro = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Forró</h1>
+      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Forró</h1>
 
       <div >
         <h2 className="cantores">Zé Ramalho</h2>

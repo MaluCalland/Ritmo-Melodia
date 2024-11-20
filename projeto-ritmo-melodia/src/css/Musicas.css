@@ -1,3 +1,8 @@
 .cantores{
-    background-color: yellow;
+    background-color: #F3C623;
+    border-radius: 10px;
+}
+
+.tituloPaginaMusicas{
+    text-align: center;
 }

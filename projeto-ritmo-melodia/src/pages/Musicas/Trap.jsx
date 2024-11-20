@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Trap = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Trap</h1>
+      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Trap</h1>
 
       <div> 
         <h2 className="cantores">Matuê</h2>

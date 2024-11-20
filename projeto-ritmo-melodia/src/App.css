@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+*{
+    font-family: Poppins;
+}
+
 body{
   /* background-color:rgb(50, 167, 50); */
   background-color: rgb(63, 167, 71);
@@ -22,22 +28,72 @@ body{
   margin: 20px;
   border: none;
   background-color: #006BFF;
-  font-family: Garet;
   font-size: larger;
   border-radius: 50px; /* Borda arredondada */
   cursor: pointer; /* Mão ao passar o mouse*/ 
   color: white;
 }
 
-.flex-item-home{
-  font-size: larger;
-  cursor: pointer; /* Mão ao passar o mouse*/
-  margin: 10px;
-  padding: 0%;
+.paginasHome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
 }
 
-nav{
-  text-align: center;
+.paginasHome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.flex-conteiner-home {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.flex-item-home {
+  height: auto; 
+  border: none;
+  background: transparent;
+  padding: 0;
+  cursor: pointer;
+  position: relative; /* Necessário para posicionar o texto dentro do botão */
+}
+
+.image-container {
+  position: relative;
+  width: 403px;   /* Defina o tamanho da imagem */
+  height: 309px;  /* Defina o tamanho da imagem */
+  overflow: hidden; /* Garante que o conteúdo que ultrapassar a área da imagem será ocultado */
+}
+
+.image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Faz a imagem preencher o contêiner mantendo a proporção */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.image-container img:hover {
+  transform: scale(1.05);
+}
+
+.genre-name {
+  position: absolute;
+  bottom: -65px;  /* Posiciona o texto na parte inferior da imagem */
+  left: 5%;
+  /* transform: translateX(-50%);  Centraliza o texto horizontalmente */
+  color: #fff;  /* Cor do texto */
+  font-size: 60px;  /* Tamanho do texto */
+  font-weight: bold;
+  text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.7); /* Sombra no texto para melhorar a legibilidade */
+  padding: 0px;
 }
 
 .faixaInicial{
@@ -45,18 +101,16 @@ nav{
   background-color: #F3C623;
   border-radius: 50px;
   margin: 20px;
-  height: 120px;
+  height: 150px;
   padding: 10px;
 }
 
 .tituloHome{
   text-align: center;
-  font-family: Chewy;
 }
 
 .subtituloHome{
   text-align: center;
-  font-family: Garet;
 }
 
 .barraPesquisa {

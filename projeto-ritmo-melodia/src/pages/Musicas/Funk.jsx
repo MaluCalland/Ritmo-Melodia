@@ -5,7 +5,7 @@ import '../../css/Musicas.css';
 const Funk = () => {
   return (
     <div>
-      <h1>Alguns dos Artistas Mais Famosos do Funk</h1>
+      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Funk</h1>
 
       <div> 
         <h2 className="cantores">MC Leozinho</h2>

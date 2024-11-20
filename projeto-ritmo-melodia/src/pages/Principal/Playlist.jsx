@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "../../css/Playlist.css";
+
 import PlaylistAxe from "../MixPlaylist/PlaylistAxe";
 import PlaylistForro from "../MixPlaylist/PlaylistForro";
 import PlaylistFunk from "../MixPlaylist/PlaylistFunk";
@@ -14,7 +15,6 @@ import PlaylistSertanejo from "../MixPlaylist/PlaylistSertanejo";
 import PlaylistTrap from "../MixPlaylist/PlaylistTrap";
 
 const Playlist = () => {
-  //armazenar lista de itens
   const [itens, setItens] = useState([
     { id: 1, src: PlaylistAxe(), categoria: "Axé" },
     { id: 2, src: PlaylistForro(), categoria: "Forró" },
@@ -141,11 +141,13 @@ const Playlist = () => {
         </button>
       </div>
       {/* Exibindo os itens filtrados */}
-      <ul>
-        {itensFiltrados.map((item) => (
-          <p key={item.id}>{item.src}</p>
-        ))}
-      </ul>
+      <div className="exibirPlaylists"> 
+        <ul className="flex-item-caixa">
+            {itensFiltrados.map((item) => (
+              <p key={item.id}>{item.src}</p>
+            ))}
+        </ul>
+      </div>
     </div>
   );
 };

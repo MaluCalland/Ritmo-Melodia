@@ -5,8 +5,7 @@ import '../../css/Musicas.css';
 const Rock = () => {
   return (
     <div>
-      
-      <h1>Alguns dos Artistas Mais Famosos do Mundo das Músicas Rock</h1>
+      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Rock</h1>
 
       <div >
         <h2 className="cantores">Rita Lee</h2>

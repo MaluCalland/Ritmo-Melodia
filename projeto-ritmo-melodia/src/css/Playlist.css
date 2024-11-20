@@ -20,8 +20,8 @@
     color:  rgb(4, 68, 107);
     font-size: 14px;
     font-weight: 600;
-    letter-spacing: 3px;
-    padding:8px 20.8px;
+    letter-spacing: 2.5px;
+    padding:8px 20.6px;
     transition: all .5s;
     cursor: pointer;
 }
@@ -34,4 +34,17 @@
 .flex-item-playlist{
     margin: 20px;
 
+}
+
+.flex-item-caixa {
+    display: flex;              /* Ativa o modelo de layout Flexbox */
+    flex-wrap: wrap;            /* Permite que os itens que não cabem na linha atual se movam para a linha seguinte */
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+ 
+.flex-item-caixa p {
+    padding: 5px;               /* Padding opcional para dar espaçamento interno */
+    text-align: center;         /* Alinha o texto no centro */
 }

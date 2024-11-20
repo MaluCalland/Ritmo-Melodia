@@ -6,7 +6,7 @@ const Rap = () => {
   return (
 
       <div>
-      <h1>Alguns dos Artistas Mais Famosos do Rap</h1>
+      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Rap</h1>
 
       <div> 
         <h2 className="cantores">Emicida</h2>
