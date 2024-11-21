@@ -15,6 +15,14 @@
     box-sizing: border-box;
 }
 
+.body-playlist{
+    display: flex;              /* Ativa o modelo de layout Flexbox */
+    flex-wrap: wrap;            /* Permite que os itens que não cabem na linha atual se movam para a linha seguinte */
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
 .backgroundVideo{
     position: absolute;
     right: 0;
