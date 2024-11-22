@@ -4,14 +4,14 @@ import "../../css/Playlist.css";
 import PlaylistAxe from "../MixPlaylist/PlaylistAxe";
 import PlaylistForro from "../MixPlaylist/PlaylistForro";
 import PlaylistFunk from "../MixPlaylist/PlaylistFunk";
-import PlaylistMPB from "../MixPlaylist/PlaylistMPB";
-import PlaylistPagode from "../MixPlaylist/PlaylistPagode";
-import PlaylistPop from "../MixPlaylist/PlaylistPop";
-import PlaylistRap from "../MixPlaylist/PlaylistRap";
-import PlaylistReggae from "../MixPlaylist/PlaylistReggae";
-import PlaylistRock from "../MixPlaylist/PlaylistRock";
-import PlaylistSamba from "../MixPlaylist/PlaylistSamba";
-import PlaylistSertanejo from "../MixPlaylist/PlaylistSertanejo";
+// import PlaylistMPB from "../MixPlaylist/PlaylistMPB";
+// import PlaylistPagode from "../MixPlaylist/PlaylistPagode";
+// import PlaylistPop from "../MixPlaylist/PlaylistPop";
+// import PlaylistRap from "../MixPlaylist/PlaylistRap";
+// import PlaylistReggae from "../MixPlaylist/PlaylistReggae";
+// import PlaylistRock from "../MixPlaylist/PlaylistRock";
+// import PlaylistSamba from "../MixPlaylist/PlaylistSamba";
+// import PlaylistSertanejo from "../MixPlaylist/PlaylistSertanejo";
 import PlaylistTrap from "../MixPlaylist/PlaylistTrap";
 
 const Playlist = () => {
@@ -19,14 +19,14 @@ const Playlist = () => {
     { id: 1, src: PlaylistAxe(), categoria: "Axé" },
     { id: 2, src: PlaylistForro(), categoria: "Forró" },
     { id: 3, src: PlaylistFunk(), categoria: "Funk" },
-    { id: 4, src: PlaylistMPB(), categoria: "MPB" },
-    { id: 5, src: PlaylistPagode(), categoria: "Pagode" },
-    { id: 6, src: PlaylistPop(), categoria: "Pop" },
-    { id: 7, src: PlaylistRap(), categoria: "Rap" },
-    { id: 8, src: PlaylistReggae(), categoria: "Reggae" },
-    { id: 9, src: PlaylistRock(), categoria: "Rock" },
-    { id: 10, src: PlaylistSamba(), categoria: "Samba" },
-    { id: 11, src: PlaylistSertanejo(), categoria: "Sertanejo" },
+    // { id: 4, src: PlaylistMPB(), categoria: "MPB" },
+    // { id: 5, src: PlaylistPagode(), categoria: "Pagode" },
+    // { id: 6, src: PlaylistPop(), categoria: "Pop" },
+    // { id: 7, src: PlaylistRap(), categoria: "Rap" },
+    // { id: 8, src: PlaylistReggae(), categoria: "Reggae" },
+    // { id: 9, src: PlaylistRock(), categoria: "Rock" },
+    // { id: 10, src: PlaylistSamba(), categoria: "Samba" },
+    // { id: 11, src: PlaylistSertanejo(), categoria: "Sertanejo" },
     { id: 12, src: PlaylistTrap(), categoria: "Trap" },
   ]);
 

@@ -238,7 +238,7 @@ function PlaylistAxe() {
       <div className="container">
         <div className="music-Container">
           <p className='music-Head-Name'>Macetando</p>
-          <p className='music-Artist-Name'>Ivete</p>
+          <p className='music-Artist-Name'>Ivete Sangalo</p>
           <img src={cantor11} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
             <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>

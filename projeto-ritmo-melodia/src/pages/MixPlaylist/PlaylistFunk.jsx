@@ -1,22 +1,24 @@
 import { useRef, useState } from 'react';
 import '../../css/DesignPlaylist.css';
 
-import cantor1 from '../../assets/images/funk.webp';
-import cantor2 from '../../assets/images/axe.webp';
-import cantor3 from '../../assets/images/forro.jpg';
-import cantor4 from '../../assets/images/mpb.png';
-
-import cancao1 from '../../assets/songs/Chasing - NEFFEX.mp3';
-import cancao2 from '../../assets/songs/AURORA - Runaway (Lyrics).mp3';
-import cancao3 from '../../assets/songs/Baby doll [ slowed + reverb ] __ meet bros ,Kanika Kapoor __ jr santu.mp3';
-import cancao4 from '../../assets/songs/Catch Me If I Fall - NEFFEX.mp3';
+import cantor1 from '../../assets/images/playlist-funk/marcinho.jpg';
+import cantor2 from '../../assets/images/playlist-funk/leozinho.jpg';
+import cantor3 from '../../assets/images/playlist-funk/livinho.webp';
+import cantor4 from '../../assets/images/playlist-funk/sapao.jpg';
+import cantor5 from '../../assets/images/playlist-funk/dennis.jpg';
+import cantor6 from '../../assets/images/playlist-funk/don-juan.webp';
+import cantor7 from '../../assets/images/playlist-funk/delano.jpg';
+import cantor8 from '../../assets/images/playlist-funk/kevin.png';
+import cantor9 from '../../assets/images/playlist-funk/FBC.webp';
+import cantor10 from '../../assets/images/playlist-funk/zaac.webp';
+import cantor11 from '../../assets/images/playlist-funk/kevin.jpeg';
+import cantor12 from '../../assets/images/playlist-funk/claudinho-e-buchecha.jpg';
 
 function PlaylistFunk() {
 
     const [currentMusicDetails, setCurrentMusicDetails] = useState({
       songName: '',
       songArtist: 'Funk',
-      songSrc: cancao1,
       songAvatar: cantor1
     })
   
@@ -56,12 +58,6 @@ function PlaylistFunk() {
         setIsAudioPlaying(false)
       }
     }
-  
-    const musicAPI = [
-      { songName: 'Chasing', songArtist: 'NEFFEX', songSrc: cancao1, songAvatar: cantor1},
-      { songName: 'AURORA - Runaway', songArtist: 'Aurora Aksnes', songSrc: cancao2, songAvatar: cantor2},
-      { songName: 'Catch Me If I Fall', songArtist: 'TEGNENT', songSrc: cancao3, songAvatar: cantor3 }
-    ]
   
     const handleNextSong = ()=>{
       if (musicIndex >= musicAPI.length - 1) {
@@ -117,26 +113,162 @@ function PlaylistFunk() {
       setAudioProgress(isNaN(progress)? 0 : progress)
     }
  
-   return (
+    return (
       <>
+      <div className="body-playlist">
       <div className="container">
-        <audio src={cancao1} ref={currentAudio} onEnded={handleNextSong} onTimeUpdate={handleAudioUpdate}></audio>        <div className="blackScreen"></div>
         <div className="music-Container">
-          <p className='musicPlayer'></p>
-          <p className='music-Head-Name'>{currentMusicDetails.songName}</p>
-          <p className='music-Artist-Name'>{currentMusicDetails.songArtist}</p>
-          <img src={currentMusicDetails.songAvatar} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
-          <div className="musicTimerDiv">
-            <p className='musicCurrentTime'>{musicCurrentTime}</p>
-            <p className='musicTotalLenght'>{musicTotalLength}</p>
-          </div>
-          <input type="range" name="musicProgressBar" className='musicProgressBar' value={audioProgress} onChange={handleMusicProgressBar} />
+          <p className='music-Head-Name'>Glamurosa</p>
+          <p className='music-Artist-Name'>MC Marcinho, DJ Marlboro</p>
+          <img src={cantor1} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
             <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
             <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
           </div>
         </div>
+      </div>
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Ela Só Pensa em Beijar</p>
+          <p className='music-Artist-Name'>MC Leozinho, DJ Marlboro </p>
+          <img src={cantor2} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Hoje Eu Vou Parar Na Gaiola</p>
+          <p className='music-Artist-Name'>Mc Livinho, Rennan da Penha</p>
+          <img src={cantor3} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Vou Desafiar Você</p>
+          <p className='music-Artist-Name'>Mc Sapão, DJ Detonna</p>
+          <img src={cantor4} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Só Você</p>
+          <p className='music-Artist-Name'>DENNIS, MC G15</p>
+          <img src={cantor5} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Amar Amei</p>
+          <p className='music-Artist-Name'>Mc Donn Juan</p>
+          <img src={cantor6} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Na Ponta Ela Fica</p>
+          <p className='music-Artist-Name'>Delano</p>
+          <img src={cantor7} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Pra Inveja é Tchau</p>
+          <p className='music-Artist-Name'>MC Kevin e Mc Davi</p>
+          <img src={cantor8} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Delírios</p>
+          <p className='music-Artist-Name'>FBC, VHOOR, Djair Voz Cristalina</p>
+          <img src={cantor9} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Bumbum Granada</p>
+          <p className='music-Artist-Name'>Mc's Zaac & Jerry Smith</p>
+          <img src={cantor10} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Evoluiu</p>
+          <p className='music-Artist-Name'>MC Kevin o Chris</p>
+          <img src={cantor11} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
+
+      <div className="container">
+        <div className="music-Container">
+          <p className='music-Head-Name'>Amor de Chocolate</p>
+          <p className='music-Artist-Name'>Claudinho & Buchecha</p>
+          <img src={cantor12} className={avatarClass[avatarClassIndex]} onClick={handleAvatar} alt="song Avatar" id='songAvatar'/>
+          <div className="musicControlers">
+            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
+            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+          </div>
+        </div>
+      </div>
       </div>
       </>
     );
