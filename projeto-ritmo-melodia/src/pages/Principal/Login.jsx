@@ -3,60 +3,18 @@ import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import "../../css/Login.css";
 
-const Login = () => {
+const Login =  () => {
+
   const [username, setUsername] = useState("");  // Gerencia o valor do email
   const [password, setPassword] = useState("");  // Gerencia o valor da senha
 
   const navigate = useNavigate();  // Navegação entre páginas
 
-  // Verifica se o usuário está autenticado ao carregar o componente
-  useEffect(() => {
-    const token = localStorage.getItem("token");
-
-    // Se o token já existir, redireciona o usuário para a página de playlists
-    if (token) {
-      navigate("/playlists");
-    }
-  }, [navigate]);  // Executa apenas uma vez ao montar o componente
-
   // Função para enviar o formulário
   const handleSubmit = async (event) => {
     event.preventDefault();  // Evita que a página seja recarregada ao enviar o formulário
-
-    try {
-      // Envia os dados de login para o backend via POST
-      const response = await fetch("http://localhost:5173/login", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ username, password }),
-      });
-
-      // Se o login for bem-sucedido
-      if (response.ok) {
-        const data = await response.json();
-        
-        // Armazenando o token (se necessário)
-        localStorage.setItem("token", data.token);
-
-        // Navega para a página de playlists após o login
-        navigate("/playlists");
-
-      } else if (response.status === 401) {
-        // Caso as credenciais estejam erradas
-        alert("Credenciais inválidas. Tente novamente.");
-      } else {
-        // Caso ocorra outro erro
-        alert("Erro ao fazer login. Tente novamente mais tarde.");
-      }
-      
-    } catch (error) {
-      console.error("Erro ao fazer login:", error);
-      alert("Erro ao fazer login. Tente novamente mais tarde.");
-    }
-  };
-
+  }
+  
   return (
     <div className="container">
       <form onSubmit={handleSubmit}>

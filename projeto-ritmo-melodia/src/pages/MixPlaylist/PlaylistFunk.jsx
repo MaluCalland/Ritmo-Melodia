@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
 import '../../css/DesignPlaylist.css';
 
+
 import cantor1 from '../../assets/images/playlist-funk/marcinho.jpg';
 import cantor2 from '../../assets/images/playlist-funk/leozinho.jpg';
 import cantor3 from '../../assets/images/playlist-funk/livinho.webp';
@@ -14,15 +15,20 @@ import cantor10 from '../../assets/images/playlist-funk/zaac.webp';
 import cantor11 from '../../assets/images/playlist-funk/kevin.jpeg';
 import cantor12 from '../../assets/images/playlist-funk/claudinho-e-buchecha.jpg';
 
+
 function PlaylistFunk() {
+
 
   const [isAudioPlaying, setIsAudioPlaying] = useState(false);
   const [musicIndex, setMusicIndex] = useState(0);
 
+
   const currentAudio = useRef()
+
 
   let avatarClass = ['objectFitCover','objectFitContain','none']
   const [avatarClassIndex, setAvatarClassIndex] = useState(0)
+
 
   const handleAudioPlay = ()=>{
     if (currentAudio.current.paused) {
@@ -34,29 +40,6 @@ function PlaylistFunk() {
     }
   }
 
-  const handleNextSong = ()=>{
-    if (musicIndex >= musicAPI.length - 1) {
-      let setNumber = 0;
-      setMusicIndex(setNumber);
-      updateCurrentMusicDetails(setNumber);
-    }else{
-      let setNumber = musicIndex + 1;
-      setMusicIndex(setNumber)
-      updateCurrentMusicDetails(setNumber);
-    }
-  }
-
-  const handlePrevSong = ()=>{
-    if (musicIndex === 0) {
-      let setNumber = musicAPI.length - 1;
-      setMusicIndex(setNumber);
-      updateCurrentMusicDetails(setNumber);
-    }else{
-      let setNumber = musicIndex - 1;
-      setMusicIndex(setNumber)
-      updateCurrentMusicDetails(setNumber);
-    }
-  }
 
     return (
       <>
@@ -67,9 +50,9 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>MC Marcinho, DJ Marlboro</p>
           <img src={cantor1} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
@@ -79,9 +62,9 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>MC Leozinho, DJ Marlboro </p>
           <img src={cantor2} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
@@ -91,12 +74,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>Mc Livinho, Rennan da Penha</p>
           <img src={cantor3} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -104,12 +88,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>Mc Sapão, DJ Detonna</p>
           <img src={cantor4} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -117,12 +102,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>DENNIS, MC G15</p>
           <img src={cantor5} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -130,12 +116,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>Mc Donn Juan</p>
           <img src={cantor6} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -143,12 +130,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>Delano</p>
           <img src={cantor7} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -156,12 +144,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>MC Kevin e Mc Davi</p>
           <img src={cantor8} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -169,12 +158,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>FBC, VHOOR, Djair Voz Cristalina</p>
           <img src={cantor9} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -182,12 +172,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>Mc's Zaac & Jerry Smith</p>
           <img src={cantor10} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -195,12 +186,13 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>MC Kevin o Chris</p>
           <img src={cantor11} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
+
 
       <div className="container">
         <div className="music-Container">
@@ -208,9 +200,9 @@ function PlaylistFunk() {
           <p className='music-Artist-Name'>Claudinho & Buchecha</p>
           <img src={cantor12} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
           <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
+            <i className='fa fa-backward musicControler' ></i>
             <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            <i className='fa fa-forward musicControler' ></i>
           </div>
         </div>
       </div>
@@ -218,5 +210,5 @@ function PlaylistFunk() {
       </>
     );
   }
-  
+ 
   export default PlaylistFunk;  

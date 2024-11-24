@@ -2,7 +2,7 @@ import { useRef, useState } from 'react';
 import '../../css/DesignPlaylist.css';
 
 import cantor1 from '../../assets/images/playlist-reggae/armandinho.webp';
-import cantor2 from '../../assets/images/playlist-reggae/chimarruts.png';
+import cantor2 from '../../assets/images/playlist-reggae/chimarruts.jpg';
 import cantor3 from '../../assets/images/playlist-reggae/cidadenegra.png';
 import cantor4 from '../../assets/images/playlist-reggae/eduribeiro.webp';
 import cantor5 from '../../assets/images/playlist-reggae/manevaa.jpg';
