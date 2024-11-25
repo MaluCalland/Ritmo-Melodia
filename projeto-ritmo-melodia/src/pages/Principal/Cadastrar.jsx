@@ -25,13 +25,13 @@ const Cadastrar = () => {
     }
   
     try {
-      const response = await fetch('http://localhost:5173/cadastrar', {
+      const response = await fetch('http://localhost:5000/cadastro', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          username: email,
+          email: email,
           password: password,
         }),
       });

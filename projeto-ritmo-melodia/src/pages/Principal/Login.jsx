@@ -13,8 +13,29 @@ const Login =  () => {
   // Função para enviar o formulário
   const handleSubmit = async (event) => {
     event.preventDefault();  // Evita que a página seja recarregada ao enviar o formulário
+      
+        try {
+          const response = await fetch('http://localhost:5000/usuario?email='+username+'&password='+password, {
+            method: 'GET',
+            headers: {
+              'Content-Type': 'application/json',
+            }
+          });
+      
+          const data = await response.json(); // Pega a resposta JSON
+      
+          if (response.ok) {
+            console.log(data);
+          } else {
+            // Exibe a mensagem de erro do backend
+            setError(data.message);
+          }
+        } catch (error) {
+          console.error('Erro', error);
+        }
+    
   }
-  
+
   return (
     <div className="container">
       <form onSubmit={handleSubmit}>
