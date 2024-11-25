@@ -39,11 +39,12 @@ const Login =  () => {
   }
 
   return (
-    <div className="container">
-      <form onSubmit={handleSubmit}>
-        <h1>Faça seu Login</h1>
+    <>
+    <div className="body-login">
+      <form className="container-login" onSubmit={handleSubmit}>
+      <p className="titulo-login">Login</p>
 
-        <div className="input-field">
+        <div className="input-field-login">
           <input
             type="email"
             placeholder="E-mail"
@@ -51,10 +52,10 @@ const Login =  () => {
             value={username}  // Vincula o valor do input ao estado
             onChange={(e) => setUsername(e.target.value)}  // Atualiza o estado ao digitar
           />
-          <FaUser className="icon" />
+          <FaUser className="icon-login" />
         </div>
 
-        <div className="input-field">
+        <div className="input-field-login">
           <input
             type="password"
             placeholder="Senha"
@@ -62,25 +63,26 @@ const Login =  () => {
             value={password}  // Vincula o valor do input ao estado
             onChange={(e) => setPassword(e.target.value)}  // Atualiza o estado ao digitar
           />
-          <FaLock className="icon" />
+          <FaLock className="icon-login" />
         </div>
 
-        <div className="recall-forget">
+        <div className="recall-forget-login">
           <p>
             <a href="#">Esqueceu a senha?</a>
           </p>
         </div>
 
-        <p><button type="submit">Entrar</button></p>
+        <p><button className="button-login" type="submit">ENTRAR</button></p>
 
-        <div className="signup-link">
+        <div className="signup-link-login">
           <p>Não tem uma conta?</p>
           <p>
-            <button className="flex-item" onClick={() => navigate("/cadastrar")}>CADASTRAR</button>
+            <button className="button-login" onClick={() => navigate("/cadastrar")}>CADASTRAR</button>
           </p>
         </div>
       </form>
     </div>
+    </>
   );
 };
 

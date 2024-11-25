@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import '../../css/Cadastro.css';  // Estilos do seu formulário
+import { useNavigate } from 'react-router-dom';
 
 const Cadastrar = () => {
   // Estados para armazenar os valores dos campos de entrada
@@ -8,6 +9,8 @@ const Cadastrar = () => {
   const [confirmEmail, setConfirmEmail] = useState('');
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
+
+  const navigate = useNavigate()
 
   // Função para manipular o envio do formulário
   const handleSubmit = async (event) => {
@@ -40,6 +43,7 @@ const Cadastrar = () => {
   
       if (response.ok) {
         alert('Cadastro realizado com sucesso!');
+        navigate("/login");
       } else {
         // Exibe a mensagem de erro do backend
         setError(data.message || 'Erro ao cadastrar. Tente novamente.');
@@ -51,14 +55,15 @@ const Cadastrar = () => {
   };
   
   return (
-    <div className="painelCadastro">
-      <form onSubmit={handleSubmit}>
-        <h1 className="tituloCadastro">Faça seu Cadastro</h1>
+    <div className='body-cadastro'>
+      <form className="painelCadastro" onSubmit={handleSubmit}>
+      <p className="tituloCadastro">Cadastro</p>
 
         {error && <p className="error">{error}</p>}
 
         <p>
           <input
+          className='input-cadastro'
             type="text"
             placeholder="Nome"
             value={name}
@@ -68,6 +73,7 @@ const Cadastrar = () => {
         </p>
         <p>
           <input
+            className='input-cadastro'
             type="email"
             placeholder="Informe seu E-mail"
             value={email}
@@ -77,6 +83,7 @@ const Cadastrar = () => {
         </p>
         <p>
           <input
+            className='input-cadastro'
             type="email"
             placeholder="Confirme seu E-mail"
             value={confirmEmail}
@@ -86,6 +93,7 @@ const Cadastrar = () => {
         </p>
         <p>
           <input
+            className='input-cadastro'
             type="password"
             placeholder="Crie sua senha"
             value={password}
@@ -94,7 +102,7 @@ const Cadastrar = () => {
           />
         </p>
         <p>
-          <button type="submit">Salvar</button>
+          <button className='button-cadastro' type="submit">Salvar</button>
         </p>
       </form>
     </div>
