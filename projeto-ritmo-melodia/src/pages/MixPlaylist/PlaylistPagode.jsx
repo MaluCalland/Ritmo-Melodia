@@ -69,18 +69,18 @@ function PlaylistPagode () {
   };
 
   const songs = [
-    { id: 'm0y4jzpqvEk', title: 'Pura Adrenalina', artist: 'Belo', image: cantor1 },
-    { id: '1hkf-46m6uM', title: 'Patricinha de Olho Azul', artist: 'Bom Gosto', image: cantor2 },
-    { id: 'O_vzefyV-4U', title: 'Tá Vendo Aquela Lua', artist: 'Exaltasamba', image: cantor3 },
-    { id: '6VwUblINw3A', title: "Interessante", artist: 'Ferrugem', image: cantor4 },
-    { id: '_0mAeu8s5eA', title: 'O Show Tem Que Continuar', artist: 'Grupo Fundo de Quintal', image: cantor5 },
-    { id: 'Bwh5UhZTtBI', title: 'A Pagodeira', artist: 'Marvilla', image: cantor6 },
-    { id: 'n5wxZ_OBUXk', title: 'Coração Partido', artist: 'Grupo Menos É Mais', image: cantor7 },
-    { id: 'T3Y6RRSDm4o', title: 'Até Que Durou', artist: 'Péricles', image: cantor8 },
-    { id: 'dqMMM6HXw_k', title: 'Mande um Sinal ', artist: 'Pixote', image: cantor9 },
-    { id: 'FVFAR1PJiWY', title: 'Ô Queiroz', artist: 'Grupo Revelação', image: cantor10 },
-    { id: 'Qj-qS4aV0UY', title: 'Falta Você', artist: 'Thiaguinho', image: cantor11 },
-    { id: 'S_SXl-ETXRI', title: 'Lancinho', artist: 'Turma do Pagode', image: cantor12 },
+    { id: 'm0y4jzpqvEk', title: 'Pura Adrenalina', artist: 'Belo', img: cantor1 },
+    { id: '1hkf-46m6uM', title: 'Patricinha de Olho Azul', artist: 'Bom Gosto', img: cantor2 },
+    { id: 'O_vzefyV-4U', title: 'Tá Vendo Aquela Lua', artist: 'Exaltasamba', img: cantor3 },
+    { id: '6VwUblINw3A', title: "Interessante", artist: 'Ferrugem', img: cantor4 },
+    { id: '_0mAeu8s5eA', title: 'O Show Tem Que Continuar', artist: 'Grupo Fundo de Quintal', img: cantor5 },
+    { id: 'Bwh5UhZTtBI', title: 'A Pagodeira', artist: 'Marvilla', img: cantor6 },
+    { id: 'n5wxZ_OBUXk', title: 'Coração Partido', artist: 'Grupo Menos É Mais', img: cantor7 },
+    { id: 'T3Y6RRSDm4o', title: 'Até Que Durou', artist: 'Péricles', img: cantor8 },
+    { id: 'dqMMM6HXw_k', title: 'Mande um Sinal ', artist: 'Pixote', img: cantor9 },
+    { id: 'FVFAR1PJiWY', title: 'Ô Queiroz', artist: 'Grupo Revelação', img: cantor10 },
+    { id: 'Qj-qS4aV0UY', title: 'Falta Você', artist: 'Thiaguinho', img: cantor11 },
+    { id: 'S_SXl-ETXRI', title: 'Lancinho', artist: 'Turma do Pagode', img: cantor12 },
   ];
 
   return (

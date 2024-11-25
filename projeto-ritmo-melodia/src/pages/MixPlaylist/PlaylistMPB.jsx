@@ -68,18 +68,18 @@ function PlaylistMPB() {
   };
 
   const songs = [
-    { id: 'wFjx3wMQtEU', title: 'Samba De Verão', artist: 'Caetano Veloso', image: cantor1 },
-    { id: 'lBrDZjuwKSw', title: 'Samurai', artist: 'Djavan', image: cantor2 },
-    { id: 'caEFyFRc91c', title: 'Tiro Ao Álvaro', artist: 'Elis Regina', image: cantor3 },
-    { id: 'q_dJUjmHIIM', title: "Folhetim", artist: 'Gal Costa', image: cantor4 },
-    { id: 'gWUAEnb4BVM', title: 'Oba, Lá Vem Ela', artist: 'Jorge Ben Jor', image: cantor5 },
-    { id: 't7M89YJAPhM', title: 'Ainda Bem', artist: 'Marisa Monte', image: cantor6 },
-    { id: 'L2bINZ0G_yI', title: 'Poema', artist: 'Ney Matogrosso', image: cantor7 },
-    { id: 'lG-eNorxpO0', title: 'Acenda o farol', artist: 'Tim Maia', image: cantor8 },
-    { id: 'Gb5sbORA62w', title: 'Onde Anda Você ', artist: 'Toquinho & Vinícius', image: cantor9 },
-    { id: 'VmxqhvnfMvI', title: 'Já Sei Namorar', artist: 'Tribalistas', image: cantor10 },
-    { id: 'hoDIORT5JL8', title: 'Ai, Ai, Ai...', artist: 'Vanessa Da Mata', image: cantor11 },
-    { id: 'zqKgYIqGmkM', title: 'Telegrama', artist: 'Zeca Baleiro', image: cantor12 },
+    { id: 'wFjx3wMQtEU', title: 'Samba De Verão', artist: 'Caetano Veloso', img: cantor1 },
+    { id: 'lBrDZjuwKSw', title: 'Samurai', artist: 'Djavan', img: cantor2 },
+    { id: 'caEFyFRc91c', title: 'Tiro Ao Álvaro', artist: 'Elis Regina', img: cantor3 },
+    { id: 'q_dJUjmHIIM', title: "Folhetim", artist: 'Gal Costa', img: cantor4 },
+    { id: 'gWUAEnb4BVM', title: 'Oba, Lá Vem Ela', artist: 'Jorge Ben Jor', img: cantor5 },
+    { id: 't7M89YJAPhM', title: 'Ainda Bem', artist: 'Marisa Monte', img: cantor6 },
+    { id: 'L2bINZ0G_yI', title: 'Poema', artist: 'Ney Matogrosso', img: cantor7 },
+    { id: 'lG-eNorxpO0', title: 'Acenda o farol', artist: 'Tim Maia', img: cantor8 },
+    { id: 'Gb5sbORA62w', title: 'Onde Anda Você ', artist: 'Toquinho & Vinícius', img: cantor9 },
+    { id: 'VmxqhvnfMvI', title: 'Já Sei Namorar', artist: 'Tribalistas', img: cantor10 },
+    { id: 'hoDIORT5JL8', title: 'Ai, Ai, Ai...', artist: 'Vanessa Da Mata', img: cantor11 },
+    { id: 'zqKgYIqGmkM', title: 'Telegrama', artist: 'Zeca Baleiro', img: cantor12 },
   ];
 
   return (

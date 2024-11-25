@@ -90,7 +90,7 @@ function PlaylistPop() {
           <div className="music-Container">
             <p className="music-Head-Name">{song.title}</p>
             <p className="music-Artist-Name">{song.artist}</p>
-            <img src={song.img} className={avatarClass[avatarClassIndex]} alt="song Avatar" id="songAvatar" />
+            <img src={song.image} className={avatarClass[avatarClassIndex]} alt="song Avatar" id="songAvatar" />
             <div className="musicControlers">
               <i className="fa fa-backward musicControler"></i>
               <i

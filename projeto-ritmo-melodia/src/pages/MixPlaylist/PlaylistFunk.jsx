@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import '../../css/DesignPlaylist.css';
-
+import YouTube from 'react-youtube';
 
 import cantor1 from '../../assets/images/playlist-funk/marcinho.jpg';
 import cantor2 from '../../assets/images/playlist-funk/leozinho.jpg';
@@ -14,8 +14,6 @@ import cantor9 from '../../assets/images/playlist-funk/FBC.webp';
 import cantor10 from '../../assets/images/playlist-funk/zaac.webp';
 import cantor11 from '../../assets/images/playlist-funk/kevin.jpeg';
 import cantor12 from '../../assets/images/playlist-funk/claudinho-e-buchecha.jpg';
-import YouTube from 'react-youtube';
-
 
 function PlaylistFunk() {
   // Estado para controlar o estado de reprodução de cada música
@@ -70,18 +68,18 @@ function PlaylistFunk() {
   };
 
   const songs = [
-    { id: 'am3U2a_wpV4', title: 'Glamurosa', artist: 'MC Marcinho, DJ Marlboro', image: cantor1 },
-    { id: 'ekg_x8EwCnc', title: 'Ela Só Pensa em Beijar', artist: 'MC Leozinho, DJ Marlboro', image: cantor2 },
-    { id: 'Gx9xqXlU9gE', title: 'Hoje Eu Vou Parar Na Gaiola', artist: 'Mc Livinho, Rennan da Penha', image: cantor3 },
-    { id: 'W6f8jlqRXB4', title: "Vou Desafiar Você", artist: 'Mc Sapão, DJ Detonna', image: cantor4 },
-    { id: 'um6fQzRg4hE', title: 'Só Você', artist: 'DENNIS, MC G15', image: cantor5 },
-    { id: '_Qub7jfzYQw', title: 'Amar Amei', artist: 'Mc Don Juan', image: cantor6 },
-    { id: 'fkQXies7DSQ', title: 'Na Ponta Ela Fica', artist: 'Delano', image: cantor7 },
-    { id: 'WMCKKUvwBCQ', title: 'Pra Inveja é Tchau', artist: 'MC Kevin e Mc Davi', image: cantor8 },
-    { id: '0tKvxIp29Js', title: 'Delírios ', artist: 'FBC, VHOOR, Djair Voz Cristalina', image: cantor9 },
-    { id: 'EWcOY14GWwM', title: 'Bumbum Granada', artist: 'Mc Zaac & Jerry Smith', image: cantor10 },
-    { id: '_4datNzTy1o', title: 'Evoluiu', artist: 'MC Kevin o Chris', image: cantor11 },
-    { id: 'pB_9IHBT2U8', title: 'Nosso Sonho', artist: 'Claudinho & Buchecha', image: cantor12 },
+    { id: 'am3U2a_wpV4', title: 'Glamurosa', artist: 'MC Marcinho, DJ Marlboro', img: cantor1 },
+    { id: 'ekg_x8EwCnc', title: 'Ela Só Pensa em Beijar', artist: 'MC Leozinho, DJ Marlboro', img: cantor2 },
+    { id: 'Gx9xqXlU9gE', title: 'Hoje Eu Vou Parar Na Gaiola', artist: 'Mc Livinho, Rennan da Penha', img: cantor3 },
+    { id: 'W6f8jlqRXB4', title: "Vou Desafiar Você", artist: 'Mc Sapão, DJ Detonna', img: cantor4 },
+    { id: 'um6fQzRg4hE', title: 'Só Você', artist: 'DENNIS, MC G15', img: cantor5 },
+    { id: '_Qub7jfzYQw', title: 'Amar Amei', artist: 'Mc Don Juan', img: cantor6 },
+    { id: 'fkQXies7DSQ', title: 'Na Ponta Ela Fica', artist: 'Delano', img: cantor7 },
+    { id: 'WMCKKUvwBCQ', title: 'Pra Inveja é Tchau', artist: 'MC Kevin e Mc Davi', img: cantor8 },
+    { id: '0tKvxIp29Js', title: 'Delírios ', artist: 'FBC, VHOOR, Djair Voz Cristalina', img: cantor9 },
+    { id: 'EWcOY14GWwM', title: 'Bumbum Granada', artist: 'Mc Zaac & Jerry Smith', img: cantor10 },
+    { id: '_4datNzTy1o', title: 'Evoluiu', artist: 'MC Kevin o Chris', img: cantor11 },
+    { id: 'pB_9IHBT2U8', title: 'Nosso Sonho', artist: 'Claudinho & Buchecha', img: cantor12 },
   ];
 
   return (
