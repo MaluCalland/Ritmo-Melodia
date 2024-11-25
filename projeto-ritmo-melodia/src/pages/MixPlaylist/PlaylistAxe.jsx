@@ -17,7 +17,7 @@ import cantor12 from '../../assets/images/playlist-axe/claudia-leitte.png';
 
 function PlaylistAxe() {
   // Estado para controlar o estado de reprodução de cada música
-  const [isAudioPlaying, setIsAudioPlaying] = useState(Array(12).fill(false)); // Inicializando um array com 12 músicas
+  const [isAudioPlaying, setIsAudioPlaying] = useState([false]); 
   const playerRefs = useRef([]); // Ref para os players do YouTube
 
   const avatarClass = ['objectFitCover', 'objectFitContain', 'none'];

@@ -13,210 +13,103 @@ import cantor9 from '../../assets/images/playlist-trap/Tasha-e-Tracie.webp';
 import cantor10 from '../../assets/images/playlist-trap/kay.avif';
 import cantor11 from '../../assets/images/playlist-trap/veigh.png';
 import cantor12 from '../../assets/images/playlist-trap/borges.png';
+import YouTube from 'react-youtube';
 
 function PlaylistTrap () {
+  // Estado para controlar o estado de reprodução de cada música
+  const [isAudioPlaying, setIsAudioPlaying] = useState([false]); 
+  const playerRefs = useRef([]); // Ref para os players do YouTube
 
-  const [isAudioPlaying, setIsAudioPlaying] = useState(false);
-  const [musicIndex, setMusicIndex] = useState(0);
+  const avatarClass = ['objectFitCover', 'objectFitContain', 'none'];
+  const [avatarClassIndex, setAvatarClassIndex] = useState(0);
 
-  const currentAudio = useRef()
+  // Função para controlar a reprodução
+  const handleAudioPlay = (index) => {
+    const newIsPlaying = [...isAudioPlaying];
 
-  let avatarClass = ['objectFitCover','objectFitContain','none']
-  const [avatarClassIndex, setAvatarClassIndex] = useState(0)
+    // Se a música que está sendo clicada já está tocando
+    if (newIsPlaying[index]) {
+      // Pausa a música
+      if (playerRefs.current[index] && playerRefs.current[index].internalPlayer) {
+        playerRefs.current[index].internalPlayer.pauseVideo();
+      }
+      newIsPlaying[index] = false;
+    } else {
+      // Se a música não está tocando, pausa todas as outras e toca a música atual
+      playerRefs.current.forEach((player, i) => {
+        if (i !== index && player && player.internalPlayer) {
+          player.internalPlayer.pauseVideo(); // Pausa outras músicas
+          newIsPlaying[i] = false; // Atualiza o estado das outras músicas
+        }
+      });
 
-  const handleAudioPlay = ()=>{
-    if (currentAudio.current.paused) {
-      currentAudio.current.play();
-      setIsAudioPlaying(true)
-    }else{
-      currentAudio.current.pause();
-      setIsAudioPlaying(false)
+      // Certificando que o player existe antes de tocar
+      if (playerRefs.current[index] && playerRefs.current[index].internalPlayer) {
+        playerRefs.current[index].internalPlayer.playVideo();
+      }
+      newIsPlaying[index] = true;
     }
-  }
 
-  const handleNextSong = ()=>{
-    if (musicIndex >= musicAPI.length - 1) {
-      let setNumber = 0;
-      setMusicIndex(setNumber);
-      updateCurrentMusicDetails(setNumber);
-    }else{
-      let setNumber = musicIndex + 1;
-      setMusicIndex(setNumber)
-      updateCurrentMusicDetails(setNumber);
-    }
-  }
+    // Atualiza o estado
+    setIsAudioPlaying(newIsPlaying);
+  };
 
-  const handlePrevSong = ()=>{
-    if (musicIndex === 0) {
-      let setNumber = musicAPI.length - 1;
-      setMusicIndex(setNumber);
-      updateCurrentMusicDetails(setNumber);
-    }else{
-      let setNumber = musicIndex - 1;
-      setMusicIndex(setNumber)
-      updateCurrentMusicDetails(setNumber);
-    }
-  }
- 
-    return (
-      <>
-      <div className="body-playlist">
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>Minha Vida é um Filme</p>
-          <p className='music-Artist-Name'>Teto</p>
-          <img src={cantor1} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>Coração de Gelo</p>
-          <p className='music-Artist-Name'>WIU</p>
-          <img src={cantor2} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>X1</p>
-          <p className='music-Artist-Name'>MC Cabelinho</p>
-          <img src={cantor3} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
+  // Configurações do YouTube Player
+  const opts = {
+    height: '0', // Não exibe o vídeo
+    width: '0',  // Não exibe o vídeo
+    playerVars: {
+      autoplay: 0, // Não começa automaticamente
+      controls: 0, // Não exibe controles
+      mute: 0, // Não muda o áudio
+      modestbranding: 1, // Remove a marca do YouTube
+      showinfo: 0, // Não mostra informações do vídeo
+    },
+  };
 
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>To Voando Alto</p>
-          <p className='music-Artist-Name'>Mc Poze do Rodo</p>
-          <img src={cantor4} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
 
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>Luxúria</p>
-          <p className='music-Artist-Name'>Xamã</p>
-          <img src={cantor5} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
+  const songs = [
+    { id: '  LhBTGI7AUfI', title: 'Minha Vida é um Filme', artist: 'Teto', image: cantor1 },
+    { id: ' p03BWB5SN4M', title: 'Coração de Gelo', artist: 'WIU', image: cantor2 },
+    { id: ' zgdQsLH7sDw', title: 'X1', artist: 'MC Cabelinho', image: cantor3 },
+    { id: 'LwPlWd48Erw', title: "To Voando Alto", artist: 'Mc Poze do Rodo', image: cantor4 },
+    { id: ' eycuj9jczm0', title: 'Luxúria', artist: 'Xamã', image: cantor5 },
+    { id: ' uzSme3PRhZ0', title: 'Perdição', artist: 'L7NNON', image: cantor6 },
+    { id: 'ZPcG9PCfagM', title: 'Máquina do Tempo', artist: 'Matuê', image: cantor7 },
+    { id: ' T2BQG_8CFHI', title: '10 Carros', artist: 'Chefin', image: cantor8 },
+    { id: 'FqhliaBW_rM', title: 'TANG', artist: 'Tasha e Trace', image: cantor9 },
+    { id: ' 0lgAIjua6pA', title: 'Melhor Só', artist: 'KayBlack', image: cantor10 },
+    { id: 'uGMQbSy_JTM', title: 'Novo Balanço', artist: 'Veigh', image: cantor11 },
+    { id: ' ba969xr3krs', title: 'Loucura', artist: 'Borges', image: cantor12 },
+  ];
 
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>Perdição</p>
-          <p className='music-Artist-Name'>L7NNON</p>
-          <img src={cantor6} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
+  return (
+    <div className="body-playlist">
+      {songs.map((song, index) => (
+        <div className="container" key={index}>
+          <div className="music-Container">
+            <p className="music-Head-Name">{song.title}</p>
+            <p className="music-Artist-Name">{song.artist}</p>
+            <img src={song.img} className={avatarClass[avatarClassIndex]} alt="song Avatar" id="songAvatar" />
+            <div className="musicControlers">
+              <i className="fa fa-backward musicControler"></i>
+              <i
+                className={`fa ${isAudioPlaying[index] ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`}
+                onClick={() => handleAudioPlay(index)} // Passa o índice para controlar a música específica
+              ></i>
+              <i className="fa fa-forward musicControler"></i>
+            </div>
 
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>Máquina do Tempo</p>
-          <p className='music-Artist-Name'>Matuê</p>
-          <img src={cantor7} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
+            {/* Componente YouTube (ocultando o vídeo) */}
+            <YouTube
+              videoId={song.videoId} // Usando o ID do vídeo da música
+              opts={opts}
+              ref={(el) => (playerRefs.current[index] = el)} // Ref para cada player
+            />
           </div>
         </div>
-      </div>
-
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>10 Carros</p>
-          <p className='music-Artist-Name'>Chefin</p>
-          <img src={cantor8} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
-
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>TANG</p>
-          <p className='music-Artist-Name'>Tasha e Trace</p>
-          <img src={cantor9} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
-
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>Melhor Só</p>
-          <p className='music-Artist-Name'>KayBlack</p>
-          <img src={cantor10} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
-
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>Novo Balanço</p>
-          <p className='music-Artist-Name'>Veigh</p>
-          <img src={cantor11} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
-
-      <div className="container">
-        <div className="music-Container">
-          <p className='music-Head-Name'>Loucura</p>
-          <p className='music-Artist-Name'>Borges</p>
-          <img src={cantor12} className={avatarClass[avatarClassIndex]}  alt="song Avatar" id='songAvatar'/>
-          <div className="musicControlers">
-            <i className='fa fa-backward musicControler' onClick={handlePrevSong}></i>
-            <i className={`fa ${isAudioPlaying ? 'fa-pause-circle' : 'fa-play-circle'} playBtn`} onClick={handleAudioPlay}></i>
-            <i className='fa fa-forward musicControler' onClick={handleNextSong}></i>
-          </div>
-        </div>
-      </div>
-      </div>
-      </>
-    );
-  }
+      ))}
+    </div>
+  );  }
   
   export default PlaylistTrap;  

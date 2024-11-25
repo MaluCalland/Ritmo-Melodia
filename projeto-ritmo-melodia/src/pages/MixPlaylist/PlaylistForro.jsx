@@ -1,5 +1,6 @@
 import { useRef, useState } from 'react';
 import '../../css/DesignPlaylist.css';
+import YouTube from 'react-youtube';
 
 import cantor1 from '../../assets/images/playlist-forro/gonzaga.png';
 import cantor2 from '../../assets/images/playlist-forro/dominguinhos.jpg';
@@ -13,11 +14,10 @@ import cantor9 from '../../assets/images/playlist-forro/dorgival.jpg';
 import cantor10 from '../../assets/images/playlist-forro/joao_gomes.jpg';
 import cantor11 from '../../assets/images/playlist-forro/ze-vaqueiro.png';
 import cantor12 from '../../assets/images/playlist-forro/TrioVirgulino.avif';
-import YouTube from 'react-youtube';
 
 function PlaylistForro() {
   // Estado para controlar o estado de reprodução de cada música
-  const [isAudioPlaying, setIsAudioPlaying] = useState([false, false, false, false, false, false, false, false, false, false, false, false]); // Cada música tem seu próprio estado
+  const [isAudioPlaying, setIsAudioPlaying] = useState([false]); 
   const playerRefs = useRef([]); // Ref para os players do YouTube
 
   const avatarClass = ['objectFitCover', 'objectFitContain', 'none'];
