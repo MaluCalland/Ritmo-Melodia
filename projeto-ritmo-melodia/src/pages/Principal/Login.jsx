@@ -25,6 +25,8 @@ const Login =  () => {
           const data = await response.json(); // Pega a resposta JSON
       
           if (response.ok) {
+            alert('Login realizado com sucesso!');
+            navigate("/");
             console.log(data);
           } else {
             // Exibe a mensagem de erro do backend
