@@ -1,68 +1,96 @@
-.body-cadastro{
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    align-items: center;     /* Centraliza verticalmente */
-    flex-direction: column;
-    height: 100vh;           /* Ocupa toda a altura da tela */
+/* Área principal */
+.body-cadastro {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
 }
-  
-  .tituloCadastro {
-    color: #000000;
-    text-align: center;
-    font-size: 2.5rem;
-    margin-bottom: 30px;
-  }
-  
+
+/* Formulário principal */
+.painelCadastro {
+  background-color: #1a1a1a;
+  padding: 40px 30px;
+  border-radius: 15px;
+  width: 100%;
+  max-width: 400px;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Título */
+.tituloCadastro {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #006BFF;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+/* Campo de input */
+.input-cadastro {
+  width: 100%;
+  padding: 12px 15px;
+  border: none;
+  border-radius: 8px;
+  background-color: #2c2c2c;
+  color: #ffffff;
+  font-size: 1rem;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+
+.input-cadastro::placeholder {
+  color: #aaaaaa;
+}
+
+/* Botão de envio */
+.button-cadastro {
+  background-color: #006BFF;
+  color: white;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  width: 100%;
+}
+
+.button-cadastro:hover {
+  background-color: #0052cc;
+  transform: scale(1.05);
+}
+
+/* Mensagem de erro */
+.error {
+  color: red;
+  font-size: 0.95rem;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* Responsivo */
+@media (max-width: 480px) {
   .painelCadastro {
-    width: 100%;
-    max-width: 400px;
-    background-color: #fff;
-    padding: 30px;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    display: flex;
-    justify-content: center; 
-    flex-direction: column;
-    max-width: 400px;
-    margin: 0 auto;
-  }
-  
-  .painelCadastro p {
-    width: 100%;
-    margin: 10px 0;
-    text-align: center;
-  }
-  
-.input-cadastro{
-    width: 100%;
-    padding: 12px;
-    border: 2px solid #ddd;
-    border-radius: 4px;
-    font-size: 1rem;
-    margin: 5px 0;
-    box-sizing: border-box;
-    transition: border-color 0.3s ease;
+    padding: 30px 20px;
   }
 
-  
-.button-cadastro {
-    width: 100%;
+  .tituloCadastro {
+    font-size: 1.7rem;
+  }
+
+  .input-cadastro {
+    font-size: 0.95rem;
     padding: 12px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    font-size: 1.2rem;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
   }
-  
-  .error {
-    color: red;
-    text-align: center;
-    font-size: 1rem;
-    margin-bottom: 20px;
+
+  .button-cadastro {
+    font-size: 0.95rem;
+    padding: 12px 20px;
   }
-  
+}

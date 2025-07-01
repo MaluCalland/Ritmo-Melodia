@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Pagode = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Pagode</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Pagode</h1>
       <div>
         <h2 className="cantores">Turma do Pagode</h2>
         <p>Turma do Pagode é um grupo brasileiro de pagode formado em 1994, na Zone Norte de São Paulo. Composto por amigos de longa data, o grupo se destacou por sua mistura de ritmos e letras que falam sobre amor, relacionamentos e a vida cotidiana. O Turma do Pagode rapidamente conquistou um espaço no cenário musical brasileiro, se tornando um dos representantes do pagode romântico.</p>

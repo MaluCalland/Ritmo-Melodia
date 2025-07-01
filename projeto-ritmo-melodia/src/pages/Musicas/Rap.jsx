@@ -4,10 +4,8 @@ import '../../css/Musicas.css';
 
 const Rap = () => {
   return (
-
-      <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Rap</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Rap</h1>
       <div> 
         <h2 className="cantores">Emicida</h2>
         <p>Emicida, nome artístico de Leandro Roque de Oliveira, nasceu em 7 de agosto de 1985, em São Paulo. Ele é um dos principais nomes do rap e da música brasileira contemporânea, conhecido por suas letras poéticas que abordam questões sociais, raciais e políticas.</p>

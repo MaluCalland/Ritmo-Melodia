@@ -1,71 +1,72 @@
-body-login {
-  margin: 0;
-  padding: 0;
+/* Área principal */
+.body-login {
+  background-color: #000000;
+  min-height: 100vh;
   display: flex;
-  justify-content: center; 
-  align-items: center;    
-  flex-direction: column;
-  height: 100vh;           
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
 }
 
+/* Formulário */
 .container-login {
-  width: 100%;
-  max-width: 400px;
-  background-color: #fff;
-  padding: 30px;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #1a1a1a;
+  padding: 40px 30px;
+  border-radius: 15px;
+  width: 50%;
+  color: #ffffff;
   display: flex;
-  justify-content: center; 
   flex-direction: column;
-  max-width: 400px;
-  margin: 0 auto;
-} 
+  align-items: center;
+}
 
 .titulo-login {
-  color: #000000;
-  text-align: center;
-  font-size: 2.5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #006BFF;
+  margin-bottom: 25px;
 }
 
+/* Campo de entrada */
 .input-field-login {
   position: relative;
   margin-bottom: 20px;
-}
-
-input {
   width: 100%;
-  padding: 12px;
-  border: 2px solid #ddd;
-  border-radius: 4px;
-  font-size: 1rem;
-  margin: 5px 0;
-  box-sizing: border-box;
-  transition: border-color 0.3s ease;
 }
 
-input:focus {
-  border-color:  #007bff;
-  outline: none;
+.input-field-login input {
+  width: 85%;
+  padding: 12px 40px 12px 15px;
+  border: none;
+  border-radius: 8px;
+  background-color: #2c2c2c;
+  color: #ffffff;
+  font-size: 1rem;
+}
+
+.input-field-login input::placeholder {
+  color: #aaaaaa;
 }
 
 .icon-login {
   position: absolute;
+  right: 15px;
   top: 50%;
-  left: 350px;
   transform: translateY(-50%);
+  color: #6198ff;
   font-size: 1.2rem;
-  color: black;
 }
 
+/* Esqueceu a senha */
 .recall-forget-login {
+  width: 100%;
   text-align: right;
-  margin-top: -10px;
+  margin-bottom: 25px;
 }
 
 .recall-forget-login a {
-  color:  #007bff;
   text-decoration: none;
+  color: #6198ff;
   font-size: 0.9rem;
 }
 
@@ -73,37 +74,54 @@ input:focus {
   text-decoration: underline;
 }
 
+/* Botões */
 .button-login {
-  width: 100%;
-  padding: 12px;
-  background-color:  #007bff;
-  color: #fff;
+  background-color: #006BFF;
+  color: white;
+  padding: 15px 30px;
   border: none;
-  border-radius: 4px;
-  font-size: 1.2rem;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 1rem;
   cursor: pointer;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 .button-login:hover {
-  background-color: #034286;
+  background-color: #0052cc;
+  transform: scale(1.05);
 }
 
+/* Cadastro */
 .signup-link-login {
-  text-align: center;
   margin-top: 20px;
+  text-align: center;
 }
 
 .signup-link-login p {
   margin: 5px 0;
-  font-size: 1rem;
 }
 
-.signup-link-login .button-login {
-  background-color:  #007bff;
-  font-size: 1rem;
-}
+/* Responsivo */
+@media (max-width: 480px) {
+  .container-login {
+    padding: 30px 20px;
+  }
 
-.signup-link-login .button-login:hover {
-  background-color:  #034286;
+  .titulo-login {
+    font-size: 1.7rem;
+  }
+
+  .input-field-login input {
+    padding: 12px 35px 12px 15px;
+  }
+
+  .icon-login {
+    font-size: 1rem;
+  }
+
+  .button-login {
+    font-size: 0.95rem;
+    padding: 10px 18px;
+  }
 }

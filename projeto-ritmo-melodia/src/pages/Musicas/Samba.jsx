@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Samba = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Samba</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Samba</h1>
       <div> 
         <h2 className="cantores">Alcione</h2>
         <p>Alcione, conhecida como a "Marrom", é uma das mais icônicas e respeitadas cantoras brasileiras, famosa por sua voz potente e profunda e pelo talento com gêneros como samba, bolero, MPB e jazz. Nascida Alcione Dias Nazareth em São Luís do Maranhão, em 21 de novembro de 1947, Alcione é uma das principais representantes do samba e da música romântica no Brasil. Ao longo de sua carreira, marcada pela versatilidade e pela paixão musical, conquistou uma vasta audiência e o respeito de colegas e fãs.</p>

@@ -14,6 +14,7 @@ import imagemSamba from '../../assets/images/samba.png';
 import imagemSertanejo from '../../assets/images/sertanejo.png'; 
 import imagemTrap from '../../assets/images/trap.jpg'; 
 
+import "../../css/Home.css"
 
 const Home = () => {
 
@@ -21,8 +22,8 @@ const Home = () => {
 
     return (
         <>
-        <div className='faixaInicial'>
-            <h1 className='tituloHome'>Ritmo & Melodia</h1>
+        <div >
+            <p class='tituloHome'>Ritmo & Melodia</p>
             <p className='subtituloHome'>Ritmos que ecoam, vozes que emocionam. Venha explorar o melhor da música brasileira!</p>
         </div>
 

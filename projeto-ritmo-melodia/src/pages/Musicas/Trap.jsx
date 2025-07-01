@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Trap = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Trap</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Trap</h1>
       <div> 
         <h2 className="cantores">Matuê</h2>
         <p>Matheus Brasileiro Aguiar, mais conhecido como Matuê, é um dos nomes mais influentes do cenário musical brasileiro, especialmente no universo do trap. Nascido em Fortaleza, Ceará, Matuê revolucionou o rap nacional com sua sonoridade única e letras impactantes.</p>

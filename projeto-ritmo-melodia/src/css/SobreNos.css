@@ -1,5 +1,5 @@
 .fundoSobreNos{
-    background-color:  #F3C623;
+    background-color: #1a1a1a;
     border-radius: 50px;
     margin: 20px;
     padding: 10px;
@@ -7,4 +7,6 @@
 
 .tituloSobreNos{
     text-align: center;
-}
+    color: #ffffff;
+    text-shadow: 2px 2px #006BFF;
+  }

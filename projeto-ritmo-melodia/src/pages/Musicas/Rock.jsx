@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Rock = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Rock</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Rock</h1>
       <div >
         <h2 className="cantores">Rita Lee</h2>
         <p>Rita Lee, nascida Rita Lee Jones em 31 de dezembro de 1947, em São Paulo, é uma das mais icônicas cantoras, compositores e multi-instrumentistas do Brasil. Ela é frequentemente chamada de "rainha do rock brasileiro" e é reconhecida por sua influência na música pop e rock nacional.</p>

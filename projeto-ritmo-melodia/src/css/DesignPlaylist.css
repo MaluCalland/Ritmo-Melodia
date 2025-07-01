@@ -63,7 +63,7 @@
     0 0 80px rgba(26,26,26,0.1);
     backdrop-filter: blur(15px);
     font-weight: 600;
-    background-color: rgb(46, 125, 53);
+    background-color: #1a1a1a;
 }
 
 .musicPlayer{

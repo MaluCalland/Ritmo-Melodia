@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Funk = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Funk</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Funk</h1>
       <div> 
         <h2 className="cantores">MC Leozinho</h2>
         <p>Leozinho, cujo nome verdadeiro é Leonardo Freitas, nasceu em 6 de maio de 1977, no Rio de Janeiro. Ele se destacou no cenário do funk brasileiro, especialmente no funk paulista. Desde jovem, Leozinho se envolveu com a música e rapidamente ganhou popularidade nas festas e bailes funk da região.</p>

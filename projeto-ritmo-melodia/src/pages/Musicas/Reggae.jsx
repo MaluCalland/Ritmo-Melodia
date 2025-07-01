@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Reggae = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Reggae</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Reggae</h1>
       <div> 
         <h2 className="cantores">Natiruts</h2>
         <p>Durante todos esses anos de banda criaram diversos hits que fazem sucesso no Brasil inteiro. O Natiruts começou no ano de 1996 em Brasília pelo vocalista Alexandre Carlo. Ele fazia faculdade mas desde sempre seu passatempo foi a música. Alexandre montou a primeira formação da banda com seus amigos de futebol da faculdade em 1997. Esse é o ano que o grupo, ainda “Nativus”, lança seu primeiro disco, que leva o mesmo nome da banda. Esse primeiro lançamento foi feito de forma independente e foi um sucesso indiscutível, ganhando seu primeiro disco de platina. A música destaque foi “Liberdade Pra Dentro da Cabeça”, e não é por acaso que a canção faz sucesso até os dias atuais. Anos se passaram e o Natiruts continua lançando músicas e álbuns de sucesso indiscutível. Em 2014 uma das canções de maior sucesso do Natiruts, “Andei Só”, ganhou seu videoclipe, se passando na cidade do Rio de Janeiro. A banda atinge não só um sucesso nacional, mas também internacional, fazendo turnês na Espanha, Argentina e Portugal.</p>

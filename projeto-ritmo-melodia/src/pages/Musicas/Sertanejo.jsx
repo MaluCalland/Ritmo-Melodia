@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Sertanejo = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Sertanejo</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Sertanejo</h1>
       <div> 
         <h2 className="cantores">Marília Mendonça</h2>
         <p>Marília Mendonça foi uma cantora e compositora brasileira que se destacou como uma das vozes mais icônicas da música sertaneja e do movimento "feminejo" no Brasil. Nascida em 22 de julho de 1995, em Cristianópolis, Goiás, ela começou sua carreira musical como compositora, escrevendo sucessos para artistas consagrados antes de se lançar como cantora. Com um estilo único, que mesclava letras sinceras e emotivas, a artista explorava temas como relacionamentos, superação e empoderamento feminino.</p>

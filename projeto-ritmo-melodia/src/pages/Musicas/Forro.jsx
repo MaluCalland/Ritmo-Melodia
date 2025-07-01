@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Forro = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Forró</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Forró</h1>
       <div >
         <h2 className="cantores">Zé Ramalho</h2>
         <p>Zé Ramalho, nascido José Ramalho Neto em 3 de outubro de 1949, em Brejo do Cruz, Paraíba, é um renomado cantor, compositor e músico brasileiro. Ele é conhecido por sua mistura de rock, música popular brasileira, e influências da música nordestina, além de suas letras poéticas e profundas.</p>

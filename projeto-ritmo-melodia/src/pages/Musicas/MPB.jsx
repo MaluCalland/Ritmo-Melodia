@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const MPB = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos da MPB</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas da MPB</h1>
       <div> 
         <h2 className="cantores">Caetano Veloso</h2>
         <p>Caetano Veloso é um dos mais influentes músicos e compositores brasileiros, nascido em 7 de agosto de 1942, em Santo Amaro, na Bahia. Ele é um dos principais representantes do movimento tropicalista, que mesclou elementos da cultura brasileira com influências internacionais nos anos 1960.</p>

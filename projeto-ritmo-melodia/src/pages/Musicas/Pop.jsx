@@ -4,9 +4,8 @@ import '../../css/Musicas.css';
 
 const Pop = () => {
   return (
-    <div>
-      <h1 className='tituloPaginaMusicas'>Alguns dos Artistas Mais Famosos do Pop</h1>
-
+    <div className='divMusicas'>
+      <h1 className='tituloPaginaMusicas'>Artistas do Pop</h1>
       <div> 
         <h2 className="cantores">Anitta</h2>
         <p>Anitta, cujo nome verdadeiro é Larissa de Macedo Machado, nasceu em 30 de março de 1993, no Rio de Janeiro, Brasil. Desde jovem, mostrou interesse pela música e pelo palco, começando sua carreira no funk carioca. Em 2013, ganhou destaque com o single "Show das Poderosas", que se tornou um grande sucesso e catapultou sua carreira.</p>

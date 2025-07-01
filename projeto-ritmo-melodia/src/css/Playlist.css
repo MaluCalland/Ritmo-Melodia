@@ -1,10 +1,12 @@
 .tituloPlaylist{
-    background-color:#F3C623;
     text-align: center;
-    border-radius: 50px;
-    margin: 20px;
-    height: 120px;
-    padding: 10px;
+    padding: 30px 20px;
+}
+
+.tituloPlaylist h1 {
+    font-size: 2.5rem;
+    color: #ffffff;
+    text-shadow: 2px 2px #006BFF;
 }
 
 .buttonCategoria{
@@ -12,18 +14,22 @@
     gap: 8px;
     overflow: auto;
     scrollbar-width: none;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px;
 }
 
 .buttonItem{
     border: 1px solid rgb(4, 68, 107);
     border-radius: 10px;
-    color:  rgb(4, 68, 107);
+    color:  #006BFF;
     font-size: 14px;
     font-weight: 600;
     letter-spacing: 2.5px;
     padding:8px 20.6px;
-    transition: all .5s;
     cursor: pointer;
+    margin: 5px;
+    transition: all 0.3s ease;
 }
 
 .flex-conteiner-playlist{
