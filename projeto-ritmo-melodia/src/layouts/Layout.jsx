@@ -1,5 +1,5 @@
 import React from 'react'
-import "../../css/Layout.css"
+import "../css/Layout.css"
 import { Outlet, useNavigate  } from "react-router-dom";
 
 const Layout = () => {

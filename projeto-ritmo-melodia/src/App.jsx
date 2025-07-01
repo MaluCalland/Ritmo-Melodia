@@ -5,7 +5,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css"
 
 //importando funcionalidades das paginas "centrais": home, layout, duvidas, login (cadastro)
-import Layout from "./pages/Principal/Layout";
+import Layout from "./layouts/Layout";
 import Home from "./pages/Principal/Home";
 import Login from "./pages/Principal/Login";
 import Playlist from "./pages/Principal/Playlist";
